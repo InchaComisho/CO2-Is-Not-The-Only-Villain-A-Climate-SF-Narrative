@@ -12,6 +12,12 @@ The story explores the idea that CO₂ reduction alone may be insufficient if oc
 
 This is not a scientific paper, prediction, engineering specification, or policy recommendation. It is a **narrative companion** to the Direct Planetary Cooling / Ocean Breathing System / Ultrasonic Mist Cooling concepts.
 
+## Japanese Original
+
+The Japanese original version is available on **Shosetsuka ni Naro**:
+
+- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？](https://ncode.syosetu.com/n7832mg/)
+
 ## Credits
 
 - **Original Concept and Core Ideas:** Master
