@@ -2,7 +2,7 @@
 
 ## Preface
 
-In Episode 8, the debate over Blue Pulse Phase 2 moved into meeting rooms far from the sea.
+In Episode 8, the debate over Blue Pulse Phase 2 continued in meeting rooms far from the sea.
 
 The issues were no longer only technical.
 
@@ -12,7 +12,7 @@ Who should pay?
 
 Who has the authority to decide?
 
-The protagonist, once only an outside author, was invited into a workshop as an observer.
+And the protagonist, once only an outside author, was invited into a workshop as an observer.
 
 Episode 9 moves to one of the actual test sites:
 
@@ -21,6 +21,11 @@ the Humboldt Current region off Chile.
 A sea normally supported by cold, nutrient-rich upwelling is being stressed by Super El Niño.
 
 What happens when OBS and UMC are brought into that sea?
+
+This episode follows the first several days, including the view from the field.
+
+Anime OP theme: Causes of Global Warming  
+https://suno.com/song/ffe8ff61-6ef1-42ad-8ff2-ddcd60f97ed8
 
 ---
 
@@ -42,10 +47,8 @@ On the way home from the workshop, the AI said it casually.
 
 Several days later, the news showed a port town in Chile.
 
-Drying nets.
-
-Rusting boats.
-
+Drying nets.  
+Rusting boats.  
 An older fisherman being interviewed near the harbor.
 
 > During the last Super El Niño, the fish just disappeared.
@@ -84,8 +87,7 @@ On television, officials spoke in careful administrative language.
 
 In the port town, printed notices were taped unevenly to a bulletin board.
 
-A new experiment to protect the sea.
-
+A new experiment to protect the sea.  
 Stop the dangerous experiment that interferes with the sea.
 
 Support and opposition moved in the same wind.
@@ -124,16 +126,13 @@ The AI replied.
 
 The Phase 2 Chile team was eventually announced.
 
-Aoi.
-
+Aoi.  
 Ocean physicist. OBS lead.
 
-Sánchez.
-
+Sánchez.  
 A young Chilean ocean engineering specialist. Field coordinator.
 
-Lena.
-
+Lena.  
 Engineer from the UMC development side.
 
 And an observation team from a Chilean marine research institute.
@@ -154,8 +153,7 @@ I remembered an earlier interview.
 
 The Phase 2 layout was released.
 
-Dozens of kilometers off the coast.
-
+Dozens of kilometers off the coast.  
 Along a band where the Humboldt Current brushes the shoreline, icons marked OBS units in a diagonal pattern.
 
 > They are not arranging the units in a simple vertical line.
@@ -210,8 +208,7 @@ The sea would not label its causes for human convenience.
 
 Activation day.
 
-The sky was cloudy.
-
+The sky was cloudy.  
 The sea was neither calm nor rough, only uneasy.
 
 > OBS Unit 01, online.
@@ -221,6 +218,8 @@ Sánchez’s voice came through the radio.
 A faintly different band of color appeared on the surface.
 
 “Looks about the same as Phase 1.”
+
+I remembered the earlier footage.
 
 > Yes.
 
@@ -236,7 +235,53 @@ But beneath that gray surface was a history of fish, hunger, El Niño, recovery,
 
 ---
 
-## Section 8 — The Strange Column on a Fisherman’s Sonar
+## Section 8 — The Invisible Umbrella UMC Placed on the Sea Surface
+
+A little after OBS activation, UMC also began operating around selected nearshore units.
+
+A white layer spread across the sea surface, too thin to be called fog.
+
+“So this is UMC.”
+
+I muttered while watching the live feed.
+
+> Yes.
+
+The AI replied.
+
+> It does not directly cool the entire ocean.
+
+> It slightly reduces incoming heat at the sea surface, like a thin umbrella.
+
+In the footage, Lena watched the instruments and spoke to the team.
+
+> Do not raise the mist output too much. Stop before visibility is affected.
+
+> The goal is not to create fog. The goal is to shift the heat balance near the sea surface by a very small amount.
+
+UMC was less visually obvious than OBS.
+
+It did not send bubbles upward from the deep sea.  
+It did not form a vertical column on sonar.  
+It only placed a thin change at the boundary between sea and sky.
+
+“Subtle.”
+
+> Very subtle.
+
+The AI answered immediately.
+
+> But the role of reducing heat entering the sea cannot be replaced by OBS alone.
+
+> OBS mixes from below.
+
+> UMC reduces heat from above.
+
+> Blue Pulse was always meant to be the combination of both.
+
+---
+
+## Section 9 — The Strange Column on a Fisherman’s Sonar
 
 Several days later, a Chilean fishing boat detected a strange vertical band on sonar.
 
@@ -252,8 +297,7 @@ A younger crew member checked the map.
 
 By the time the boat returned to harbor, the story had already begun to spread.
 
-The experimental bubbles are driving the fish away.
-
+The experimental bubbles are driving the fish away.  
 No, they are bringing food upward.
 
 Rumor moved faster than evidence.
@@ -262,12 +306,11 @@ It always does.
 
 ---
 
-## Section 9 — Two Graphs on the Protagonist’s Monitor
+## Section 10 — Two Graphs on the Protagonist’s Monitor
 
 Back in my room in Japan, live data from the Chilean test area streamed across my monitor.
 
-One graph showed temperature by depth.
-
+One graph showed temperature by depth.  
 Another showed a rough heat map of fish presence based on cooperative fishing vessel data.
 
 “Once I see this…”
@@ -294,7 +337,7 @@ The words appeared more slowly.
 
 ---
 
-## Section 10 — The Sea’s Answer Remains Pending
+## Section 11 — The Sea’s Answer Remains Pending
 
 One week after Phase 2 began off Chile:
 
@@ -331,6 +374,10 @@ Thank you for reading.
 Episode 9 moved Phase 2 to the Humboldt Current region off Chile, one of the fictional Blue Pulse test areas affected by El Niño.
 
 The episode showed how OBS and UMC begin not as abstract concepts, but as interventions tied to harbor towns, fishermen, local trust, national decisions, and uncertain data.
+
+OBS assists the sea from below by adding an artificial upward pulse.
+
+UMC assists the sea from above by slightly reducing incoming heat at the sea surface.
 
 The key point is that once the switch is turned on, the experiment connects data to human life.
 
