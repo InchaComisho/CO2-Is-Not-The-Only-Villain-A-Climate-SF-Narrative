@@ -1,5 +1,7 @@
 # CO₂ Is Not the Only Villain: A Climate SF Narrative
 
+A climate fiction narrative that serves as a gateway to Direct Planetary Cooling, Ocean Breathing, Mist Cooling, Soil Regeneration, and Artificial Wisdom.  
+
 > A speculative environmental SF narrative about ocean heat, carbon fixation, weakened circulation, and the difficult question of whether civilization should reach toward the sea.
 
 ## Important Note
