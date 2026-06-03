@@ -1,0 +1,122 @@
+# Trinity Equatorial Belt Conceptual Simulation -- Default Parameters
+#
+# IMPORTANT:
+# These parameters define a simplified educational toy model.
+# They are NOT derived from real oceanographic or land-surface measurements.
+# This simulation is NOT a real climate forecast, NOT engineering validation,
+# and NOT a policy recommendation. It is a narrative and educational tool.
+#
+# All values are illustrative estimates with no claim of operational accuracy.
+
+# --- Equatorial Belt Grid Definition ---
+equatorial_belt:
+  latitude_min: -15
+  latitude_max: 15
+  longitude_min: -180
+  longitude_max: 180
+  grid_resolution_degrees: 5   # 5-degree cells (simplified toy grid)
+
+# --- Deployment Scenarios (total units) ---
+deployment_scenarios:
+  - 1
+  - 100
+  - 1000
+  - 10000
+  - 50000
+  - 100000
+  - 250000
+  - 500000
+
+# --- Deployment Allocation (shares must sum to 1.0) ---
+# Each "deployment unit" represents a conceptual deployment-intensity unit.
+# Not every unit is the same physical machine.
+deployment_allocation:
+  ocean_obs_share: 0.50          # OBS / deep ocean aeration in ocean cells
+  ocean_umc_share: 0.20          # UMC / mist cooling over ocean surface
+  land_umc_share: 0.15           # UMC / mist cooling over land / dryland cells
+  land_soil_regeneration_share: 0.15  # soil regeneration over equatorial land cells
+
+# --- Per-Unit Effective Influence Area ---
+# Note: These are BELT-SCALE values representing the influence zone of
+# one deployment cluster in the equatorial-belt context.
+# These are intentionally larger than Blue Pulse point-unit areas (5 km2)
+# because this model operates at equatorial-belt scale.
+# For reference, Blue Pulse point-unit reference: 5 km2 per unit.
+# Adjust these to explore sensitivity.
+unit_effective_area_km2:
+  ocean_obs_default: 2500        # km2 per ocean OBS cluster unit
+  ocean_umc_default: 2000        # km2 per ocean UMC cluster unit
+  land_umc_default: 1500         # km2 per land UMC cluster unit
+  soil_regeneration_default: 1000  # km2 per soil regeneration cluster unit
+  # Blue Pulse single-unit reference (for documentation):
+  ocean_obs_point_unit: 5
+  ocean_umc_point_unit: 4
+  land_umc_point_unit: 3
+  soil_regeneration_point_unit: 2
+
+# --- Effect Strength Parameters ---
+effect_strength:
+  obs_ocean_heat_reduction_local_c: 0.12       # illustrative local SST reduction per OBS unit influence zone
+  umc_ocean_peak_heat_reduction_local_c: 0.10  # illustrative local SST peak reduction per UMC unit zone
+  umc_land_peak_heat_reduction_local_c: 0.18   # illustrative land surface peak reduction per UMC unit zone
+  soil_carbon_sink_recovery_per_coverage: 0.35 # illustrative terrestrial carbon sink recovery per coverage fraction
+  soil_water_retention_recovery_per_coverage: 0.30  # water retention recovery per coverage fraction
+  ecosystem_recovery_per_coverage: 0.25        # ecosystem recovery index rate per coverage fraction
+
+# --- Synergy Factors ---
+synergy:
+  ocean_obs_umc_synergy_factor: 1.15    # OBS below + UMC above compound effect
+  land_umc_soil_synergy_factor: 1.25    # UMC cooling + soil regeneration compound effect
+  ocean_land_coupling_factor: 0.20      # fraction of ocean benefit that reduces land stress
+  trinity_system_synergy_factor: 1.10   # whole-system synergy when all three pillars operate
+
+# --- Saturation Caps ---
+saturation:
+  formula: "1 - exp(-effective_area / target_area)"
+  max_ocean_heat_reduction_c: 0.35           # ceiling on local ocean SST reduction estimate
+  max_land_heat_reduction_c: 0.50            # ceiling on local land surface temperature reduction
+  max_carbon_sink_recovery_percent: 40       # ceiling on carbon sink recovery proxy
+  max_compound_risk_reduction_percent: 45    # ceiling on compound risk reduction estimate
+
+# --- Baseline Reference Values ---
+baseline:
+  equatorial_ocean_heat_stress_index: 85
+  equatorial_land_heat_stress_index: 75
+  drought_stress_index: 70
+  soil_degradation_index: 65
+  carbon_sink_weakness_index: 70
+  ecosystem_vulnerability_index: 80
+  baseline_super_el_nino_sst_anomaly_c: 2.0
+  baseline_marine_heatwave_days: 120
+
+# --- Risk Model ---
+risk:
+  ocean_intervention_risk_exponent: 1.35
+  land_intervention_risk_exponent: 1.15
+  governance_risk_exponent: 1.40
+  public_trust_risk_exponent: 1.30
+  max_intervention_risk: 100
+
+# --- Simplified Land Region Boxes (toy mask, not a real geographic model) ---
+# South America land zone
+land_regions:
+  south_america:
+    lon_min: -82
+    lon_max: -35
+    lat_min: -15
+    lat_max: 15
+  africa:
+    lon_min: -20
+    lon_max: 50
+    lat_min: -15
+    lat_max: 15
+  southeast_asia:
+    lon_min: 95
+    lon_max: 150
+    lat_min: -10
+    lat_max: 15
+  north_australia:
+    lon_min: 120
+    lon_max: 150
+    lat_min: -15
+    lat_max: -5

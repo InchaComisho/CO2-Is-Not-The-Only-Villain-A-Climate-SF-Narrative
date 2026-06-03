@@ -78,6 +78,23 @@ Key concept pages:
 
 ---
 
+## Trinity Equatorial Belt Simulation
+
+This repository also includes a conceptual simulation of the full Trinity Model deployed across a simplified equatorial belt. Unlike the Blue Pulse-only model, this simulation combines:
+
+- **Deep Ocean Aeration / OBS** — ocean circulation recovery in tropical ocean cells
+- **Mist Cooling / UMC** — sea-surface and land-surface heat-load reduction
+- **Soil Regeneration** — terrestrial carbon-sink and water-retention recovery
+
+The model compares deployment scales from 1 unit to 500,000 units and estimates illustrative changes in ocean heat stress, land heat stress, soil recovery, carbon sink recovery, compound risk reduction, and intervention risk.
+
+> **Important:** This is a toy model for narrative and educational purposes. It is not a climate forecast, engineering validation, or policy recommendation.
+
+- [Trinity Equatorial Belt Simulation](docs/concepts/trinity-equatorial-belt-simulation.md)
+- [Simulation Directory](simulations/trinity-equatorial-belt/)
+
+---
+
 ## Blue Pulse Conceptual Simulation
 
 This repository includes a simplified conceptual simulation for the fictional Blue Pulse project. It compares possible deployment scales from 1 unit to 100,000+ units and estimates illustrative changes in regional sea-surface heat stress, marine heatwave days, ecosystem recovery proxies, and intervention risk.

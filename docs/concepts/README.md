@@ -42,3 +42,4 @@ These concepts are part of Master / InchaComisho's conceptual framework and are 
 ## Simulation and Scenario Models
 
 - [Blue Pulse Simulation Model](blue-pulse-simulation-model.md) — a simplified educational toy model estimating Blue Pulse deployment at scales from 1 to 100,000+ units (not a real climate forecast)
+- [Trinity Equatorial Belt Simulation](trinity-equatorial-belt-simulation.md) — conceptual three-pillar model (OBS + UMC + soil regeneration) across the equatorial belt, 1 to 500,000 units (not a real climate forecast)

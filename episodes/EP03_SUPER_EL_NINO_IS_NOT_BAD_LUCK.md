@@ -522,6 +522,7 @@ This episode introduces Super El Niño not as an unlucky year but as a compound 
 **Concept pages:**
 
 - [Super El Niño Compound Risk](../docs/concepts/super-el-nino-compound-risk.md) — why extreme El Niño is a multi-layer crisis, not just a weather event
+- [Trinity Equatorial Belt Simulation](../docs/concepts/trinity-equatorial-belt-simulation.md) — the equatorial belt is the domain most affected by ENSO; this toy model explores what belt-wide intervention might conceptually look like
 
 **Related background repositories:**
 

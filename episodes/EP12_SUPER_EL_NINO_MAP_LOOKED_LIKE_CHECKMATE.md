@@ -1036,6 +1036,7 @@ This final episode returns to the Super El Niño map — the "checkmate" image �
 - [Super El Niño Compound Risk](../docs/concepts/super-el-nino-compound-risk.md) — why the map looks like checkmate
 - [Trinity Model](../docs/concepts/trinity-model.md) — the three-layer answer synthesized across the story
 - [Direct Planetary Cooling](../docs/concepts/direct-planetary-cooling.md) — the overarching framework this episode completes
+- [Trinity Equatorial Belt Simulation](../docs/concepts/trinity-equatorial-belt-simulation.md) — companion toy model showing the compound-risk reduction this episode calls for, at scale
 
 **Related background repositories:**
 

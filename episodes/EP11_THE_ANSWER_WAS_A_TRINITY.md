@@ -997,6 +997,7 @@ This episode names the Trinity Model: deep ocean aeration (OBS) + mist cooling (
 - [Trinity Model](../docs/concepts/trinity-model.md) — the three-layer synthesis and its logic
 - [Direct Planetary Cooling](../docs/concepts/direct-planetary-cooling.md) — the overarching framework
 - [Soil Regeneration / Leaf Mold / Microorganisms](../docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) — the third pillar introduced in this episode
+- [Trinity Equatorial Belt Simulation](../docs/concepts/trinity-equatorial-belt-simulation.md) — conceptual toy model showing how all three pillars scale together across the equatorial belt
 
 **Related background repositories:**
 
