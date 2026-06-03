@@ -1029,7 +1029,15 @@ Editing and style adjustment: G (ChatGPT)
 
 ## Related Background
 
-This final episode returns to the Super El Niño map and synthesizes all twelve episodes into the conclusion that climate action requires a multi-layered response. For the conceptual background:
+This final episode returns to the Super El Niño map — the "checkmate" image — and synthesizes all twelve episodes: climate action requires a multi-layered response, not a single fix.
+
+**Concept pages:**
+
+- [Super El Niño Compound Risk](../docs/concepts/super-el-nino-compound-risk.md) — why the map looks like checkmate
+- [Trinity Model](../docs/concepts/trinity-model.md) — the three-layer answer synthesized across the story
+- [Direct Planetary Cooling](../docs/concepts/direct-planetary-cooling.md) — the overarching framework this episode completes
+
+**Related background repositories:**
 
 - El Niño, Super El Niño, Global Warming, and Ecosystem Disruption:
   https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption

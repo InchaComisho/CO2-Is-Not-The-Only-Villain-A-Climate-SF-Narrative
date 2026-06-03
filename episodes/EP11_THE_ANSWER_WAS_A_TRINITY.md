@@ -990,16 +990,21 @@ Editing and style adjustment: G (ChatGPT)
 
 ## Related Background
 
-This episode reveals the trinity model: deep ocean aeration (OBS), mist cooling (UMC), and soil regeneration — the three pillars of Direct Planetary Cooling. For the conceptual background:
+This episode names the Trinity Model: deep ocean aeration (OBS) + mist cooling (UMC) + soil regeneration — three pillars that must move together for Earth's cooling capacity to recover.
+
+**Concept pages:**
+
+- [Trinity Model](../docs/concepts/trinity-model.md) — the three-layer synthesis and its logic
+- [Direct Planetary Cooling](../docs/concepts/direct-planetary-cooling.md) — the overarching framework
+- [Soil Regeneration / Leaf Mold / Microorganisms](../docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) — the third pillar introduced in this episode
+
+**Related background repositories:**
 
 - Direct Planetary Cooling (overview):
   https://github.com/InchaComisho/Direct-Planetary-Cooling
 
 - Global Direct Planetary Cooling System:
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
-
-- Global Direct Planetary Cooling Architecture:
-  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
 
 - Global Planetary Cooling Ecosystem Regeneration System (soil and ecosystem recovery):
   https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System

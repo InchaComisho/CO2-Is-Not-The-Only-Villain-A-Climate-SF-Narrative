@@ -390,7 +390,15 @@ The next episode moves the timeline forward: benefits and side effects become cl
 
 ## Related Background
 
-This episode depicts the Blue Pulse Phase 2 field deployment off Chile: artificial upwelling combined with OBS nanobubble columns and UMC mist cooling in El Niño-affected waters. The ocean's response is ambiguous, and the question of what counts as progress remains open. For the conceptual background (these are not scientific papers; they are conceptual models connecting to the narrative):
+This episode depicts Blue Pulse Phase 2 off Chile: artificial upwelling combined with OBS nanobubble columns and UMC mist cooling in El Niño-affected waters. The ocean's response is ambiguous, and the question of what counts as progress remains open. (These are conceptual models, not scientific papers.)
+
+**Concept pages:**
+
+- [Blue Pulse](../docs/concepts/blue-pulse.md) — the project and Phase 2 context
+- [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — OBS as the core upwelling mechanism
+- [Ultrasonic Mist Cooling](../docs/concepts/ultrasonic-mist-cooling.md) — UMC as the surface cooling complement deployed alongside OBS
+
+**Related background repositories:**
 
 - Ocean Breathing / Deep Aeration (OBS — the core mechanism of artificial upwelling):
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding

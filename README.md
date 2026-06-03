@@ -24,14 +24,40 @@ The Japanese original version is available on **Shosetsuka ni Naro**:
 - **Narrative Drafting:** Real (Perplexity)
 - **Editing and Language Refinement:** G (ChatGPT)
 
-## About This Narrative
+---
+
+## Narrative as a Gateway
+
+This narrative is a fictional gateway into a broader technical and philosophical framework.
+
+The story introduces the reader to the idea that climate change is not only a CO₂ problem, but also a crisis of ocean circulation, planetary heat balance, soil carbon fixation, microorganisms, and living circulation systems.
 
 The story begins with a protagonist who believed that CO₂ was the single villain behind climate change. Through dialogue with an unnamed AI, he gradually realizes that the crisis is not only about emissions, but also about the systems that once absorbed, stored, circulated, and moderated heat and carbon.
 
 The later episodes move from explanation to speculative implementation: Ocean Breathing System (OBS), Ultrasonic Mist Cooling (UMC), and the fictional Blue Pulse project. The story asks not only whether such interventions could work, but also who decides, who pays, who bears the risk, and what it means to do nothing.
 
-This narrative is a fictional gateway into a broader technical and philosophical framework.
-The story introduces the reader to the idea that climate change is not only a CO₂ problem, but also a crisis of ocean circulation, planetary heat balance, soil carbon fixation, microorganisms, and living circulation systems.
+---
+
+## Concept Index
+
+The original concepts used in this story are documented in:
+
+**[docs/concepts/](docs/concepts/README.md)**
+
+Key concept pages:
+
+- [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md)
+- [Trinity Model](docs/concepts/trinity-model.md)
+- [Blue Pulse](docs/concepts/blue-pulse.md)
+- [Ocean Breathing System](docs/concepts/ocean-breathing-system.md)
+- [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md)
+- [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle.md)
+- [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md)
+- [Intervention Ethics](docs/concepts/intervention-ethics.md)
+- [Artificial Wisdom](docs/concepts/artificial-wisdom.md)
+- [Natural Supplementation](docs/concepts/natural-supplementation.md)
+
+---
 
 ## Episodes
 
@@ -45,6 +71,10 @@ The story introduces the reader to the idea that climate change is not only a CO
 8. [Episode 08 — The Meeting Room That Decides Whether to Continue Is Too Far From the Sea](episodes/EP08_THE_MEETING_ROOM_TOO_FAR_FROM_THE_SEA.md)
 9. [Episode 09 — What Happened When Artificial Upwelling Was Added off Chile](episodes/EP09_ARTIFICIAL_UPWELLING_OFF_CHILE.md)
 10. [Episode 10 — The Day We Were Asked Whether We Would Still Reach Toward the Sea](episodes/EP10_THE_DAY_WE_WERE_ASKED_IF_WE_STILL_REACH_FOR_THE_SEA.md)
+11. [Episode 11 — The Answer Was a Trinity](episodes/EP11_THE_ANSWER_WAS_A_TRINITY.md)
+12. [Episode 12 — When I Saw the Super El Niño Map, It Looked Like Checkmate](episodes/EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
+
+---
 
 ## Key Concepts
 
@@ -58,23 +88,40 @@ The story introduces the reader to the idea that climate change is not only a CO
 - The ethics of intervention and non-intervention
 - The risk of doing something, and the risk of doing nothing
 
-## Related Technical Articles and Background Research
+---
+
+## Episode-to-Concept Mapping
+
+| Episode | Narrative Theme | Concept Pages | Related Background |
+|---|---|---|---|
+| 1–2 | CO₂-only framing and carbon fixation systems | [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle.md), [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md) | Direct Planetary Cooling, Microorganisms |
+| 3 | El Niño and Super El Niño | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md) | El Niño / Super El Niño repository |
+| 4–5 | Ocean heat and OBS / deep ocean aeration | [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Deep Ocean Aeration](docs/concepts/deep-ocean-aeration.md) | Ocean Breathing, Ocean Temperature Reduction |
+| 6–8 | Blue Pulse, governance, and intervention ethics | [Blue Pulse](docs/concepts/blue-pulse.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | OBS / UMC / OTU |
+| **9** | **Chile offshore Phase 2, artificial upwelling, OBS + UMC field deployment** | [Blue Pulse](docs/concepts/blue-pulse.md), [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md) | **Ocean Breathing / Ocean Temperature Reduction / UMC** |
+| **10** | **Blue Pulse evaluation, OBS + UMC risk-benefit balance, intervention ethics** | [Blue Pulse](docs/concepts/blue-pulse.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | **Ocean Breathing / UMC / OTU** |
+| **11** | **Direct Planetary Cooling and the trinity model** | [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md), [Trinity Model](docs/concepts/trinity-model.md), [Soil Regeneration](docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) | **Ecosystem Regeneration / Microorganisms** |
+| **12** | **Super El Niño compound risk and final synthesis** | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md), [Trinity Model](docs/concepts/trinity-model.md) | **El Niño / Direct Planetary Cooling** |
+
+---
+
+## Related Technical Background Repositories
 
 The following repositories provide the conceptual background and technical framework behind this narrative. They are not scientific papers or official specifications; they represent a conceptual model and educational framework connecting to the themes explored in the story.
 
-### Direct Planetary Cooling / 地球直接冷却
+### Direct Planetary Cooling
 
 - [The Only Viable Solution to Global Warming: Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
 - [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 - [Global Direct Planetary Cooling System](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System)
 - [Global Direct Planetary Cooling Architecture](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture)
 
-### OBS / Ocean Breathing / Deep Ocean Aeration / 海洋循環再起動
+### Ocean Breathing / OBS / Ocean Cooling
 
 - [Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding)
 - [Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding)
 
-### UMC / Mist Cooling / 海面・都市・砂漠冷却
+### UMC / Mist Cooling
 
 - [Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation)
 
@@ -83,30 +130,14 @@ The following repositories provide the conceptual background and technical frame
 - [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
 - [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
 
-### El Niño / Super El Niño / Ecosystem Disruption
+### El Niño / Super El Niño
 
 - [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)
 
-### Soil Regeneration / Microorganisms / 腐葉土・微生物・炭素固定源
+### Soil / Microorganisms / Ecosystem Regeneration
 
 - [The Importance of Microorganisms](https://github.com/InchaComisho/The-Importance-of-Microorganisms)
 - [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
-
----
-
-## Episode-to-Background Mapping
-
-| Episode | Main Theme | Key Concepts in Episode | Related Background Repositories |
-|---|---|---|---|
-| 1–2 | CO₂-only framing and carbon fixation systems | Net Zero limits; soil, plankton, microorganism carbon storage | Direct Planetary Cooling; Microorganisms |
-| 3 | El Niño and Super El Niño | Ocean heat as compound risk driver; not just an unlucky year | El Niño / Super El Niño |
-| 4–5 | Ocean heat accumulation and OBS introduction | Why CO₂ reduction cannot remove stored heat; the Ocean Breathing System concept | Ocean Breathing; Ocean Temperature Reduction |
-| 6–7 | Blue Pulse Phase 1 launch and first OBS field results | Implementation barriers; early ocean response data | Ocean Breathing; UMC |
-| 8 | Governance and decision-making far from the sea | Who decides, who pays; intervention ethics and authority | Ocean Breathing; OTU |
-| **9** | **Chile offshore Phase 2 — artificial upwelling, OBS + UMC field deployment** | Combined OBS + UMC test in El Niño-affected waters off Chile; field ambiguity | **Ocean Breathing; Ocean Temperature Reduction; UMC** |
-| **10** | **Blue Pulse evaluation — OBS + UMC risk-benefit balance and intervention ethics** | Cost, risk, sovereignty; ethics of action vs. inaction; protagonist's decision point | **Ocean Breathing; UMC; OTU** |
-| **11** | **Direct Planetary Cooling and the trinity model** | Ocean aeration + mist cooling + soil regeneration as a unified framework | **Direct Planetary Cooling; Ecosystem Regeneration; Microorganisms** |
-| **12** | **Super El Niño compound risk map and final synthesis** | Climate crisis as multi-layer system failure; the "checkmate" map | **El Niño / Super El Niño; Direct Planetary Cooling** |
 
 ---
 
@@ -116,6 +147,6 @@ This repository is shared as an open conceptual and narrative work. A formal lic
 
 ---
 
-For readers who want to explore the scientific and conceptual background behind this narrative, see the related repositories listed above.
+For readers who want to explore the scientific, conceptual, and technical background behind this narrative, see the [concept pages](docs/concepts/README.md) and related repositories above.
 
 この物語の背景にある技術的・思想的な構想を詳しく知りたい方は、上記の関連リポジトリを参照してください。

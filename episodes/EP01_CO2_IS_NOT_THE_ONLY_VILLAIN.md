@@ -377,7 +377,14 @@ From the next episode onward, the story will begin to unpack what a “carbon fi
 
 ## Related Background
 
-This episode explores the idea that CO₂ alone does not explain the full climate crisis — carbon fixation systems, soil, forests, and microorganisms are part of the planetary life-support system. For the conceptual background behind these themes:
+This episode establishes the central idea: CO₂ alone does not explain the full climate crisis — carbon fixation systems, soil, forests, and microorganisms are part of the planetary life-support system.
+
+**Concept pages:**
+
+- [Carbon Fixation Cycle](../docs/concepts/carbon-fixation-cycle.md) — the living systems that absorb, store, and stabilize carbon
+- [Direct Planetary Cooling](../docs/concepts/direct-planetary-cooling.md) — the broader framework this story serves as a gateway into
+
+**Related background repositories:**
 
 - Direct Planetary Cooling (conceptual framework):
   https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling

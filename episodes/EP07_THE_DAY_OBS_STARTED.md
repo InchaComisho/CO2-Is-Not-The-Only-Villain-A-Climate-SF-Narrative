@@ -386,7 +386,14 @@ The next episode moves to the meeting room where the decision must be made: cont
 
 ## Related Background
 
-This episode describes the first OBS deployment and the ocean system response. For the conceptual background:
+This episode describes the first OBS deployment and the ocean's slow, ambiguous response — the difficult middle ground between useless and unsafe.
+
+**Concept pages:**
+
+- [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — what OBS is and how it works in the narrative
+- [Deep Ocean Aeration](../docs/concepts/deep-ocean-aeration.md) — the broader concept behind the deployment
+
+**Related background repositories:**
 
 - Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding

@@ -481,7 +481,14 @@ The next episode turns toward the ocean again, focusing on Super El Niño and wh
 
 ## Related Background
 
-This episode focuses on carbon fixation systems: ocean, plankton, soil, forests, and microorganisms. For the conceptual background:
+This episode unpacks the carbon fixation system: ocean, plankton, soil, forests, and microorganisms as the living infrastructure that absorbs and stores carbon.
+
+**Concept pages:**
+
+- [Carbon Fixation Cycle](../docs/concepts/carbon-fixation-cycle.md) — what the fixation system is and why it matters
+- [Soil Regeneration / Leaf Mold / Microorganisms](../docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) — the terrestrial carbon fixation layer
+
+**Related background repositories:**
 
 - The Importance of Microorganisms (microbial carbon fixation):
   https://github.com/InchaComisho/The-Importance-of-Microorganisms

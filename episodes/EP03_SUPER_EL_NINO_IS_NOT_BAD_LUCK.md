@@ -517,7 +517,13 @@ The next episode will explore that question directly: What does it mean to say t
 
 ## Related Background
 
-This episode introduces Super El Niño as a compound risk layered on an already heat-stressed ocean system. For the conceptual background:
+This episode introduces Super El Niño not as an unlucky year but as a compound risk layered on an already heat-stressed ocean system — a theme that returns in Episode 12's final synthesis.
+
+**Concept pages:**
+
+- [Super El Niño Compound Risk](../docs/concepts/super-el-nino-compound-risk.md) — why extreme El Niño is a multi-layer crisis, not just a weather event
+
+**Related background repositories:**
 
 - El Niño, Super El Niño, Global Warming, and Ecosystem Disruption:
   https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption

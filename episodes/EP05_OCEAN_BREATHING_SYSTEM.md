@@ -446,7 +446,14 @@ The next episode begins the “worldline that tries”: the fictional Blue Pulse
 
 ## Related Background
 
-This episode introduces the Ocean Breathing System (OBS) — deep ocean aeration to restart marine circulation. For the conceptual background:
+This episode introduces OBS — ocean CPR: deep aeration to restart marine circulation and support biological carbon fixation.
+
+**Concept pages:**
+
+- [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — what OBS is and how it works in the narrative
+- [Deep Ocean Aeration](../docs/concepts/deep-ocean-aeration.md) — the broader concept behind OBS
+
+**Related background repositories:**
 
 - Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding

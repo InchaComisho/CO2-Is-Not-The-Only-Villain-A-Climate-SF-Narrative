@@ -548,7 +548,14 @@ The next episode focuses on OBS more directly: what does it mean to give the oce
 
 ## Related Background
 
-This episode addresses ocean heat accumulation and why CO₂ reduction alone cannot remove heat already stored in the ocean. For the conceptual background:
+This episode addresses ocean heat accumulation and why CO₂ reduction alone cannot remove heat already stored in the ocean. It also introduces OBS and UMC as the conceptual starting points for ocean-side intervention.
+
+**Concept pages:**
+
+- [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — OBS as ocean CPR
+- [Ultrasonic Mist Cooling](../docs/concepts/ultrasonic-mist-cooling.md) — UMC as the surface cooling complement
+
+**Related background repositories:**
 
 - Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding:
   https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding

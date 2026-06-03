@@ -420,7 +420,14 @@ The next episode moves to one of those places: the Humboldt Current region off C
 
 ## Related Background
 
-This episode explores the ethical and political dimensions of ocean intervention — who decides, who pays, and what it means to act. For the conceptual background:
+This episode explores the governance and ethical dimensions of ocean intervention — who decides, who pays, and what it means to act when decision-makers are far from the affected sea.
+
+**Concept pages:**
+
+- [Intervention Ethics](../docs/concepts/intervention-ethics.md) — the full ethical framework this episode embodies
+- [Ocean Tuning Unit](../docs/concepts/ocean-tuning-unit.md) — the monitoring and feedback infrastructure behind Blue Pulse decisions
+
+**Related background repositories:**
 
 - Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding

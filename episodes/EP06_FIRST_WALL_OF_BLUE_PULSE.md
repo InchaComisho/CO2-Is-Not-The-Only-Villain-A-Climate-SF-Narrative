@@ -434,7 +434,14 @@ The next episode moves from proposal to experiment: the day the first OBS unit s
 
 ## Related Background
 
-This episode follows the first wall faced by the Blue Pulse project — the gap between technical concepts and implementation realities. For the conceptual background on OBS and UMC:
+This episode follows the first wall faced by the Blue Pulse project — governance, ethics, who decides, who pays — the gap between technical concepts and implementation realities.
+
+**Concept pages:**
+
+- [Blue Pulse](../docs/concepts/blue-pulse.md) — the fictional project and what it represents
+- [Intervention Ethics](../docs/concepts/intervention-ethics.md) — the ethical tensions this episode introduces
+
+**Related background repositories:**
 
 - Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
