@@ -168,6 +168,19 @@ This is a deliberate feature of the model, not a claim about the real world. It
 illustrates that planetary-scale intervention raises questions the technology alone
 cannot resolve.
 
+## Cautions
+
+- This simulation is a conceptual and educational framework, not a real climate model.
+- The benefit-risk balance is an illustrative index, not a physical quantity.
+  It should be read as a narrative comparison between estimated systemic improvement
+  and intervention burden, not as a direct cost-benefit calculation.
+- The compound risk reduction percentage and the intervention risk index use
+  different units and reference scales; subtracting them does not yield a physically
+  meaningful quantity.
+- Carbon uptake proxies are not real carbon tonnage and cannot be used for carbon
+  accounting or offsetting claims.
+- All outputs should be treated as scenario comparisons, not forecasts.
+
 ## Related Concepts
 
 - [Direct Planetary Cooling](direct-planetary-cooling.md)

@@ -40,6 +40,10 @@ Generated: 2026-06-03 06:34 UTC
 
 ## Compound Risk Reduction vs. Intervention Risk
 
+> **Note:** The benefit-risk balance is an illustrative index, not a physical quantity.
+> It should be read as a narrative comparison between estimated systemic improvement and
+> intervention burden, not as a direct cost-benefit calculation.
+
 | Units | Compound Risk Reduction | Intervention Risk | Balance | Interpretation |
 |---|---:|---:|---:|---|
 | 1 | 0.0% | 0.0 | +0.0 | observation only |
@@ -246,6 +250,9 @@ Generated: 2026-06-03 06:34 UTC
 - Carbon uptake proxies are not in real carbon tonnage.
 - Risk index values do not map to any real governance or safety threshold.
 - The benefit-risk balance metric is an illustrative construct only.
+  The benefit-risk balance is an illustrative index, not a physical quantity.
+  It should be read as a narrative comparison between estimated systemic improvement
+  and intervention burden, not as a direct cost-benefit calculation.
 
 ---
 

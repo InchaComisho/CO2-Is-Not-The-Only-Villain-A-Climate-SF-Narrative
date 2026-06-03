@@ -89,6 +89,8 @@ This repository also includes a conceptual simulation of the full Trinity Model 
 The model compares deployment scales from 1 unit to 500,000 units and estimates illustrative changes in ocean heat stress, land heat stress, soil recovery, carbon sink recovery, compound risk reduction, and intervention risk.
 
 > **Important:** This is a toy model for narrative and educational purposes. It is not a climate forecast, engineering validation, or policy recommendation.
+>
+> Note: The benefit-risk balance used in this model is an illustrative narrative index, not a physical quantity or direct cost-benefit calculation.
 
 - [Trinity Equatorial Belt Simulation](docs/concepts/trinity-equatorial-belt-simulation.md)
 - [Simulation Directory](simulations/trinity-equatorial-belt/)
