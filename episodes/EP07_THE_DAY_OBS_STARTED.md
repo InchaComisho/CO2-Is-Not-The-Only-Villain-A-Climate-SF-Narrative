@@ -392,6 +392,7 @@ This episode describes the first OBS deployment and the ocean's slow, ambiguous 
 
 - [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — what OBS is and how it works in the narrative
 - [Deep Ocean Aeration](../docs/concepts/deep-ocean-aeration.md) — the broader concept behind the deployment
+- [Blue Pulse Simulation Model](../docs/concepts/blue-pulse-simulation-model.md) — how a single OBS unit compares to 100 or 1,000 in the conceptual scaling model
 
 **Related background repositories:**
 

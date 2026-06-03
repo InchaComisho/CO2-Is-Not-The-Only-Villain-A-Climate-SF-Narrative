@@ -440,6 +440,7 @@ This episode follows the first wall faced by the Blue Pulse project — governan
 
 - [Blue Pulse](../docs/concepts/blue-pulse.md) — the fictional project and what it represents
 - [Intervention Ethics](../docs/concepts/intervention-ethics.md) — the ethical tensions this episode introduces
+- [Blue Pulse Simulation Model](../docs/concepts/blue-pulse-simulation-model.md) — conceptual scaling model showing why small deployments differ fundamentally from large ones
 
 **Related background repositories:**
 

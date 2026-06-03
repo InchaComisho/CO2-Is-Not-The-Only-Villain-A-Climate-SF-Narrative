@@ -1,0 +1,101 @@
+# Blue Pulse Conceptual Simulation — Default Parameters
+#
+# IMPORTANT:
+# These parameters are for a simplified educational toy model.
+# They are not derived from real oceanographic measurements.
+# This simulation is not a real climate forecast, engineering validation,
+# or policy recommendation. It is a narrative and educational tool.
+#
+# All values are illustrative estimates with no claim of operational accuracy.
+
+# --- Target Region ---
+target_region_area_km2: 100000   # illustrative coastal/regional area
+
+# --- Per-unit Effective Influence Area ---
+unit_effective_area_km2:
+  low: 2
+  default: 5
+  high: 10
+
+# --- OBS: Ocean Breathing System ---
+# Illustrative local sea-surface temperature peak reduction per unit influence zone
+obs_local_max_sst_reduction_c:
+  low: 0.03
+  default: 0.12
+  high: 0.25
+
+# Illustrative OBS strength factor for phytoplankton proxy
+obs_strength_factor:
+  low: 0.5
+  default: 1.0
+  high: 1.6
+
+# --- UMC: Ultrasonic Mist Cooling ---
+# Illustrative local daytime SST peak reduction per unit influence zone
+umc_local_max_sst_peak_reduction_c:
+  low: 0.02
+  default: 0.10
+  high: 0.20
+
+# UMC fog/visibility risk weight (fraction of effective_coverage)
+umc_fog_risk_weight: 0.12
+
+# --- Combined Blue Pulse Synergy ---
+# Factor applied when OBS (below) and UMC (above) operate together
+combined_synergy_factor:
+  low: 0.8
+  default: 1.15
+  high: 1.35
+
+# Maximum cap on local combined SST reduction (degrees C)
+# Prevents unrealistic runaway outputs in high-density scenarios
+local_combined_sst_cap_c: 0.75
+
+# --- Regional Coupling ---
+# Fraction of local signal that propagates to regional mean SST
+regional_coupling_factor:
+  low: 0.25
+  default: 0.45
+  high: 0.65
+
+# --- Saturation Behavior ---
+# effective_coverage = 1 - exp(-total_area / target_area)
+# This naturally saturates as unit count grows
+saturation_formula: "1 - exp(-total_effective_area / target_region_area)"
+
+# --- Risk Model ---
+# Base exponent for risk growth relative to effective coverage
+risk_growth_exponent:
+  default: 1.35
+
+# Risk component weights (sum should equal 1.0)
+risk_weights:
+  ecological_disturbance: 0.40
+  umc_fog_visibility: 0.20
+  governance_public_trust: 0.25
+  circulation_uncertainty: 0.15
+
+# --- Baseline Scenario Parameters ---
+baseline_super_el_nino_sst_anomaly_c: 2.0
+baseline_marine_heatwave_days: 120
+duration_days: 365
+
+# --- Caps on outputs (to keep results in educational range) ---
+caps:
+  marine_heatwave_days_reduced_percent: 35
+  phytoplankton_proxy_increase_percent: 40
+  ecosystem_recovery_index: 100
+  intervention_risk_index: 100
+
+# --- Deployment Scenarios ---
+deployment_scenarios:
+  - 1
+  - 100
+  - 1000
+  - 10000
+  - 50000
+  - 100000
+
+# --- Scenario Variant (which parameter level to use for default run) ---
+# Options: "low", "default", "high"
+scenario_variant: "default"

@@ -38,3 +38,7 @@ These concepts are part of Master / InchaComisho's conceptual framework and are 
 ## Human-AI Co-Creation
 
 - [Artificial Wisdom](artificial-wisdom.md) — AI as a dialog partner that expands human thinking beyond conventional framing
+
+## Simulation and Scenario Models
+
+- [Blue Pulse Simulation Model](blue-pulse-simulation-model.md) — a simplified educational toy model estimating Blue Pulse deployment at scales from 1 to 100,000+ units (not a real climate forecast)

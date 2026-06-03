@@ -78,6 +78,17 @@ Key concept pages:
 
 ---
 
+## Blue Pulse Conceptual Simulation
+
+This repository includes a simplified conceptual simulation for the fictional Blue Pulse project. It compares possible deployment scales from 1 unit to 100,000+ units and estimates illustrative changes in regional sea-surface heat stress, marine heatwave days, ecosystem recovery proxies, and intervention risk.
+
+> **Important:** This simulation is a toy model for narrative and educational purposes. It is not a real climate forecast, engineering validation, or policy recommendation.
+
+- [Blue Pulse Simulation Model](docs/concepts/blue-pulse-simulation-model.md)
+- [Simulation Directory](simulations/blue-pulse/)
+
+---
+
 ## Key Concepts
 
 - CO₂ reduction as a necessary condition, but not a sufficient condition

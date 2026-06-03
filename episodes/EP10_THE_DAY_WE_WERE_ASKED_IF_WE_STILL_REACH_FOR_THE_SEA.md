@@ -789,6 +789,7 @@ This episode raises the central ethical question of the Blue Pulse arc: to act o
 - [Blue Pulse](../docs/concepts/blue-pulse.md) — the evaluation context for Phase 2
 - [Intervention Ethics](../docs/concepts/intervention-ethics.md) — the full framework: acting vs. not acting, local consent, uncertainty
 - [Ocean Tuning Unit](../docs/concepts/ocean-tuning-unit.md) — the monitoring infrastructure behind risk-benefit evaluation
+- [Blue Pulse Simulation Model](../docs/concepts/blue-pulse-simulation-model.md) — see how the conceptual model shows risk outpacing benefit at larger scales
 
 **Related background repositories:**
 

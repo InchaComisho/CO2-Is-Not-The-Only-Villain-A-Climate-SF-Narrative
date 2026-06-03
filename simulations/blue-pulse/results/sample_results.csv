@@ -1,0 +1,7 @@
+unit_count,effective_coverage_percent,local_combined_sst_reduction_c,regional_mean_sst_reduction_c,marine_heatwave_days_reduced_percent,phytoplankton_proxy_increase_percent,carbon_uptake_proxy_increase_percent,ecosystem_recovery_index_0_100,intervention_risk_index_0_100,confidence_level,interpretation
+1,0.0,0.253,0.0,0.0,0.0,0.0,0.0,0.0,observation only,Single proof-of-concept unit. Effects are local and negligible at regional scale.
+100,0.5,0.253,0.0006,0.03,0.17,0.08,0.22,0.26,very low — speculative,Small field array. Local SST peak reduction may become detectable with careful monitoring.
+1000,4.88,0.253,0.0056,0.28,1.71,0.77,2.12,2.92,low — illustrative,Coastal experimental corridor. Possible regional heat-stress reduction begins to appear in model.
+10000,39.35,0.253,0.0448,2.24,13.77,6.2,17.11,29.42,low-medium — optimistic illustrative,Large upwelling-zone deployment. Meaningful regional improvement possible under optimistic assumptions.
+50000,91.79,0.253,0.1045,5.23,32.13,14.46,39.91,75.23,medium — scenario only,Basin-scale experimental infrastructure. Strong regional signal possible; risk index growing significantly.
+100000,99.33,0.253,0.1131,5.65,34.76,15.64,43.18,80.43,"low-medium — saturation regime, high uncertainty","Very large deployment. Saturation begins; marginal benefit declines; ecological, governance, and public-trust risks become dominant."

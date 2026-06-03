@@ -426,6 +426,7 @@ This episode explores the governance and ethical dimensions of ocean interventio
 
 - [Intervention Ethics](../docs/concepts/intervention-ethics.md) — the full ethical framework this episode embodies
 - [Ocean Tuning Unit](../docs/concepts/ocean-tuning-unit.md) — the monitoring and feedback infrastructure behind Blue Pulse decisions
+- [Blue Pulse Simulation Model](../docs/concepts/blue-pulse-simulation-model.md) — illustrates why scale matters: the simulation shows risk growing faster than benefit at large deployments
 
 **Related background repositories:**
 

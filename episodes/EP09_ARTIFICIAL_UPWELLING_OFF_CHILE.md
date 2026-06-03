@@ -397,6 +397,7 @@ This episode depicts Blue Pulse Phase 2 off Chile: artificial upwelling combined
 - [Blue Pulse](../docs/concepts/blue-pulse.md) — the project and Phase 2 context
 - [Ocean Breathing System](../docs/concepts/ocean-breathing-system.md) — OBS as the core upwelling mechanism
 - [Ultrasonic Mist Cooling](../docs/concepts/ultrasonic-mist-cooling.md) — UMC as the surface cooling complement deployed alongside OBS
+- [Blue Pulse Simulation Model](../docs/concepts/blue-pulse-simulation-model.md) — conceptual scaling model: see what the model estimates for 1,000–10,000 unit deployments like the Chile corridor
 
 **Related background repositories:**
 
