@@ -106,6 +106,11 @@ This repository includes a simplified conceptual simulation for the fictional Bl
 - [Blue Pulse Simulation Model](docs/concepts/blue-pulse-simulation-model.md)
 - [Simulation Directory](simulations/blue-pulse/)
 
+Results:
+
+- [Blue Pulse Simulation Results](simulations/blue-pulse/results/sample_summary.md)
+- [Blue Pulse Simulation CSV](simulations/blue-pulse/results/sample_results.csv)
+
 ---
 
 ## Key Concepts
