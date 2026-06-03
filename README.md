@@ -96,14 +96,17 @@ The following repositories provide the conceptual background and technical frame
 
 ## Episode-to-Background Mapping
 
-| Episodes | Main Theme | Related Background |
-|---|---|---|
-| 1–2 | CO₂-only framing and carbon fixation systems | Direct Planetary Cooling, Microorganisms |
-| 3 | El Niño and Super El Niño | El Niño / Super El Niño repository |
-| 4–5 | Ocean heat and OBS / deep ocean aeration | Ocean Breathing, Ocean Temperature Reduction |
-| 6–10 | Blue Pulse, OBS + UMC, intervention ethics | Ocean Breathing + UMC + OTU |
-| 11 | Trinity model: ocean, mist, soil | Direct Planetary Cooling, Ecosystem Regeneration |
-| 12 | Super El Niño compound risk and final synthesis | El Niño repository + Direct Planetary Cooling |
+| Episode | Main Theme | Key Concepts in Episode | Related Background Repositories |
+|---|---|---|---|
+| 1–2 | CO₂-only framing and carbon fixation systems | Net Zero limits; soil, plankton, microorganism carbon storage | Direct Planetary Cooling; Microorganisms |
+| 3 | El Niño and Super El Niño | Ocean heat as compound risk driver; not just an unlucky year | El Niño / Super El Niño |
+| 4–5 | Ocean heat accumulation and OBS introduction | Why CO₂ reduction cannot remove stored heat; the Ocean Breathing System concept | Ocean Breathing; Ocean Temperature Reduction |
+| 6–7 | Blue Pulse Phase 1 launch and first OBS field results | Implementation barriers; early ocean response data | Ocean Breathing; UMC |
+| 8 | Governance and decision-making far from the sea | Who decides, who pays; intervention ethics and authority | Ocean Breathing; OTU |
+| **9** | **Chile offshore Phase 2 — artificial upwelling, OBS + UMC field deployment** | Combined OBS + UMC test in El Niño-affected waters off Chile; field ambiguity | **Ocean Breathing; Ocean Temperature Reduction; UMC** |
+| **10** | **Blue Pulse evaluation — OBS + UMC risk-benefit balance and intervention ethics** | Cost, risk, sovereignty; ethics of action vs. inaction; protagonist's decision point | **Ocean Breathing; UMC; OTU** |
+| **11** | **Direct Planetary Cooling and the trinity model** | Ocean aeration + mist cooling + soil regeneration as a unified framework | **Direct Planetary Cooling; Ecosystem Regeneration; Microorganisms** |
+| **12** | **Super El Niño compound risk map and final synthesis** | Climate crisis as multi-layer system failure; the "checkmate" map | **El Niño / Super El Niño; Direct Planetary Cooling** |
 
 ---
 

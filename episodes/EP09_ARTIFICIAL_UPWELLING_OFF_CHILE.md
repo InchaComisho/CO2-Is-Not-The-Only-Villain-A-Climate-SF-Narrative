@@ -390,13 +390,13 @@ The next episode moves the timeline forward: benefits and side effects become cl
 
 ## Related Background
 
-This episode follows the addition of artificial upwelling off Chile — a field test of OBS combined with OTU. For the conceptual background:
+This episode depicts the Blue Pulse Phase 2 field deployment off Chile: artificial upwelling combined with OBS nanobubble columns and UMC mist cooling in El Niño-affected waters. The ocean's response is ambiguous, and the question of what counts as progress remains open. For the conceptual background (these are not scientific papers; they are conceptual models connecting to the narrative):
 
-- Direct Planetary Cooling via Ocean Tuning Units (OTU):
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
-
-- Technical Specification: Ocean Tuning Unit (OTU):
-  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
-
-- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+- Ocean Breathing / Deep Aeration (OBS — the core mechanism of artificial upwelling):
   https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding:
+  https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+- Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation (UMC — field-deployed alongside OBS):
+  https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
