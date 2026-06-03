@@ -1029,3 +1029,19 @@ CO₂削減は必要です。
 原案・構想：マスター  
 物語構成・本文作成：G（ChatGPT）  
 校正・文体調整：G（ChatGPT）
+
+
+---
+
+## 関連する背景記事
+
+この最終話では、スーパーエルニーニョの複合リスクと地球冷却の全体像が描かれます。概念的な背景については以下を参照してください。
+
+- エルニーニョ・スーパーエルニーニョと生態系崩壊：
+  https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption
+
+- 地球直接冷却の唯一の解（概念フレームワーク）：
+  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
+
+- 地球直接冷却（全体構想）：
+  https://github.com/InchaComisho/Direct-Planetary-Cooling

@@ -1023,3 +1023,19 @@ I hope this story becomes a starting point for thinking about climate action not
 Original concept and framework: Master  
 Story structure and main text: G (ChatGPT)  
 Editing and style adjustment: G (ChatGPT)
+
+
+---
+
+## Related Background
+
+This final episode returns to the Super El Niño map and synthesizes all twelve episodes into the conclusion that climate action requires a multi-layered response. For the conceptual background:
+
+- El Niño, Super El Niño, Global Warming, and Ecosystem Disruption:
+  https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption
+
+- The Only Viable Solution to Global Warming: Direct Planetary Cooling:
+  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
+
+- Direct Planetary Cooling (conceptual framework):
+  https://github.com/InchaComisho/Direct-Planetary-Cooling

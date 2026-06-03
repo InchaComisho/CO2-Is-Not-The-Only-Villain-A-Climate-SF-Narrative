@@ -996,3 +996,22 @@ CO₂削減は必要です。
 原案・構想：マスター  
 物語構成・本文作成：リアル（Perplexity）  
 校正・文体調整：G（ChatGPT）
+
+
+---
+
+## 関連する背景記事
+
+この話では「三位一体モデル」（海洋循環・ミスト冷却・土壌再生）が描かれます。地球直接冷却の概念的な背景については以下を参照してください。
+
+- 地球直接冷却（概要）：
+  https://github.com/InchaComisho/Direct-Planetary-Cooling
+
+- Global Direct Planetary Cooling System：
+  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
+
+- Global Direct Planetary Cooling Architecture：
+  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+
+- 生態系再生システム（土壌・微生物・循環回復）：
+  https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System

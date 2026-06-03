@@ -414,3 +414,16 @@ The protagonist also takes a small but important step: from the outside author o
 The point of this episode is that technological decisions are rarely made only on technical grounds. They are made by people, institutions, communities, and governments — often far from the places most affected.
 
 The next episode moves to one of those places: the Humboldt Current region off Chile, where Phase 2 begins to test artificial upwelling in an El Niño-affected sea.
+
+
+---
+
+## Related Background
+
+This episode explores the ethical and political dimensions of ocean intervention — who decides, who pays, and what it means to act. For the conceptual background:
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Technical Specification: Ocean Tuning Unit (OTU):
+  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-

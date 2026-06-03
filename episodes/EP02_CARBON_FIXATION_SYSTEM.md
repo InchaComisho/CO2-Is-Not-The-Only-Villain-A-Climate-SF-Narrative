@@ -475,3 +475,16 @@ The key point is that carbon fixation is not only about trees. It includes ocean
 If those systems weaken, CO₂ reduction remains necessary but becomes less sufficient by itself. Civilization must then think not only about emissions, but also about restoring the systems that once helped the planet absorb shock.
 
 The next episode turns toward the ocean again, focusing on Super El Niño and why extreme ocean heat is not merely an unlucky year.
+
+
+---
+
+## Related Background
+
+This episode focuses on carbon fixation systems: ocean, plankton, soil, forests, and microorganisms. For the conceptual background:
+
+- The Importance of Microorganisms (microbial carbon fixation):
+  https://github.com/InchaComisho/The-Importance-of-Microorganisms
+
+- Global Planetary Cooling Ecosystem Regeneration System (soil and ecosystem recovery):
+  https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System

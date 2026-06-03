@@ -511,3 +511,13 @@ The key point is not that El Niño itself is artificial. Rather, the concern is 
 This episode also introduced a transition in the story: if ocean heat is already stored in the system, then CO₂ reduction alone cannot instantly remove it.
 
 The next episode will explore that question directly: What does it mean to say that reducing CO₂ does not remove ocean heat?
+
+
+---
+
+## Related Background
+
+This episode introduces Super El Niño as a compound risk layered on an already heat-stressed ocean system. For the conceptual background:
+
+- El Niño, Super El Niño, Global Warming, and Ecosystem Disruption:
+  https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption

@@ -384,3 +384,19 @@ The key point is that once the switch is turned on, the experiment connects data
 The ocean’s response is slow and ambiguous, but humans must still decide whether to call the result progress, danger, uncertainty, or reason to continue.
 
 The next episode moves the timeline forward: benefits and side effects become clearer, and the protagonist must decide how far to remain involved.
+
+
+---
+
+## Related Background
+
+This episode follows the addition of artificial upwelling off Chile — a field test of OBS combined with OTU. For the conceptual background:
+
+- Direct Planetary Cooling via Ocean Tuning Units (OTU):
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
+
+- Technical Specification: Ocean Tuning Unit (OTU):
+  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding

@@ -776,3 +776,19 @@ In the next episode, the protagonist realizes that these three layers must work 
 Blue Pulse was only one part of the Direct Planetary Cooling model.
 
 The story now expands beyond the sea into soil, microorganisms, surface cooling, and the carbon fixation cycle.
+
+
+---
+
+## Related Background
+
+This episode raises the central ethical question: to act or not to act when ocean intervention carries risk. For the conceptual background on OBS, UMC, and OTU:
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation:
+  https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
+
+- Direct Planetary Cooling via Ocean Tuning Units (OTU):
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-

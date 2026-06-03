@@ -30,6 +30,9 @@ The story begins with a protagonist who believed that CO₂ was the single villa
 
 The later episodes move from explanation to speculative implementation: Ocean Breathing System (OBS), Ultrasonic Mist Cooling (UMC), and the fictional Blue Pulse project. The story asks not only whether such interventions could work, but also who decides, who pays, who bears the risk, and what it means to do nothing.
 
+This narrative is a fictional gateway into a broader technical and philosophical framework.
+The story introduces the reader to the idea that climate change is not only a CO₂ problem, but also a crisis of ocean circulation, planetary heat balance, soil carbon fixation, microorganisms, and living circulation systems.
+
 ## Episodes
 
 1. [Episode 01 — I Thought CO₂ Was the Only Villain, Then the AI Refuted Me in the First Move](episodes/EP01_CO2_IS_NOT_THE_ONLY_VILLAIN.md)
@@ -55,6 +58,61 @@ The later episodes move from explanation to speculative implementation: Ocean Br
 - The ethics of intervention and non-intervention
 - The risk of doing something, and the risk of doing nothing
 
+## Related Technical Articles and Background Research
+
+The following repositories provide the conceptual background and technical framework behind this narrative. They are not scientific papers or official specifications; they represent a conceptual model and educational framework connecting to the themes explored in the story.
+
+### Direct Planetary Cooling / 地球直接冷却
+
+- [The Only Viable Solution to Global Warming: Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Global Direct Planetary Cooling System](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System)
+- [Global Direct Planetary Cooling Architecture](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture)
+
+### OBS / Ocean Breathing / Deep Ocean Aeration / 海洋循環再起動
+
+- [Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding)
+- [Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding)
+
+### UMC / Mist Cooling / 海面・都市・砂漠冷却
+
+- [Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation)
+
+### OTU / Ocean Tuning Unit
+
+- [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
+- [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
+
+### El Niño / Super El Niño / Ecosystem Disruption
+
+- [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)
+
+### Soil Regeneration / Microorganisms / 腐葉土・微生物・炭素固定源
+
+- [The Importance of Microorganisms](https://github.com/InchaComisho/The-Importance-of-Microorganisms)
+- [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
+
+---
+
+## Episode-to-Background Mapping
+
+| Episodes | Main Theme | Related Background |
+|---|---|---|
+| 1–2 | CO₂-only framing and carbon fixation systems | Direct Planetary Cooling, Microorganisms |
+| 3 | El Niño and Super El Niño | El Niño / Super El Niño repository |
+| 4–5 | Ocean heat and OBS / deep ocean aeration | Ocean Breathing, Ocean Temperature Reduction |
+| 6–10 | Blue Pulse, OBS + UMC, intervention ethics | Ocean Breathing + UMC + OTU |
+| 11 | Trinity model: ocean, mist, soil | Direct Planetary Cooling, Ecosystem Regeneration |
+| 12 | Super El Niño compound risk and final synthesis | El Niño repository + Direct Planetary Cooling |
+
+---
+
 ## License
 
 This repository is shared as an open conceptual and narrative work. A formal license may be added later.
+
+---
+
+For readers who want to explore the scientific and conceptual background behind this narrative, see the related repositories listed above.
+
+この物語の背景にある技術的・思想的な構想を詳しく知りたい方は、上記の関連リポジトリを参照してください。

@@ -428,3 +428,16 @@ The episode does not present Blue Pulse as an approved or proven solution. Inste
 The central question is not only whether the technology could work, but who has the authority to decide whether it should be tried.
 
 The next episode moves from proposal to experiment: the day the first OBS unit starts operating.
+
+
+---
+
+## Related Background
+
+This episode follows the first wall faced by the Blue Pulse project — the gap between technical concepts and implementation realities. For the conceptual background on OBS and UMC:
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation:
+  https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation

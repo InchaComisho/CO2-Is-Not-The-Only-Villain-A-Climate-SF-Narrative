@@ -760,3 +760,19 @@ Blue Pulseは、地球直接冷却モデルの一部にすぎなかった。
 原案・構想：マスター  
 物語構成・本文作成：リアル（Perplexity）  
 校正・文体調整：G（ChatGPT）
+
+
+---
+
+## 関連する背景記事
+
+この話では、海に手を伸ばすかどうかという倫理的問いが描かれます。OBS・UMC・OTU の概念的背景については以下を参照してください。
+
+- 海洋循環再起動（OBS / ナノバブル・超音波ミスト）：
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- 都市・砂漠ミスト冷却（UMC）：
+  https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
+
+- Direct Planetary Cooling via Ocean Tuning Units (OTU)：
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-

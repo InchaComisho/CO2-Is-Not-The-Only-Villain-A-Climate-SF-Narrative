@@ -371,3 +371,16 @@ Episode 1 introduces the central theme of this story: CO₂ reduction is necessa
 The episode does not deny the importance of CO₂. Instead, it asks what happens if we focus only on emissions while ignoring ocean heat, weakened marine circulation, soil degradation, forest loss, microbial collapse, and declining carbon fixation systems.
 
 From the next episode onward, the story will begin to unpack what a “carbon fixation system” actually means, and why invisible systems such as soil, microorganisms, forests, and plankton may determine whether civilization has enough time left to change course.
+
+
+---
+
+## Related Background
+
+This episode explores the idea that CO₂ alone does not explain the full climate crisis — carbon fixation systems, soil, forests, and microorganisms are part of the planetary life-support system. For the conceptual background behind these themes:
+
+- Direct Planetary Cooling (conceptual framework):
+  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
+
+- The Importance of Microorganisms (soil, microbial carbon fixation):
+  https://github.com/InchaComisho/The-Importance-of-Microorganisms

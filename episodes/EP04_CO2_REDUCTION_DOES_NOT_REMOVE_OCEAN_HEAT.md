@@ -542,3 +542,16 @@ This episode introduced two speculative concepts:
 Neither concept is presented as a magic solution. Both would require careful testing, monitoring, ethical review, and limits.
 
 The next episode focuses on OBS more directly: what does it mean to give the ocean “CPR”?
+
+
+---
+
+## Related Background
+
+This episode addresses ocean heat accumulation and why CO₂ reduction alone cannot remove heat already stored in the ocean. For the conceptual background:
+
+- Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding:
+  https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+- Direct Planetary Cooling (conceptual framework):
+  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling

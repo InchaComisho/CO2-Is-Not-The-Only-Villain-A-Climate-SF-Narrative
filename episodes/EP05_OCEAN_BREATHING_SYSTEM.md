@@ -440,3 +440,16 @@ The important point is that OBS is not presented as a magic device that cools th
 This episode also emphasized that intervention risk must be compared with non-intervention risk. The ocean is not an untouched system waiting to be preserved in its original state. It is already being altered by accumulated heat and multiple forms of stress.
 
 The next episode begins the “worldline that tries”: the fictional Blue Pulse project.
+
+
+---
+
+## Related Background
+
+This episode introduces the Ocean Breathing System (OBS) — deep ocean aeration to restart marine circulation. For the conceptual background:
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding:
+  https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding

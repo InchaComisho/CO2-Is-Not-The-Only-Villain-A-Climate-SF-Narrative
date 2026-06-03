@@ -380,3 +380,16 @@ The result was deliberately modest:
 The point of this episode was not to show a miraculous success. It was to show the difficult middle ground where something is not obviously useless, but not clearly safe or sufficient either.
 
 The next episode moves to the meeting room where the decision must be made: continue, stop, or redesign the experiment.
+
+
+---
+
+## Related Background
+
+This episode describes the first OBS deployment and the ocean system response. For the conceptual background:
+
+- Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding:
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+- Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding:
+  https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
