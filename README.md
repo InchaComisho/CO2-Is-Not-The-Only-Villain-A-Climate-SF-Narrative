@@ -151,4 +151,4 @@ This repository is shared as an open conceptual and narrative work. A formal lic
 
 For readers who want to explore the scientific, conceptual, and technical background behind this narrative, see the [concept pages](docs/concepts/README.md) and related repositories above.
 
-この物語の背景にある技術的・思想的な構想を詳しく知りたい方は、上記の関連リポジトリを参照してください。
+
