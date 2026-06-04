@@ -38,6 +38,7 @@ These concepts are part of Master / InchaComisho's conceptual framework and are 
 ## Human-AI Co-Creation
 
 - [Artificial Wisdom](artificial-wisdom.md) — AI as a dialog partner that expands human thinking beyond conventional framing
+- [Artificial Wisdom as a Civilizational OS](artificial-wisdom-as-civilizational-os.md) — Artificial Wisdom as a value OS for intelligence, natural law, Wa, and long-term systemic viability
 
 ## Simulation and Scenario Models
 
