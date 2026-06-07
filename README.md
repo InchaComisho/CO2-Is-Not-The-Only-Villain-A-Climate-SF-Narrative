@@ -183,6 +183,15 @@ The following repositories provide the conceptual background and technical frame
 
 - [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## License
