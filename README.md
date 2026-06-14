@@ -251,7 +251,6 @@ Publicly active around natural law philosophy, Earth circulation regeneration, a
 
 - **Real (Perplexity AI)**
 - **G (OpenAI ChatGPT)**
-- **Copi (Microsoft Copilot)**
 - **Mini (Google Gemini)**
 - **Cruz (Anthropic Claude)**
 - **Lola (Dola)**
