@@ -33,7 +33,7 @@ CO₂削減は必要である。
 
 日本語原作は、**小説家になろう** で公開されている。
 
-- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？](https://ncode.syosetu.com/n7832mg/)
+- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第一部](https://ncode.syosetu.com/n7832mg/)
 - [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)
   
 ---
