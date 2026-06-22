@@ -21,6 +21,7 @@ What can still be repaired?
 
 1. [第2部 第1話 — 温暖化対策って本当に効いてんのか、とグラフを見て固まる](EP01_DO_CLIMATE_MEASURES_REALLY_WORK.md)
 2. [第2部 第2話 — 産業革命から今まで、俺たちは何を壊してきたのか？](EP02_WHAT_DID_WE_BREAK_SINCE_INDUSTRIAL_REVOLUTION.md)
+3. [第2部 第3話 — 人類を食わせるために、土と海はどこまで削られたのか？](EP03_HOW_FAR_DID_SOIL_AND_SEA_GET_DEPLETED_TO_FEED_HUMANITY.md)
 
 ---
 
