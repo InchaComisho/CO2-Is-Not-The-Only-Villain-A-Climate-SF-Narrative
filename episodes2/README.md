@@ -25,6 +25,7 @@ What can still be repaired?
 4. [第2部 第4話 — 死にかけた土に、どうやって生命を戻すのか？](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL.md)
 5. [第2部 第5話 — 土を戻すって、つまり誰が何をやるんだ？](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL.md)
 6. [第2部 第6話 — 「土を戻せ」と言われても、現場は今日も締め切りだ](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL.md)
+7. [第2部 第7話 — 「予算がない」と言いながら、土の話だけ後回しにしてきた街の会議室で](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
 
 ---
 
