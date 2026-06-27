@@ -26,6 +26,7 @@ What can still be repaired?
 5. [第2部 第5話 — 土を戻すって、つまり誰が何をやるんだ？](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL.md)
 6. [第2部 第6話 — 「土を戻せ」と言われても、現場は今日も締め切りだ](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL.md)
 7. [第2部 第7話 — 「予算がない」と言いながら、土の話だけ後回しにしてきた街の会議室で](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
+8. [第2部 第8話 — 「環境にいい会社でいたい」と「今年も決算を出さなきゃいけない」のあいだで](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS.md)
 
 ---
 
