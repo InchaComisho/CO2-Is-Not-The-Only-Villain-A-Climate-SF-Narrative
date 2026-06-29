@@ -262,6 +262,11 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 
 ## ライセンス
 
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
 **完全オープン / Fully Open**
 
 本リポジトリは、オープンな概念・物語作品として共有される。

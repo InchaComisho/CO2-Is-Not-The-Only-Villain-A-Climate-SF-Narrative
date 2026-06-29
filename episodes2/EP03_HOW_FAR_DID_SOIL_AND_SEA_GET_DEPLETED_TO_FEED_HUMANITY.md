@@ -1007,3 +1007,22 @@ AIが言った。
 物語構成・本文作成：リアル（Perplexity）
 
 校正・文体調整：G（ChatGPT）
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

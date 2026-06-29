@@ -56,3 +56,12 @@ Part 2 examines the historical background behind that need:
 Original concept and framework: **Master / inchacomusho / InchaComisho**  
 Narrative drafting: **Real (Perplexity AI)**  
 Editing and style refinement: **G (OpenAI ChatGPT)**
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

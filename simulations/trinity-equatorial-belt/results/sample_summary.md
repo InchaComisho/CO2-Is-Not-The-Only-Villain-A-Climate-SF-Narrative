@@ -262,3 +262,22 @@ Generated: 2026-06-03 06:34 UTC
 - [Trinity Model concept](../../docs/concepts/trinity-model.md)
 - [Blue Pulse Simulation](../blue-pulse/results/sample_summary.md)
 - [Intervention Ethics](../../docs/concepts/intervention-ethics.md)
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

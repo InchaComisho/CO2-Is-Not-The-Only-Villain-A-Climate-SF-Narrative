@@ -44,3 +44,22 @@ These concepts are part of Master / InchaComisho's conceptual framework and are 
 
 - [Blue Pulse Simulation Model](blue-pulse-simulation-model.md) — a simplified educational toy model estimating Blue Pulse deployment at scales from 1 to 100,000+ units (not a real climate forecast)
 - [Trinity Equatorial Belt Simulation](trinity-equatorial-belt-simulation.md) — conceptual three-pillar model (OBS + UMC + soil regeneration) across the equatorial belt, 1 to 500,000 units (not a real climate forecast)
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
