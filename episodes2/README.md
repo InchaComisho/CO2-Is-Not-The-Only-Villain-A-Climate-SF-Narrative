@@ -25,6 +25,10 @@ What can still be repaired?
 4. [第2部 第4話 — 死にかけた土に、どうやって生命を戻すのか？](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL.md)
 5. [第2部 第5話 — 土を戻すって、つまり誰が何をやるんだ？](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL.md)
 6. [第2部 第6話 — 「土を戻せ」と言われても、現場は今日も締め切りだ](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL.md)
+7. [第2部 第7話 — 「予算がない」と言いながら、土の話だけ後回しにしてきた街の会議室で](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
+8. [第2部 第8話 — 「環境にいい会社でいたい」と「今年も決算を出さなきゃいけない」のあいだで](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS.md)
+9. [第2部 第9話 — 安い方を手に取りながら、“土に投票する日”のことを考える](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE.md)
+10. [第2部 第10話 — 「ひとり一票」のままだと、流れにならないから](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW.md)
 
 ---
 
