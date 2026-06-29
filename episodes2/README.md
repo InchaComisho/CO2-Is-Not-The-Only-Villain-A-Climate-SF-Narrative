@@ -28,6 +28,7 @@ What can still be repaired?
 7. [第2部 第7話 — 「予算がない」と言いながら、土の話だけ後回しにしてきた街の会議室で](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
 8. [第2部 第8話 — 「環境にいい会社でいたい」と「今年も決算を出さなきゃいけない」のあいだで](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS.md)
 9. [第2部 第9話 — 安い方を手に取りながら、“土に投票する日”のことを考える](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE.md)
+10. [第2部 第10話 — 「ひとり一票」のままだと、流れにならないから](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW.md)
 
 ---
 
