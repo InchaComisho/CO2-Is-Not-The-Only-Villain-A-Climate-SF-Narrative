@@ -30,6 +30,7 @@ What can still be repaired?
 9. [第2部 第9話 — 安い方を手に取りながら、“土に投票する日”のことを考える](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE.md)
 10. [第2部 第10話 — 「ひとり一票」のままだと、流れにならないから](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW.md)
 11. [第2部 第11話 — それでも一回は、流れを回してみる](EP11_STILL_RUN_THE_FLOW_ONCE.md)
+12. [第2部 第12話 — 完璧はない。でも、“ましな何か”は動かせる](EP12_NO_PERFECT_SOLUTION_BUT_BETTER_WHEELS_CAN_MOVE.md)
 
 ---
 
