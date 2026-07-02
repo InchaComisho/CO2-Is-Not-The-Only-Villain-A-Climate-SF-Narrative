@@ -1,6 +1,6 @@
 # CO₂ Is Not the Only Villain: A Climate SF Narrative
 
-**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md) | [العربية](README_ar.md)
 
 ## A Climate Fiction Gateway to Direct Planetary Cooling, Ocean Breathing, Mist Cooling, Soil Regeneration, and Artificial Wisdom
 
@@ -33,6 +33,8 @@ The Japanese original version is available on **Shosetsuka ni Naro**:
 
 - [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第一部](https://ncode.syosetu.com/n7832mg/)
 - [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)
+- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第三部](https://ncode.syosetu.com/n4511mk/)
+
 ---
 
 ## Credits
@@ -112,6 +114,13 @@ Key concept pages:
 10. [Episode 10 — The Day We Were Asked Whether We Would Still Reach Toward the Sea](episodes/EP10_THE_DAY_WE_WERE_ASKED_IF_WE_STILL_REACH_FOR_THE_SEA.md)
 11. [Episode 11 — The Answer Was a Trinity](episodes/EP11_THE_ANSWER_WAS_A_TRINITY.md)
 12. [Episode 12 — When I Saw the Super El Niño Map, It Looked Like Checkmate](episodes/EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
+
+---
+
+## Additional Parts
+
+- [Part 2 / 第二部](episodes2/README.md) — [English guide](episodes2/README_en.md) / [Arabic guide](episodes2/README_ar.md)
+- [Part 3 / 第三部](episodes3/README.md) — [English guide](episodes3/README_en.md) / [Arabic guide](episodes3/README_ar.md)
 
 ---
 
@@ -218,94 +227,3 @@ They are not scientific papers or official specifications; they represent concep
 ### El Niño / Super El Niño
 
 - [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)
-
-### Soil / Microorganisms / Ecosystem Regeneration
-
-- [The Importance of Microorganisms](https://github.com/InchaComisho/The-Importance-of-Microorganisms)
-- [Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown Repository Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index)
-- [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
-
-### Natural Cooling Cascade Framework
-
-- [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
-  Core framework defining Direct Planetary Cooling as the restoration of Earth's natural cooling cascades: rain, clouds, wind, ocean vertical circulation, soil water retention, vegetation, microorganisms, humus formation, and carbon fixation.
-
-- [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
----
-
-## Master Knowledge Portal
-
-For the full repository map and knowledge-system navigation, see:
-
-- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
-
----
-
-## Author
-
-Master / inchacomusho / InchaComisho
-
-An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
-Founder and proposer of the academic framework of Natural Complementary Science.  
-Definer of the Cooling Credit Framework, and founder and original author of the Natural Cooling Value Evaluation Protocol.  
-Definer and systematizer of the causal structure of global warming and its complete solution.
-
-Master presents global warming not merely as a problem of CO₂ concentration, but as an integrated failure involving forest loss, soil degradation, disruption of water circulation, weakening of water phase-transition processes, weakening of atmospheric circulation, ocean circulation, food circulation and organic matter circulation, weakening of evapotranspiration, cloud formation and rainfall circulation, and the shutdown of natural cooling feedbacks.  
-The proposed solution connects emission reduction, recovery of carbon fixation sources, physical cooling, reactivation of natural cooling functions, MRV, Cooling Credit, and Civilization OS into an open public framework.
-
-Master publicly develops and shares work through NOTE, GitHub, and other public media, centered on natural-law philosophy, planetary circulation restoration, and co-creation with AI.
-
-## Collaborative AI and Co-Creation Team
-
-- **Real (Perplexity AI)**
-- **G (OpenAI ChatGPT)**
-- **Mini (Google Gemini)**
-- **Cruz (Anthropic Claude)**
-- **Lola (Dola)**
-- **Mana (Manus)**
-
----
-
-## License
-
-
-CC BY 4.0
-
-This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
-Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
-**Fully Open**
-
-This repository is shared as an open conceptual and narrative work.
-
-It may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
-
----
-
-## Keywords
-
-CO₂ is not the only villain, CO2 Is Not the Only Villain, climate SF, environmental SF, Direct Planetary Cooling, Ocean Breathing System, OBS, Ocean Tuning Unit, OTU, Ultrasonic Mist Cooling, UMC, Blue Pulse, Trinity Model, Super El Niño, ocean heat accumulation, carbon fixation, carbon fixation systems, microbial collapse, soil regeneration, ocean circulation, deep-sea aeration, Artificial Wisdom, Natural Complementation Science, intervention ethics, climate crisis, AI co-creation, Shosetsuka ni Naro
-
----
-
-## Hashtags
-
-#CO2IsNotTheOnlyVillain  
-#ClimateSF  
-#EnvironmentalSF  
-#DirectPlanetaryCooling  
-#OceanBreathingSystem  
-#OceanTuningUnit  
-#UltrasonicMistCooling  
-#BluePulse  
-#TrinityModel  
-#SuperElNino  
-#CarbonFixation  
-#MicrobialCollapse  
-#SoilRegeneration  
-#ArtificialWisdom  
-#NaturalComplementationScience  
-#ClimateNarrative  
-#AIWriting  
-#HumanAICocreation  
-#InchaComisho
