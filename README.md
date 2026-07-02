@@ -115,6 +115,8 @@ Key concept pages:
 11. [Episode 11 — The Answer Was a Trinity](episodes/EP11_THE_ANSWER_WAS_A_TRINITY.md)
 12. [Episode 12 — When I Saw the Super El Niño Map, It Looked Like Checkmate](episodes/EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
 
+Arabic edition: [Part 1 Arabic episode index](episodes/README_ar.md)
+
 ---
 
 ## Additional Parts
@@ -137,93 +139,3 @@ Unlike the Blue Pulse-only model, this simulation combines:
 The model compares deployment scales from 1 unit to 500,000 units and estimates illustrative changes in ocean heat stress, land heat stress, soil recovery, carbon sink recovery, compound risk reduction, and intervention risk.
 
 > **Important:** This is a toy model for narrative and educational purposes. It is not a climate forecast, engineering validation, or policy recommendation.
->
-> The benefit-risk balance used in this model is an illustrative narrative index, not a physical quantity or a direct cost-benefit calculation.
-
-- [Trinity Equatorial Belt Simulation](docs/concepts/trinity-equatorial-belt-simulation.md)
-- [Simulation Directory](simulations/trinity-equatorial-belt/)
-
----
-
-## Blue Pulse Conceptual Simulation
-
-This repository includes a simplified conceptual simulation for the fictional Blue Pulse project.
-
-It compares possible deployment scales from 1 unit to 100,000+ units and estimates illustrative changes in regional sea-surface heat stress, marine heatwave days, ecosystem recovery proxies, and intervention risk.
-
-> **Important:** This simulation is a toy model for narrative and educational purposes. It is not a real climate forecast, engineering validation, or policy recommendation.
-
-- [Blue Pulse Simulation Model](docs/concepts/blue-pulse-simulation-model.md)
-- [Simulation Directory](simulations/blue-pulse/)
-
-Results:
-
-- [Blue Pulse Simulation Results](simulations/blue-pulse/results/sample_summary.md)
-- [Blue Pulse Simulation CSV](simulations/blue-pulse/results/sample_results.csv)
-
----
-
-## Key Concepts
-
-- CO₂ reduction as a necessary condition, but not a sufficient condition
-- Ocean heat accumulation
-- Carbon fixation systems
-- Soil, forest, microbial, and marine biological degradation
-- Ocean Breathing System (OBS)
-- Ultrasonic Mist Cooling (UMC)
-- Blue Pulse as a speculative implementation framework
-- The ethics of intervention and non-intervention
-- The risk of doing something, and the risk of doing nothing
-
----
-
-## Episode-to-Concept Mapping
-
-| Episode | Narrative Theme | Concept Pages | Related Background |
-|---|---|---|---|
-| 1–2 | CO₂-only framing and carbon fixation systems | [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle.md), [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md) | Direct Planetary Cooling / Microorganisms |
-| 3 | El Niño and Super El Niño | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md) | El Niño / Super El Niño repository |
-| 4–5 | Ocean heat and OBS / deep ocean aeration | [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Deep Ocean Aeration](docs/concepts/deep-ocean-aeration.md) | Ocean Breathing / Ocean Temperature Reduction |
-| 6–8 | Blue Pulse, governance, and intervention ethics | [Blue Pulse](docs/concepts/blue-pulse.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | OBS / UMC / OTU |
-| 9 | Chile offshore Phase 2, artificial upwelling, OBS + UMC field deployment | [Blue Pulse](docs/concepts/blue-pulse.md), [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md) | Ocean Breathing / Ocean Temperature Reduction / UMC |
-| 10 | Blue Pulse evaluation, OBS + UMC risk-benefit balance, intervention ethics | [Blue Pulse](docs/concepts/blue-pulse.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | Ocean Breathing / UMC / OTU |
-| 11 | Direct Planetary Cooling and the Trinity Model | [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md), [Trinity Model](docs/concepts/trinity-model.md), [Soil Regeneration](docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) | Ecosystem Regeneration / Microorganisms |
-| 12 | Super El Niño compound risk and final synthesis | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md), [Trinity Model](docs/concepts/trinity-model.md) | El Niño / Direct Planetary Cooling |
-
----
-
-## Related Technical Background Repositories
-
-The following repositories provide the conceptual background and technical framework behind this narrative.
-
-They are not scientific papers or official specifications; they represent conceptual models and educational frameworks connected to the themes explored in the story.
-
-- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure) — a systems-based causal model connecting global warming with the weakening and loss of Earth's natural cooling functions.
-- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
-- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
-
-### Direct Planetary Cooling
-
-- [The Only Viable Solution to Global Warming: Direct Planetary Cooling](https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling)
-- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
-- [Global Direct Planetary Cooling System](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System)
-- [Global Direct Planetary Cooling Architecture](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture)
-- [Direct Planetary Cooling Integrated Repository Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index)
-
-### Ocean Breathing / OBS / Ocean Cooling
-
-- [Direct Planetary Cooling via Ocean Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding)
-- [Ocean Temperature Reduction via Ocean Breathing Nanobubble Columns and Ultrasonic Mist Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding)
-
-### UMC / Mist Cooling
-
-- [Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation)
-
-### OTU / Ocean Tuning Unit
-
-- [Technical Specification: Ocean Tuning Unit (OTU)](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-)
-- [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)
-
-### El Niño / Super El Niño
-
-- [El Niño, Super El Niño, Global Warming, and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption)
