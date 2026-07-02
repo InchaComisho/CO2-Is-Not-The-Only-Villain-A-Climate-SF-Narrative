@@ -9,11 +9,16 @@
 
 ---
 
-## قائمة الحلقات
+## قائمة الحلقات العربية
 
 1. [الجزء الثالث، الحلقة 1 — إلى أي مدى يمكن تركيب العجلات المساعدة في المجتمع؟](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_ar.md)
 
-المصدر الياباني:
+الفهرس الياباني: [README.md](README.md)  
+الدليل الإنجليزي: [README_en.md](README_en.md)
+
+---
+
+## المصدر الياباني
 
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
 
