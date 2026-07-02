@@ -9,11 +9,16 @@ This part asks how far those auxiliary wheels can be attached to society.
 
 ---
 
-## Episode List
+## English Episode List
 
 1. [Part 3 Episode 1 — How far can auxiliary wheels be attached to society?](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_en.md)
 
-Japanese source:
+Japanese source index: [README.md](README.md)  
+Arabic edition: [README_ar.md](README_ar.md)
+
+---
+
+## Japanese Source
 
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
 
