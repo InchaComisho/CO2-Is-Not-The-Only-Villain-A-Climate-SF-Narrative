@@ -1,6 +1,7 @@
 # Episodes 2 / 第二部
 
-**Japanese original:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)
+**Japanese original:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)  
+**Language guides:** Japanese source index | [English guide](README_en.md) | [Arabic guide](README_ar.md)
 
 Part 2 continues from the conclusion of Part 1: **CO₂ reduction is necessary, but not sufficient**.
 
