@@ -1,6 +1,7 @@
 # Episodes 3 / 第三部
 
-**Japanese original:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第三部](https://ncode.syosetu.com/n4511mk/)
+**Japanese original:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第三部](https://ncode.syosetu.com/n4511mk/)  
+**Language guides:** Japanese source index | [English guide](README_en.md) | [Arabic guide](README_ar.md)
 
 Part 3 begins after Part 2 reframed the Trinity Model — sea, air, and soil — not as a single perfect climate solution, but as **auxiliary wheels** that can partially support lost natural functions.
 
@@ -18,6 +19,8 @@ What can be implemented now, and what must be left to future generations?
 ## 第三部 話数一覧
 
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
+   - [English translation](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_en.md)
+   - [Arabic translation](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_ar.md)
 
 ---
 
