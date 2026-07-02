@@ -17,20 +17,23 @@
 
 ---
 
-## قائمة الحلقات
+## قائمة الحلقات العربية
 
-1. [الجزء الثاني، الحلقة 1 — هل تنجح إجراءات المناخ حقاً؟ تجمدت وأنا أنظر إلى الرسم البياني](EP01_DO_CLIMATE_MEASURES_REALLY_WORK.md)
-2. [الجزء الثاني، الحلقة 2 — منذ الثورة الصناعية، ما الذي كسرناه بالضبط؟](EP02_WHAT_DID_WE_BREAK_SINCE_INDUSTRIAL_REVOLUTION.md)
-3. [الجزء الثاني، الحلقة 3 — إلى أي حد استنزفنا التربة والبحر لإطعام البشرية؟](EP03_HOW_FAR_DID_SOIL_AND_SEA_GET_DEPLETED_TO_FEED_HUMANITY.md)
-4. [الجزء الثاني، الحلقة 4 — كيف نعيد الحياة إلى تربة تحتضر؟](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL.md)
-5. [الجزء الثاني، الحلقة 5 — استعادة التربة: من يفعل ماذا؟](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL.md)
-6. [الجزء الثاني، الحلقة 6 — حتى لو قيل «أعد التربة»، فالحقل لديه موعد نهائي اليوم](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL.md)
-7. [الجزء الثاني، الحلقة 7 — في غرفة اجتماع بالبلدية تؤجل التربة دائماً لأن «لا توجد ميزانية»](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
-8. [الجزء الثاني، الحلقة 8 — بين «نريد أن نكون شركة جيدة بيئياً» و«علينا إغلاق الحسابات هذا العام»](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS.md)
-9. [الجزء الثاني، الحلقة 9 — وأنا أختار الأرخص، فكرت في يوم «التصويت للتربة»](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE.md)
-10. [الجزء الثاني، الحلقة 10 — الصوت الواحد لا يصبح تياراً وحده](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW.md)
-11. [الجزء الثاني، الحلقة 11 — ومع ذلك، لنجرب تشغيل التيار مرة واحدة](EP11_STILL_RUN_THE_FLOW_ONCE.md)
-12. [الجزء الثاني، الحلقة 12 — لا يوجد كمال. لكن يمكن تحريك شيء أفضل](EP12_NO_PERFECT_SOLUTION_BUT_BETTER_WHEELS_CAN_MOVE.md)
+1. [الجزء الثاني، الحلقة 1 — هل تنجح إجراءات المناخ حقاً؟ تجمدت وأنا أنظر إلى الرسم البياني](EP01_DO_CLIMATE_MEASURES_REALLY_WORK_ar.md)
+2. [الجزء الثاني، الحلقة 2 — منذ الثورة الصناعية، ما الذي كسرناه بالضبط؟](EP02_WHAT_DID_WE_BREAK_SINCE_INDUSTRIAL_REVOLUTION_ar.md)
+3. [الجزء الثاني، الحلقة 3 — إلى أي حد استنزفنا التربة والبحر لإطعام البشرية؟](EP03_HOW_FAR_DID_SOIL_AND_SEA_GET_DEPLETED_TO_FEED_HUMANITY_ar.md)
+4. [الجزء الثاني، الحلقة 4 — كيف نعيد الحياة إلى تربة تحتضر؟](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL_ar.md)
+5. [الجزء الثاني، الحلقة 5 — استعادة التربة: من يفعل ماذا؟](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL_ar.md)
+6. [الجزء الثاني، الحلقة 6 — حتى لو قيل «أعد التربة»، فالحقل لديه موعد نهائي اليوم](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL_ar.md)
+7. [الجزء الثاني، الحلقة 7 — في غرفة بلدية تؤجل التربة دائماً لأن «لا توجد ميزانية»](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY_ar.md)
+8. [الجزء الثاني، الحلقة 8 — بين «نريد أن نكون شركة جيدة بيئياً» و«علينا إغلاق حسابات هذا العام»](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS_ar.md)
+9. [الجزء الثاني، الحلقة 9 — وأنا أختار الأرخص، فكرت في يوم «التصويت للتربة»](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE_ar.md)
+10. [الجزء الثاني، الحلقة 10 — الصوت الواحد لا يصبح تياراً وحده](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW_ar.md)
+11. [الجزء الثاني، الحلقة 11 — ومع ذلك، لنجرب تشغيل التيار مرة واحدة](EP11_STILL_RUN_THE_FLOW_ONCE_ar.md)
+12. [الجزء الثاني، الحلقة 12 — لا يوجد كمال. لكن يمكن تحريك شيء أفضل](EP12_NO_PERFECT_SOLUTION_BUT_BETTER_WHEELS_CAN_MOVE_ar.md)
+
+الفهرس الياباني: [README.md](README.md)  
+الدليل الإنجليزي: [README_en.md](README_en.md)
 
 ---
 
