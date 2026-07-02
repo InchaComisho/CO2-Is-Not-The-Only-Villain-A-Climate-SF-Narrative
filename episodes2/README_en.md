@@ -17,20 +17,23 @@ Return life to the soil.
 
 ---
 
-## Episode List
+## English Episode List
 
-1. [Part 2 Episode 1 — Are climate measures really working? I froze while looking at the graph](EP01_DO_CLIMATE_MEASURES_REALLY_WORK.md)
-2. [Part 2 Episode 2 — Since the Industrial Revolution, what exactly have we broken?](EP02_WHAT_DID_WE_BREAK_SINCE_INDUSTRIAL_REVOLUTION.md)
-3. [Part 2 Episode 3 — How far have soil and sea been scraped down to feed humanity?](EP03_HOW_FAR_DID_SOIL_AND_SEA_GET_DEPLETED_TO_FEED_HUMANITY.md)
-4. [Part 2 Episode 4 — How do we bring life back to dying soil?](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL.md)
-5. [Part 2 Episode 5 — Restoring soil: who actually does what?](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL.md)
-6. [Part 2 Episode 6 — Even if you say “restore the soil,” the field still has a deadline today](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL.md)
-7. [Part 2 Episode 7 — In a city-hall meeting room where soil keeps being postponed because “there is no budget”](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY.md)
-8. [Part 2 Episode 8 — Between “we want to be an environmentally responsible company” and “we still have to close this year’s accounts”](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS.md)
-9. [Part 2 Episode 9 — While choosing the cheaper one, I thought about the day I would “vote for soil”](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE.md)
-10. [Part 2 Episode 10 — A single vote does not become a flow by itself](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW.md)
-11. [Part 2 Episode 11 — Even so, try running the flow once](EP11_STILL_RUN_THE_FLOW_ONCE.md)
-12. [Part 2 Episode 12 — There is no perfect answer. But something better can still be moved](EP12_NO_PERFECT_SOLUTION_BUT_BETTER_WHEELS_CAN_MOVE.md)
+1. [Part 2 Episode 1 — Are climate measures really working? I froze while looking at the graph](EP01_DO_CLIMATE_MEASURES_REALLY_WORK_en.md)
+2. [Part 2 Episode 2 — Since the Industrial Revolution, what exactly have we broken?](EP02_WHAT_DID_WE_BREAK_SINCE_INDUSTRIAL_REVOLUTION_en.md)
+3. [Part 2 Episode 3 — How far have soil and sea been scraped down to feed humanity?](EP03_HOW_FAR_DID_SOIL_AND_SEA_GET_DEPLETED_TO_FEED_HUMANITY_en.md)
+4. [Part 2 Episode 4 — How do we bring life back to dying soil?](EP04_HOW_DO_WE_RETURN_LIFE_TO_DYING_SOIL_en.md)
+5. [Part 2 Episode 5 — Restoring soil: who actually does what?](EP05_WHO_DOES_WHAT_TO_RESTORE_SOIL_en.md)
+6. [Part 2 Episode 6 — Even if you say “restore the soil,” the field still has a deadline today](EP06_FIELD_DEADLINES_WHEN_TOLD_TO_RESTORE_SOIL_en.md)
+7. [Part 2 Episode 7 — In a city-hall meeting room where soil keeps being postponed because “there is no budget”](EP07_CITY_HALL_SOIL_BUDGETS_AND_FLOOD_POLICY_en.md)
+8. [Part 2 Episode 8 — Between “we want to be an environmentally responsible company” and “we still have to close this year’s accounts”](EP08_BETWEEN_GREEN_COMPANY_AND_ANNUAL_RESULTS_en.md)
+9. [Part 2 Episode 9 — While choosing the cheaper one, I thought about the day I would “vote for soil”](EP09_THINKING_ABOUT_VOTING_FOR_SOIL_WHILE_CHOOSING_THE_CHEAPER_ONE_en.md)
+10. [Part 2 Episode 10 — A single vote does not become a flow by itself](EP10_FROM_ONE_VOTE_TO_A_LOCAL_FLOW_en.md)
+11. [Part 2 Episode 11 — Even so, try running the flow once](EP11_STILL_RUN_THE_FLOW_ONCE_en.md)
+12. [Part 2 Episode 12 — There is no perfect answer. But something better can still be moved](EP12_NO_PERFECT_SOLUTION_BUT_BETTER_WHEELS_CAN_MOVE_en.md)
+
+Japanese source index: [README.md](README.md)  
+Arabic edition: [README_ar.md](README_ar.md)
 
 ---
 
