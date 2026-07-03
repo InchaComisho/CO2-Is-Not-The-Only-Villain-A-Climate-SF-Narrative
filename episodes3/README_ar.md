@@ -12,6 +12,7 @@
 ## قائمة الحلقات العربية
 
 1. [الجزء الثالث، الحلقة 1 — إلى أي مدى يمكن تركيب العجلات المساعدة في المجتمع؟](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_ar.md)
+2. [الجزء الثالث، الحلقة 2 — إذا ركبنا عجلات مساعدة لهذا البحر، فإلى أي مدى يجب أن نقبل الواقع؟](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA_ar.md)
 
 الفهرس الياباني: [README.md](README.md)  
 الدليل الإنجليزي: [README_en.md](README_en.md)
@@ -21,6 +22,7 @@
 ## المصدر الياباني
 
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
+2. [第3部 第2話 — この海に補助輪を付けるなら、どこまで現実を引き受けるのか？](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA.md)
 
 ---
 
