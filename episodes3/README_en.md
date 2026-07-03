@@ -12,6 +12,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 ## English Episode List
 
 1. [Part 3 Episode 1 — How far can auxiliary wheels be attached to society?](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_en.md)
+2. [Part 3 Episode 2 — If we attach auxiliary wheels to this sea, how much reality must we accept?](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA_en.md)
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -21,6 +22,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 ## Japanese Source
 
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
+2. [第3部 第2話 — この海に補助輪を付けるなら、どこまで現実を引き受けるのか？](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA.md)
 
 ---
 
