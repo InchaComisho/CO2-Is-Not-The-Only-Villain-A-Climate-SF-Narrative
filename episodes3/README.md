@@ -27,6 +27,9 @@ What can be implemented now, and what must be left to future generations?
 3. [第3部 第3話 — 漁港のニュースを見ながら、「この海に手を出す理由」と「まだ待つ理由」を数えてみる](EP03_COUNTING_REASONS_TO_TOUCH_THIS_SEA_AND_REASONS_TO_WAIT.md)
    - [English translation](EP03_COUNTING_REASONS_TO_TOUCH_THIS_SEA_AND_REASONS_TO_WAIT_en.md)
    - [Arabic translation](EP03_COUNTING_REASONS_TO_TOUCH_THIS_SEA_AND_REASONS_TO_WAIT_ar.md)
+4. [第3部 第4話 — 日本近海の海洋熱波を前に、「世界地図」と「足元の海」の両方を見てしまう](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN.md)
+   - [English translation](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN_en.md)
+   - [Arabic translation](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN_ar.md)
 
 ---
 
