@@ -14,6 +14,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 1. [Part 3 Episode 1 — How far can auxiliary wheels be attached to society?](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY_en.md)
 2. [Part 3 Episode 2 — If we attach auxiliary wheels to this sea, how much reality must we accept?](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA_en.md)
 3. [Part 3 Episode 3 — While watching fishing-port news, counting the reasons to touch this sea and the reasons to wait](EP03_COUNTING_REASONS_TO_TOUCH_THIS_SEA_AND_REASONS_TO_WAIT_en.md)
+4. [Part 3 Episode 4 — Facing marine heatwaves around Japan, I end up seeing both the world map and the sea under my feet](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN_en.md)
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -25,6 +26,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 1. [第3部 第1話 — 補助輪を、どこまで社会に付けられるのか？](EP01_HOW_FAR_CAN_AUXILIARY_WHEELS_BE_ATTACHED_TO_SOCIETY.md)
 2. [第3部 第2話 — この海に補助輪を付けるなら、どこまで現実を引き受けるのか？](EP02_WHAT_REALITY_MUST_WE_ACCEPT_TO_ATTACH_AUXILIARY_WHEELS_TO_THIS_SEA.md)
 3. [第3部 第3話 — 漁港のニュースを見ながら、「この海に手を出す理由」と「まだ待つ理由」を数えてみる](EP03_COUNTING_REASONS_TO_TOUCH_THIS_SEA_AND_REASONS_TO_WAIT.md)
+4. [第3部 第4話 — 日本近海の海洋熱波を前に、「世界地図」と「足元の海」の両方を見てしまう](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN.md)
 
 ---
 
