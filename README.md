@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md) | [العربية](README_ar.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Climate Fiction Gateway to Direct Planetary Cooling, Ocean Breathing, Mist Cooling, Soil Regeneration, and Artificial Wisdom
 
 > A speculative environmental SF narrative about ocean heat, carbon fixation, weakened circulation, and the difficult question of whether civilization should reach toward the sea.

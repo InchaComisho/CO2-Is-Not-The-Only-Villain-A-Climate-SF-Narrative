@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## CO₂ Is Not the Only Villain: A Climate SF Narrative
 
 **地球直接冷却、Ocean Breathing、ミスト冷却、土壌再生、人工叡智へ読者を導くための気候SFナラティブ。**
