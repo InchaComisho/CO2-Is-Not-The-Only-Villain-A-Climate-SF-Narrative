@@ -36,6 +36,9 @@ What can be implemented now, and what must be left to future generations?
 6. [第3部 第6話 — 「土をスポンジにした人」と「雨庭を作った人」の話を、同じ流域の物語として聞きに行く](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY.md)
    - [English translation](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY_en.md)
    - [Arabic translation](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY_ar.md)
+7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
+   - [English translation](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_en.md)
+   - [Arabic translation](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_ar.md)
 
 ---
 
