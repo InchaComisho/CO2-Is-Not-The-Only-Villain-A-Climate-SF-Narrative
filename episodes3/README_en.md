@@ -17,6 +17,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 4. [Part 3 Episode 4 — Facing marine heatwaves around Japan, I end up seeing both the world map and the sea under my feet](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN_en.md)
 5. [Part 3 Episode 5 — When the heavy-rain map and the watershed map overlapped, the role of the soil auxiliary wheels finally became visible](EP05_OVERLAYING_HEAVY_RAIN_MAP_AND_WATERSHED_MAP_REVEALS_SOIL_AUXILIARY_WHEELS_en.md)
 6. [Part 3 Episode 6 — Listening to the person who made soil into a sponge and the person who made a rain garden as one watershed story](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY_en.md)
+7. [Part 3 Episode 7 — When heavy-rain years and quieter years are placed side by side, what does the side that keeps going see?](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_en.md)
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -31,6 +32,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 4. [第3部 第4話 — 日本近海の海洋熱波を前に、「世界地図」と「足元の海」の両方を見てしまう](EP04_SEEING_BOTH_WORLD_MAP_AND_LOCAL_SEA_BEFORE_MARINE_HEATWAVES_AROUND_JAPAN.md)
 5. [第3部 第5話 — 豪雨の地図と流域の地図を重ねたとき、ようやく「土の補助輪」の出番が見えてきた](EP05_OVERLAYING_HEAVY_RAIN_MAP_AND_WATERSHED_MAP_REVEALS_SOIL_AUXILIARY_WHEELS.md)
 6. [第3部 第6話 — 「土をスポンジにした人」と「雨庭を作った人」の話を、同じ流域の物語として聞きに行く](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY.md)
+7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
 
 ---
 
