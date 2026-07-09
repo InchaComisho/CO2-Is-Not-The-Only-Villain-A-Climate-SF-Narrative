@@ -39,6 +39,9 @@ What can be implemented now, and what must be left to future generations?
 7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
    - [English translation](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_en.md)
    - [Arabic translation](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_ar.md)
+8. [第3部 第8話 — 「熱を逃がす街」と「海に押し付けすぎない街」を、同じ夏の地図の上で探してみる](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP.md)
+   - [English translation](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_en.md)
+   - [Arabic translation](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_ar.md)
 
 ---
 
