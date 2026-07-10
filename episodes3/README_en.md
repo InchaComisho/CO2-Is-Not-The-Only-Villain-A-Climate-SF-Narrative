@@ -19,6 +19,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 6. [Part 3 Episode 6 — Listening to the person who made soil into a sponge and the person who made a rain garden as one watershed story](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY_en.md)
 7. [Part 3 Episode 7 — When heavy-rain years and quieter years are placed side by side, what does the side that keeps going see?](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_en.md)
 8. [Part 3 Episode 8 — Searching on the same summer map for a city that releases heat and a city that does not push too much heat toward the sea](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_en.md)
+9. [Part 3 Episode 9 — Going to hear about mist that is not an event and wind corridors drawn into the plans](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_en.md)
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -35,6 +36,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 6. [第3部 第6話 — 「土をスポンジにした人」と「雨庭を作った人」の話を、同じ流域の物語として聞きに行く](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY.md)
 7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
 8. [第3部 第8話 — 「熱を逃がす街」と「海に押し付けすぎない街」を、同じ夏の地図の上で探してみる](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP.md)
+9. [第3部 第9話 — イベントじゃないミストと、図面に書かれた風の通り道の話を聞きに行く](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS.md)
 
 ---
 
