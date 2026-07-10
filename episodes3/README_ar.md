@@ -19,6 +19,7 @@
 6. [الجزء الثالث، الحلقة 6 — الذهاب لسماع قصة «من جعل التربة إسفنجة» و«من صنع حديقة مطرية» كقصة حوض واحد](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY_ar.md)
 7. [الجزء الثالث، الحلقة 7 — عندما نضع سنة الأمطار الغزيرة بجانب سنة أهدأ، ماذا يرى الذين يواصلون؟](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_ar.md)
 8. [الجزء الثالث، الحلقة 8 — البحث على خريطة صيف واحدة عن «مدينة تطلق الحرارة» و«مدينة لا تدفع الكثير من الحرارة نحو البحر»](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_ar.md)
+9. [الجزء الثالث، الحلقة 9 — الذهاب لسماع قصة الرذاذ الذي ليس حدثاً وممرات الرياح المرسومة في المخططات](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_ar.md)
 
 الفهرس الياباني: [README.md](README.md)  
 الدليل الإنجليزي: [README_en.md](README_en.md)
@@ -35,6 +36,7 @@
 6. [第3部 第6話 — 「土をスポンジにした人」と「雨庭を作った人」の話を、同じ流域の物語として聞きに行く](EP06_LISTENING_TO_SPONGE_SOIL_AND_RAIN_GARDEN_AS_ONE_WATERSHED_STORY.md)
 7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
 8. [第3部 第8話 — 「熱を逃がす街」と「海に押し付けすぎない街」を、同じ夏の地図の上で探してみる](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP.md)
+9. [第3部 第9話 — イベントじゃないミストと、図面に書かれた風の通り道の話を聞きに行く](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS.md)
 
 ---
 
