@@ -45,6 +45,9 @@ What can be implemented now, and what must be left to future generations?
 9. [第3部 第9話 — イベントじゃないミストと、図面に書かれた風の通り道の話を聞きに行く](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS.md)
    - [English translation](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_en.md)
    - [Arabic translation](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_ar.md)
+10. [第3部 第10話 — 補助輪をどこまで付けられるかを、一度「現実」と「もしも」の両方で見てみる](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF.md)
+    - [English translation](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF_en.md)
+    - [Arabic translation](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF_ar.md)
 
 ---
 
