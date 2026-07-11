@@ -20,6 +20,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 7. [Part 3 Episode 7 — When heavy-rain years and quieter years are placed side by side, what does the side that keeps going see?](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS_en.md)
 8. [Part 3 Episode 8 — Searching on the same summer map for a city that releases heat and a city that does not push too much heat toward the sea](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_en.md)
 9. [Part 3 Episode 9 — Going to hear about mist that is not an event and wind corridors drawn into the plans](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_en.md)
+10. [Part 3 Episode 10 — Looking once at how far auxiliary wheels can be attached, in both reality and a what-if world](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF_en.md)
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -37,6 +38,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 7. [第3部 第7話 — 豪雨の年とそうじゃない年を並べたとき、「続ける側」は何を見ているのか？](EP07_WHAT_CONTINUING_SIDE_SEES_ACROSS_HEAVY_RAIN_AND_QUIETER_YEARS.md)
 8. [第3部 第8話 — 「熱を逃がす街」と「海に押し付けすぎない街」を、同じ夏の地図の上で探してみる](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP.md)
 9. [第3部 第9話 — イベントじゃないミストと、図面に書かれた風の通り道の話を聞きに行く](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS.md)
+10. [第3部 第10話 — 補助輪をどこまで付けられるかを、一度「現実」と「もしも」の両方で見てみる](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF.md)
 
 ---
 
