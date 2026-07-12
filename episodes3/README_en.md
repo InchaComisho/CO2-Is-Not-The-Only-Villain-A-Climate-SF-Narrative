@@ -21,6 +21,7 @@ This part asks how far those auxiliary wheels can be attached to society.
 8. [Part 3 Episode 8 — Searching on the same summer map for a city that releases heat and a city that does not push too much heat toward the sea](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP_en.md)
 9. [Part 3 Episode 9 — Going to hear about mist that is not an event and wind corridors drawn into the plans](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS_en.md)
 10. [Part 3 Episode 10 — Looking once at how far auxiliary wheels can be attached, in both reality and a what-if world](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF_en.md)
+11. **[Part 3 Final Episode — Where should the branch point be placed between an unchanged reality and a world where things moved?](EP11_CHOOSING_THE_BRANCH_POINT_BETWEEN_UNCHANGED_REALITY_AND_A_WORLD_WHERE_IT_MOVED_en.md)**
 
 Japanese source index: [README.md](README.md)  
 Arabic edition: [README_ar.md](README_ar.md)
@@ -39,6 +40,7 @@ Arabic edition: [README_ar.md](README_ar.md)
 8. [第3部 第8話 — 「熱を逃がす街」と「海に押し付けすぎない街」を、同じ夏の地図の上で探してみる](EP08_FINDING_HEAT_RELEASING_AND_LESS_HEAT_SHIFTING_CITIES_ON_THE_SAME_SUMMER_MAP.md)
 9. [第3部 第9話 — イベントじゃないミストと、図面に書かれた風の通り道の話を聞きに行く](EP09_LISTENING_TO_NON_EVENT_MIST_AND_WIND_CORRIDORS_DRAWN_ON_PLANS.md)
 10. [第3部 第10話 — 補助輪をどこまで付けられるかを、一度「現実」と「もしも」の両方で見てみる](EP10_VIEWING_HOW_FAR_AUXILIARY_WHEELS_CAN_BE_ATTACHED_IN_REALITY_AND_WHAT_IF.md)
+11. **[第3部 最終話 — 動かない現実線と、「もし動いた世界線」の分岐点をどこに置くのか](EP11_CHOOSING_THE_BRANCH_POINT_BETWEEN_UNCHANGED_REALITY_AND_A_WORLD_WHERE_IT_MOVED.md)**
 
 ---
 
