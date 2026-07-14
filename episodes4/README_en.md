@@ -19,9 +19,15 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 ## English Episode List
 
 1. [Part 4 Episode 1 — The world that continued as it was, and the world that bent slightly](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
+2. [Part 4 Episode 2 — Summer at the station front, and summer at a station front that bent slightly](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_en.md)
 
-Japanese source: [EP01 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)  
-Arabic edition: [EP01 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
+Japanese sources:  
+- [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
+- [Episode 2 Japanese](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER.md)
+
+Arabic editions:  
+- [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
+- [Episode 2 Arabic](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_ar.md)
 
 ---
 
