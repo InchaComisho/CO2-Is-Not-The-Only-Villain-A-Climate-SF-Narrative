@@ -31,11 +31,13 @@ It is a **narrative companion** to the concepts of Direct Planetary Cooling, the
 
 ## Japanese Original
 
-The Japanese original version is available on **Shosetsuka ni Naro**:
+The Japanese original is available on **Shosetsuka ni Naro**:
 
-- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第一部](https://ncode.syosetu.com/n7832mg/)
-- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)
-- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第三部](https://ncode.syosetu.com/n4511mk/)
+- [Full series index](https://ncode.syosetu.com/s5141k/)
+- [Part 1](https://ncode.syosetu.com/n7832mg/)
+- [Part 2](https://ncode.syosetu.com/n1464mj/)
+- [Part 3](https://ncode.syosetu.com/n4511mk/)
+- [Part 4](https://ncode.syosetu.com/n8549ml/)
 
 ---
 
@@ -125,6 +127,7 @@ Arabic edition: [Part 1 Arabic episode index](episodes/README_ar.md)
 
 - [Part 2 / 第二部](episodes2/README.md) — [English guide](episodes2/README_en.md) / [Arabic guide](episodes2/README_ar.md)
 - [Part 3 / 第三部](episodes3/README.md) — [English guide](episodes3/README_en.md) / [Arabic guide](episodes3/README_ar.md)
+- [Part 4 / 第四部](episodes4/README.md) — [English guide](episodes4/README_en.md) / [Arabic guide](episodes4/README_ar.md)
 
 ---
 
