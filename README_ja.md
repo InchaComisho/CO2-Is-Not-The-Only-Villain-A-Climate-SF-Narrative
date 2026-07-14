@@ -1,6 +1,6 @@
 # 俺、CO₂悪者説を信じてたら地球詰んでたんだが？――気候SFナラティブ
 
-**言語 / Language:** 日本語 | [English Version](README.md)
+**言語 / Language:** 日本語 | [English Version](README.md) | [العربية](README_ar.md)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
 
@@ -35,9 +35,12 @@ CO₂削減は必要である。
 
 日本語原作は、**小説家になろう** で公開されている。
 
+- [全作品まとめ](https://ncode.syosetu.com/s5141k/)
 - [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第一部](https://ncode.syosetu.com/n7832mg/)
 - [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第二部](https://ncode.syosetu.com/n1464mj/)
-  
+- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第三部](https://ncode.syosetu.com/n4511mk/)
+- [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第四部](https://ncode.syosetu.com/n8549ml/)
+
 ---
 
 ## クレジット
@@ -115,6 +118,14 @@ CO₂削減は必要である。
 10. [第10話 — それでも海へ手を伸ばすのかと問われた日](episodes/EP10_THE_DAY_WE_WERE_ASKED_IF_WE_STILL_REACH_FOR_THE_SEA.md)
 11. [第11話 — 答えは三位一体だった](episodes/EP11_THE_ANSWER_WAS_A_TRINITY.md)
 12. [第12話 — スーパーエルニーニョの地図を見たとき、詰みだと思った](episodes/EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
+
+---
+
+## 続編・各部案内
+
+- [第2部](episodes2/README.md) — [English guide](episodes2/README_en.md) / [Arabic guide](episodes2/README_ar.md)
+- [第3部](episodes3/README.md) — [English guide](episodes3/README_en.md) / [Arabic guide](episodes3/README_ar.md)
+- [第4部](episodes4/README.md) — [English guide](episodes4/README_en.md) / [Arabic guide](episodes4/README_ar.md)
 
 ---
 
@@ -268,11 +279,11 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 
 ## ライセンス
 
-
 CC BY 4.0
 
 本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
 著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
+
 **完全オープン / Fully Open**
 
 本リポジトリは、オープンな概念・物語作品として共有される。
