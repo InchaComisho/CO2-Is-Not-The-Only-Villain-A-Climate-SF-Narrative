@@ -494,7 +494,7 @@ On event days, lighting, music, and decoration are added.
 
 But the mist is not intensified beyond safe operating conditions simply because an event is being held.
 
-Boredom is not replaced by spectacle; rather, bustle is added to ordinary infrastructure. The mist itself is no longer special equipment that exists only on festival days.
+Bustle is added to ordinary infrastructure; the mist itself is no longer special equipment that exists only on festival days.
 
 The main difference described in this episode is not the shape of the mist or the amount sprayed.
 
