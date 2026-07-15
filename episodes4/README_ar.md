@@ -20,14 +20,17 @@
 
 1. [الجزء الرابع، الحلقة 1 — العالم الذي استمر كما هو، والعالم الذي انحرف قليلاً](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
 2. [الجزء الرابع، الحلقة 2 — صيف أمام المحطة، وصيف أمام محطة انحرف قليلاً](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_ar.md)
+3. [الجزء الرابع، الحلقة 3 — رذاذ الشارع التجاري بين «الحيوية» و«المسلَّمة»](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_ar.md)
 
 المصادر اليابانية:  
 - [الحلقة الأولى باليابانية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
 - [الحلقة الثانية باليابانية](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER.md)
+- [الحلقة الثالثة باليابانية](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION.md)
 
 النسخ الإنجليزية:  
 - [الحلقة الأولى بالإنجليزية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_en.md)
+- [الحلقة الثالثة بالإنجليزية](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_en.md)
 
 ---
 
