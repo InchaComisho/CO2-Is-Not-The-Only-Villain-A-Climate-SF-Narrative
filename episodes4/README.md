@@ -27,6 +27,9 @@
 3. [第4部 第3話 — 商店街のミストと、「にぎわい」と「前提」のあいだ](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION.md)
    - [English translation](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_en.md)
    - [Arabic translation](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_ar.md)
+4. [第4部 第4話 — 公園のベンチと、「ただ暑い場所」と「少しだけ休める場所」](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE.md)
+   - [English translation](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_en.md)
+   - [Arabic translation](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_ar.md)
 
 ---
 
