@@ -21,16 +21,19 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 1. [Part 4 Episode 1 — The world that continued as it was, and the world that bent slightly](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
 2. [Part 4 Episode 2 — Summer at the station front, and summer at a station front that bent slightly](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_en.md)
 3. [Part 4 Episode 3 — Shopping-street mist between “bustle” and “assumption”](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_en.md)
+4. [Part 4 Episode 4 — The park bench, the place that is only hot, and the place where one can rest a little](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_en.md)
 
 Japanese sources:  
 - [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
 - [Episode 2 Japanese](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER.md)
 - [Episode 3 Japanese](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION.md)
+- [Episode 4 Japanese](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE.md)
 
 Arabic editions:  
 - [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
 - [Episode 2 Arabic](EP02_STATION_FRONT_SUMMER_AND_SLIGHTLY_BENT_STATION_FRONT_SUMMER_ar.md)
 - [Episode 3 Arabic](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_ar.md)
+- [Episode 4 Arabic](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_ar.md)
 
 ---
 
