@@ -1,7 +1,7 @@
 # الحلقات 4 / الجزء الرابع — الدليل العربي
 
 **فهرس السلسلة على 小説家になろう:** [كل الأجزاء](https://ncode.syosetu.com/s5141k/)  
-**الأصل الياباني للجزء الرابع:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第四部](https://ncode.syosetu.com/n8549ml/)  
+**الأصل الياباني للجزء الرابع:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが؟第四部](https://ncode.syosetu.com/n8549ml/)  
 **دليل اللغة:** [الفهرس الياباني](README.md) | [English guide](README_en.md) | العربية
 
 يبدأ الجزء الرابع باستخدام القلمين اللذين اختارهما البطل في الجزء الثالث: **سجل خط الواقع** و**سجل خط ماذا لو**.
@@ -23,6 +23,7 @@
 3. [الجزء الرابع، الحلقة 3 — رذاذ الشارع التجاري بين «الحيوية» و«المسلَّمة»](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_ar.md)
 4. [الجزء الرابع، الحلقة 4 — مقعد الحديقة، و«مكان حار فقط» و«مكان يمكن الاستراحة فيه قليلاً»](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_ar.md)
 5. [الجزء الرابع، الحلقة 5 — المركز المجتمعي والمأوى: «مكان نستعير فيه التكييف» و«مكان يدعم قليلاً»](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_ar.md)
+6. [الجزء الرابع، الحلقة 6 — حرارة الشرفة، و«الغرفة المغلقة» و«الغرفة التي تطلق شيئاً قليلاً»](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_ar.md)
 
 المصادر اليابانية:  
 - [الحلقة الأولى باليابانية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -30,6 +31,7 @@
 - [الحلقة الثالثة باليابانية](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION.md)
 - [الحلقة الرابعة باليابانية](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE.md)
 - [الحلقة الخامسة باليابانية](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE.md)
+- [الحلقة السادسة باليابانية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE.md)
 
 النسخ الإنجليزية:  
 - [الحلقة الأولى بالإنجليزية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
@@ -37,6 +39,7 @@
 - [الحلقة الثالثة بالإنجليزية](EP03_SHOPPING_STREET_MIST_BETWEEN_BUSTLE_AND_ASSUMPTION_en.md)
 - [الحلقة الرابعة بالإنجليزية](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_en.md)
 - [الحلقة الخامسة بالإنجليزية](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_en.md)
+- [الحلقة السادسة بالإنجليزية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_en.md)
 
 ---
 
