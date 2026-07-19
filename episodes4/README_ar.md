@@ -24,6 +24,7 @@
 4. [الجزء الرابع، الحلقة 4 — مقعد الحديقة، و«مكان حار فقط» و«مكان يمكن الاستراحة فيه قليلاً»](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_ar.md)
 5. [الجزء الرابع، الحلقة 5 — المركز المجتمعي والمأوى: «مكان نستعير فيه التكييف» و«مكان يدعم قليلاً»](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_ar.md)
 6. [الجزء الرابع، الحلقة 6 — حرارة الشرفة، و«الغرفة المغلقة» و«الغرفة التي تطلق شيئاً قليلاً»](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_ar.md)
+7. [الجزء الرابع، الحلقة 7 — المنحدرات العليا، و«حقول تتذكر كيف انهارت» و«حقول ما زالت تنسى»](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_ar.md)
 
 المصادر اليابانية:  
 - [الحلقة الأولى باليابانية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -32,6 +33,7 @@
 - [الحلقة الرابعة باليابانية](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE.md)
 - [الحلقة الخامسة باليابانية](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE.md)
 - [الحلقة السادسة باليابانية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE.md)
+- [الحلقة السابعة باليابانية](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED.md)
 
 النسخ الإنجليزية:  
 - [الحلقة الأولى بالإنجليزية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
@@ -40,6 +42,7 @@
 - [الحلقة الرابعة بالإنجليزية](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_en.md)
 - [الحلقة الخامسة بالإنجليزية](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_en.md)
 - [الحلقة السادسة بالإنجليزية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_en.md)
+- [الحلقة السابعة بالإنجليزية](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_en.md)
 
 ---
 
