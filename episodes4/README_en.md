@@ -24,6 +24,7 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 4. [Part 4 Episode 4 — The park bench, the place that is only hot, and the place where one can rest a little](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_en.md)
 5. [Part 4 Episode 5 — Community centers and shelters: “a place to borrow air conditioning” and “a place that supports a little”](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_en.md)
 6. [Part 4 Episode 6 — Balcony heat, the closed room, and the room that releases a little](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_en.md)
+7. [Part 4 Episode 7 — Upstream slopes, fields that remember how they collapsed, and fields that still forget](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_en.md)
 
 Japanese sources:  
 - [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -32,6 +33,7 @@ Japanese sources:
 - [Episode 4 Japanese](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE.md)
 - [Episode 5 Japanese](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE.md)
 - [Episode 6 Japanese](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE.md)
+- [Episode 7 Japanese](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED.md)
 
 Arabic editions:  
 - [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
@@ -40,6 +42,7 @@ Arabic editions:
 - [Episode 4 Arabic](EP04_PARK_BENCH_AND_JUST_HOT_PLACE_OR_PLACE_TO_REST_A_LITTLE_ar.md)
 - [Episode 5 Arabic](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_ar.md)
 - [Episode 6 Arabic](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_ar.md)
+- [Episode 7 Arabic](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_ar.md)
 
 ---
 
