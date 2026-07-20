@@ -25,6 +25,7 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 5. [Part 4 Episode 5 — Community centers and shelters: “a place to borrow air conditioning” and “a place that supports a little”](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_en.md)
 6. [Part 4 Episode 6 — Balcony heat, the closed room, and the room that releases a little](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_en.md)
 7. [Part 4 Episode 7 — Upstream slopes, fields that remember how they collapsed, and fields that still forget](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_en.md)
+8. [Part 4 Episode 8 — Rain-garden water, the town that sends it straight through, and the town that receives it once](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_en.md)
 
 Japanese sources:  
 - [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -34,6 +35,7 @@ Japanese sources:
 - [Episode 5 Japanese](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE.md)
 - [Episode 6 Japanese](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE.md)
 - [Episode 7 Japanese](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED.md)
+- [Episode 8 Japanese](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE.md)
 
 Arabic editions:  
 - [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
@@ -43,6 +45,7 @@ Arabic editions:
 - [Episode 5 Arabic](EP05_COMMUNITY_CENTER_AND_SHELTER_BORROWING_AIR_CONDITIONING_AND_SUPPORTING_A_LITTLE_ar.md)
 - [Episode 6 Arabic](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_ar.md)
 - [Episode 7 Arabic](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_ar.md)
+- [Episode 8 Arabic](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_ar.md)
 
 ---
 
