@@ -26,6 +26,7 @@
 6. [الجزء الرابع، الحلقة 6 — حرارة الشرفة، و«الغرفة المغلقة» و«الغرفة التي تطلق شيئاً قليلاً»](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_ar.md)
 7. [الجزء الرابع، الحلقة 7 — المنحدرات العليا، و«حقول تتذكر كيف انهارت» و«حقول ما زالت تنسى»](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_ar.md)
 8. [الجزء الرابع، الحلقة 8 — ماء حديقة المطر، و«بلدة تجريه مباشرة» و«بلدة تستقبله مرة واحدة»](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_ar.md)
+9. [الجزء الرابع، الحلقة 9 — سكون حوض التخزين الفيضي، و«بلدة تدفع الماء كله بعيداً» و«بلدة تقبل قليلاً منه»](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_ar.md)
 
 المصادر اليابانية:  
 - [الحلقة الأولى باليابانية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -36,6 +37,7 @@
 - [الحلقة السادسة باليابانية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE.md)
 - [الحلقة السابعة باليابانية](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED.md)
 - [الحلقة الثامنة باليابانية](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE.md)
+- [الحلقة التاسعة باليابانية](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE.md)
 
 النسخ الإنجليزية:  
 - [الحلقة الأولى بالإنجليزية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
@@ -46,6 +48,7 @@
 - [الحلقة السادسة بالإنجليزية](EP06_BALCONY_HEAT_AND_CLOSED_ROOM_OR_ROOM_THAT_RELEASES_A_LITTLE_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_en.md)
 - [الحلقة الثامنة بالإنجليزية](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_en.md)
+- [الحلقة التاسعة بالإنجليزية](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_en.md)
 
 ---
 
