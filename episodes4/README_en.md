@@ -27,6 +27,7 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 7. [Part 4 Episode 7 — Upstream slopes, fields that remember how they collapsed, and fields that still forget](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_en.md)
 8. [Part 4 Episode 8 — Rain-garden water, the town that sends it straight through, and the town that receives it once](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_en.md)
 9. [Part 4 Episode 9 — The quietness of the retention basin, the town that pushes water back, and the town that accepts a little](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_en.md)
+10. [Part 4 Episode 10 — Riverside residential districts, the town that keeps the waterside away, and the town that lives while watching it](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_en.md)
 
 Japanese sources:  
 - [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -38,6 +39,7 @@ Japanese sources:
 - [Episode 7 Japanese](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED.md)
 - [Episode 8 Japanese](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE.md)
 - [Episode 9 Japanese](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE.md)
+- [Episode 10 Japanese](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT.md)
 
 Arabic editions:  
 - [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
@@ -49,6 +51,7 @@ Arabic editions:
 - [Episode 7 Arabic](EP07_UPSTREAM_SLOPES_AND_FIELDS_THAT_REMEMBER_HOW_THEY_COLLAPSED_ar.md)
 - [Episode 8 Arabic](EP08_RAIN_GARDEN_WATER_AND_STRAIGHT_FLOWING_TOWN_OR_TOWN_THAT_RECEIVES_ONCE_ar.md)
 - [Episode 9 Arabic](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_ar.md)
+- [Episode 10 Arabic](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_ar.md)
 
 ---
 
