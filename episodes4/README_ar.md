@@ -1,7 +1,7 @@
 # الحلقات 4 / الجزء الرابع — الدليل العربي
 
 **فهرس السلسلة على 小説家になろう:** [كل الأجزاء](https://ncode.syosetu.com/s5141k/)  
-**الأصل الياباني للجزء الرابع:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが？第四部](https://ncode.syosetu.com/n8549ml/)  
+**الأصل الياباني للجزء الرابع:** [俺、CO₂悪者説を信じてたら地球詰んでたんだが؟第四部](https://ncode.syosetu.com/n8549ml/)  
 **دليل اللغة:** [الفهرس الياباني](README.md) | [English guide](README_en.md) | العربية
 
 يبدأ الجزء الرابع باستخدام القلمين اللذين اختارهما البطل في الجزء الثالث: **سجل خط الواقع** و**سجل خط ماذا لو**.
@@ -29,6 +29,7 @@
 9. [الجزء الرابع، الحلقة 9 — سكون حوض التخزين الفيضي، و«بلدة تدفع الماء كله بعيداً» و«بلدة تقبل قليلاً منه»](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_ar.md)
 10. [الجزء الرابع، الحلقة 10 — الحي السكني على ضفة النهر، و«بلدة تُبعد حافة الماء» و«بلدة تعيش وهي تراقب الماء»](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_ar.md)
 11. [الجزء الرابع، الحلقة 11 — صباح الميناء، و«ميناء يقرأ حرارة الماء» و«ميناء تسبقه حرارة الماء»](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT_ar.md)
+12. [الجزء الرابع، الحلقة 12 — مراقبة الصيف الذي يستمر كما هو، والصيف الذي انحرف قليلاً](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY_ar.md)
 
 المصادر اليابانية:  
 - [الحلقة الأولى باليابانية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -42,6 +43,7 @@
 - [الحلقة التاسعة باليابانية](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE.md)
 - [الحلقة العاشرة باليابانية](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT.md)
 - [الحلقة الحادية عشرة باليابانية](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT.md)
+- [الحلقة الثانية عشرة باليابانية](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY.md)
 
 النسخ الإنجليزية:  
 - [الحلقة الأولى بالإنجليزية](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_en.md)
@@ -55,6 +57,7 @@
 - [الحلقة التاسعة بالإنجليزية](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_en.md)
 - [الحلقة العاشرة بالإنجليزية](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_en.md)
 - [الحلقة الحادية عشرة بالإنجليزية](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT_en.md)
+- [الحلقة الثانية عشرة بالإنجليزية](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY_en.md)
 
 ---
 
