@@ -29,6 +29,7 @@ Neither world is an ideal utopia; each is a world shaped by different human choi
 9. [Part 4 Episode 9 — The quietness of the retention basin, the town that pushes water back, and the town that accepts a little](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_en.md)
 10. [Part 4 Episode 10 — Riverside residential districts, the town that keeps the waterside away, and the town that lives while watching it](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_en.md)
 11. [Part 4 Episode 11 — The fishing-port morning, the port that reads water temperature, and the port overtaken by it](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT_en.md)
+12. [Part 4 Episode 12 — Witnessing the summer that continues, and the summer that bent slightly](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY_en.md)
 
 Japanese sources:  
 - [Episode 1 Japanese](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY.md)
@@ -42,6 +43,7 @@ Japanese sources:
 - [Episode 9 Japanese](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE.md)
 - [Episode 10 Japanese](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT.md)
 - [Episode 11 Japanese](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT.md)
+- [Episode 12 Japanese](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY.md)
 
 Arabic editions:  
 - [Episode 1 Arabic](EP01_THE_WORLD_THAT_CONTINUED_AND_THE_WORLD_THAT_BENT_SLIGHTLY_ar.md)
@@ -55,6 +57,7 @@ Arabic editions:
 - [Episode 9 Arabic](EP09_RETENTION_BASIN_QUIETNESS_AND_TOWN_THAT_PUSHES_WATER_BACK_OR_ACCEPTS_A_LITTLE_ar.md)
 - [Episode 10 Arabic](EP10_RIVERSIDE_RESIDENTIAL_AREA_AND_TOWN_THAT_KEEPS_WATER_AWAY_OR_LIVES_WHILE_WATCHING_IT_ar.md)
 - [Episode 11 Arabic](EP11_FISHING_PORT_MORNING_AND_PORT_THAT_READS_WATER_TEMPERATURE_OR_IS_OVERTAKEN_BY_IT_ar.md)
+- [Episode 12 Arabic](EP12_WITNESSING_THE_SUMMER_THAT_CONTINUES_AND_THE_SUMMER_THAT_BENT_SLIGHTLY_ar.md)
 
 ---
 
