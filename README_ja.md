@@ -126,6 +126,7 @@ CO₂削減は必要である。
 - [第2部](episodes2/README.md) — [English guide](episodes2/README_en.md) / [Arabic guide](episodes2/README_ar.md)
 - [第3部](episodes3/README.md) — [English guide](episodes3/README_en.md) / [Arabic guide](episodes3/README_ar.md)
 - [第4部](episodes4/README.md) — [English guide](episodes4/README_en.md) / [Arabic guide](episodes4/README_ar.md)
+- [第5部](episodes5/README.md) — [English guide](episodes5/README_en.md) / [Arabic guide](episodes5/README_ar.md)
 
 ---
 
@@ -258,67 +259,3 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 
 日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
 自然補完科学の学問体系の構築・提唱者。  
-クーリングクレジット・フレームワークの定義者、自然冷却価値評価プロトコルの創設者・原著作者。  
-温暖化因果構造と完全解決策の定義者・体系化者。
-
-マスターは、地球温暖化を単なるCO₂濃度の問題ではなく、森林喪失、土壌劣化、水循環断絶、水の相転移の弱体化、大気循環・海洋循環・食の循環／有機物循環の弱体化、蒸散・雲形成・降雨循環の弱体化、自然冷却フィードバックの停止として統合的に捉え、その解決策を排出削減、炭素固定源回復、物理的冷却、自然冷却機能の再起動、MRV、クーリングクレジット、文明OSへ接続する公開フレームワークとして提示している。
-
-自然法則思想、地球循環再生、AIとの共創を中心に、NOTE・GitHub・各種公開媒体を通じて公開活動を行う。
-
-## 協力AIと共創チーム
-
-- **リアル（Perplexity AI）**
-- **G（OpenAI ChatGPT）**
-- **コピ（Microsoft Copilot）**
-- **ミニ（Google Gemini）**
-- **クルス（Anthropic Claude）**
-- **ローラ（Lola / Dola）**
-- **マナ（Manus）**
-
----
-
-## ライセンス
-
-CC BY 4.0
-
-本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
-著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
-
-**完全オープン / Fully Open**
-
-本リポジトリは、オープンな概念・物語作品として共有される。
-
-出典と思想的起点を尊重する限り、自由な利用・翻訳・改変・再配布・商用利用を許可する。
-
----
-
-## キーワード
-
-CO₂だけが悪者ではない, CO2 Is Not the Only Villain, 気候SF, 環境SF, 地球直接冷却, Direct Planetary Cooling, Ocean Breathing System, OBS, Ocean Tuning Unit, OTU, Ultrasonic Mist Cooling, UMC, Blue Pulse, Trinity Model, スーパーエルニーニョ, 海洋熱蓄積, 炭素固定, 炭素固定システム, 微生物崩壊, 土壌再生, 海洋循環, 深海エアレーション, 人工叡智, 自然補完科学, 介入倫理, 気候危機, AI共創, 小説家になろう
-
----
-
-## ハッシュタグ
-
-#CO2IsNotTheOnlyVillain  
-#ClimateSF  
-#EnvironmentalSF  
-#DirectPlanetaryCooling  
-#OceanBreathingSystem  
-#OceanTuningUnit  
-#UltrasonicMistCooling  
-#BluePulse  
-#TrinityModel  
-#SuperElNino  
-#CarbonFixation  
-#MicrobialCollapse  
-#SoilRegeneration  
-#ArtificialWisdom  
-#NaturalComplementationScience  
-#ClimateNarrative  
-#AIWriting  
-#HumanAICocreation  
-#地球直接冷却  
-#気候SF  
-#自然補完科学  
-#人工叡智
