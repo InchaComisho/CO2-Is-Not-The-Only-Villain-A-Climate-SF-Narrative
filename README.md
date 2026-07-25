@@ -128,6 +128,7 @@ Arabic edition: [Part 1 Arabic episode index](episodes/README_ar.md)
 - [Part 2 / 第二部](episodes2/README.md) — [English guide](episodes2/README_en.md) / [Arabic guide](episodes2/README_ar.md)
 - [Part 3 / 第三部](episodes3/README.md) — [English guide](episodes3/README_en.md) / [Arabic guide](episodes3/README_ar.md)
 - [Part 4 / 第四部](episodes4/README.md) — [English guide](episodes4/README_en.md) / [Arabic guide](episodes4/README_ar.md)
+- [Part 5 / 第五部](episodes5/README.md) — [English guide](episodes5/README_en.md) / [Arabic guide](episodes5/README_ar.md)
 
 ---
 
