@@ -25,12 +25,15 @@
 ## قائمة الحلقات العربية
 
 1. [الجزء الخامس، الحلقة 1 — ما الذي نحتاجه كي تستمر العجلات المساعدة؟](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
+2. [الجزء الخامس، الحلقة 2 — صباح الفحص والصيانة، و«ما يُنسى بعد أن يتحرك» و«النظام الذي لا يُنسى»](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
+- [الحلقة الثانية باليابانية](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
+- [الحلقة الثانية بالإنجليزية](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_en.md)
 
 ---
 
