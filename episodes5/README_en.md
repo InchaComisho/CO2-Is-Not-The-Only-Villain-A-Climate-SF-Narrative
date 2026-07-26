@@ -25,12 +25,15 @@ How can what has reached a place be handed to the next person?
 ## English Episode List
 
 1. [Part 5 Episode 1 — What is needed to keep auxiliary wheels going?](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
+2. [Part 5 Episode 2 — The maintenance-inspection morning, what is forgotten after it moves, and the system that is not forgotten](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
+- [Episode 2 Japanese](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
+- [Episode 2 Arabic](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_ar.md)
 
 ---
 
