@@ -27,16 +27,19 @@ How can what has reached a place be handed to the next person?
 1. [Part 5 Episode 1 — What is needed to keep auxiliary wheels going?](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
 2. [Part 5 Episode 2 — The maintenance-inspection morning, what is forgotten after it moves, and the system that is not forgotten](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_en.md)
 3. [Part 5 Episode 3 — The town that decides who turns it, and the roles that keep it turning](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING_en.md)
+4. [Part 5 Episode 4 — Handover papers, “last year’s town,” and “this year’s town”](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
 - [Episode 2 Japanese](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM.md)
 - [Episode 3 Japanese](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING.md)
+- [Episode 4 Japanese](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
 - [Episode 2 Arabic](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_ar.md)
 - [Episode 3 Arabic](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING_ar.md)
+- [Episode 4 Arabic](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_ar.md)
 
 ---
 
