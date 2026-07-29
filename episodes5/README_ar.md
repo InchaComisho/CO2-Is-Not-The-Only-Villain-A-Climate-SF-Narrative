@@ -28,18 +28,21 @@
 2. [الجزء الخامس، الحلقة 2 — صباح الفحص والصيانة، و«ما يُنسى بعد أن يتحرك» و«النظام الذي لا يُنسى»](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_ar.md)
 3. [الجزء الخامس، الحلقة 3 — البلدة التي تقرر «من يديرها» والأدوار التي تجعلها تستمر](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING_ar.md)
 4. [الجزء الخامس، الحلقة 4 — أوراق التسليم، و«بلدة العام الماضي» و«بلدة هذا العام»](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_ar.md)
+5. [الجزء الخامس، الحلقة 5 — بلدة تترك التعلّم، وعجلات مساعدة لا تترك الشخص التالي حائراً](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
 - [الحلقة الثانية باليابانية](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM.md)
 - [الحلقة الثالثة باليابانية](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING.md)
 - [الحلقة الرابعة باليابانية](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN.md)
+- [الحلقة الخامسة باليابانية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_MAINTENANCE_INSPECTION_MORNING_AND_FORGOTTEN_AFTER_MOVING_OR_UNFORGETTABLE_SYSTEM_en.md)
 - [الحلقة الثالثة بالإنجليزية](EP03_TOWN_THAT_DECIDES_WHO_TURNS_IT_AND_ROLES_TO_KEEP_IT_TURNING_en.md)
 - [الحلقة الرابعة بالإنجليزية](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_en.md)
+- [الحلقة الخامسة بالإنجليزية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_en.md)
 
 ---
 
