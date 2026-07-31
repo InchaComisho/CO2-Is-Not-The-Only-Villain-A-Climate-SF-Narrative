@@ -30,6 +30,7 @@
 4. [الجزء الخامس، الحلقة 4 — أوراق التسليم، و«بلدة العام الماضي» و«بلدة هذا العام»](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_ar.md)
 5. [الجزء الخامس، الحلقة 5 — بلدة تترك التعلّم، وعجلات مساعدة لا تترك الشخص التالي حائراً](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_ar.md)
 6. [الجزء الخامس، الحلقة 6 — بلدة توسّع العجلات المساعدة، وطريقة لا تُغلق داخل مكان واحد](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_ar.md)
+7. [الجزء الخامس، الحلقة 7 — حتى تتلقى بلدة أخرى العجلات المساعدة التي انتشرت](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -38,6 +39,7 @@
 - [الحلقة الرابعة باليابانية](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN.md)
 - [الحلقة الخامسة باليابانية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST.md)
 - [الحلقة السادسة باليابانية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE.md)
+- [الحلقة السابعة باليابانية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
@@ -46,6 +48,7 @@
 - [الحلقة الرابعة بالإنجليزية](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_en.md)
 - [الحلقة الخامسة بالإنجليزية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_en.md)
 - [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_en.md)
+- [الحلقة السابعة بالإنجليزية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_en.md)
 
 ---
 
