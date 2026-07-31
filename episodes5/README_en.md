@@ -30,6 +30,7 @@ How can what has reached a place be handed to the next person?
 4. [Part 5 Episode 4 — Handover papers, “last year’s town,” and “this year’s town”](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_en.md)
 5. [Part 5 Episode 5 — The town that leaves learning behind, and auxiliary wheels that keep the next person from getting lost](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_en.md)
 6. [Part 5 Episode 6 — The town that spreads auxiliary wheels, and a way not closed inside one place](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_en.md)
+7. [Part 5 Episode 7 — Until another town receives the spread auxiliary wheels](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -38,6 +39,7 @@ Japanese sources:
 - [Episode 4 Japanese](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN.md)
 - [Episode 5 Japanese](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST.md)
 - [Episode 6 Japanese](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE.md)
+- [Episode 7 Japanese](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
@@ -46,6 +48,7 @@ Arabic editions:
 - [Episode 4 Arabic](EP04_HANDOVER_PAPERS_AND_LAST_YEARS_TOWN_AND_THIS_YEARS_TOWN_ar.md)
 - [Episode 5 Arabic](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_ar.md)
 - [Episode 6 Arabic](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_ar.md)
+- [Episode 7 Arabic](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_ar.md)
 
 ---
 
