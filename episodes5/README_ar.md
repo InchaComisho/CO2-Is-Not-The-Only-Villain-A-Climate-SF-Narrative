@@ -31,6 +31,7 @@
 5. [الجزء الخامس، الحلقة 5 — بلدة تترك التعلّم، وعجلات مساعدة لا تترك الشخص التالي حائراً](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_ar.md)
 6. [الجزء الخامس، الحلقة 6 — بلدة توسّع العجلات المساعدة، وطريقة لا تُغلق داخل مكان واحد](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_ar.md)
 7. [الجزء الخامس، الحلقة 7 — حتى تتلقى بلدة أخرى العجلات المساعدة التي انتشرت](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_ar.md)
+8. [الجزء الخامس، الحلقة 8 — حتى تعتاد العجلات المساعدة التي تم تلقيها على شكل البلدة](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -40,6 +41,7 @@
 - [الحلقة الخامسة باليابانية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST.md)
 - [الحلقة السادسة باليابانية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE.md)
 - [الحلقة السابعة باليابانية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS.md)
+- [الحلقة الثامنة باليابانية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
@@ -49,6 +51,7 @@
 - [الحلقة الخامسة بالإنجليزية](EP05_TOWN_THAT_LEAVES_LEARNING_AND_AUXILIARY_WHEELS_THAT_KEEP_NEXT_PERSON_FROM_GETTING_LOST_en.md)
 - [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_en.md)
+- [الحلقة الثامنة بالإنجليزية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
 
 ---
 
