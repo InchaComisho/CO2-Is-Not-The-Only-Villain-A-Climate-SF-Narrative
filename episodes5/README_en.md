@@ -32,6 +32,7 @@ How can what has reached a place be handed to the next person?
 6. [Part 5 Episode 6 — The town that spreads auxiliary wheels, and a way not closed inside one place](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_en.md)
 7. [Part 5 Episode 7 — Until another town receives the spread auxiliary wheels](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_en.md)
 8. [Part 5 Episode 8 — Until the received auxiliary wheels fit the shape of the town](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
+9. [Part 5 Episode 9 — Auxiliary wheels that become the town’s words, and ingenuity that is passed on](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -42,6 +43,7 @@ Japanese sources:
 - [Episode 6 Japanese](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE.md)
 - [Episode 7 Japanese](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS.md)
 - [Episode 8 Japanese](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
+- [Episode 9 Japanese](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
@@ -52,6 +54,7 @@ Arabic editions:
 - [Episode 6 Arabic](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_ar.md)
 - [Episode 7 Arabic](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_ar.md)
 - [Episode 8 Arabic](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
+- [Episode 9 Arabic](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
 
 ---
 
