@@ -32,6 +32,7 @@
 6. [الجزء الخامس، الحلقة 6 — بلدة توسّع العجلات المساعدة، وطريقة لا تُغلق داخل مكان واحد](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_ar.md)
 7. [الجزء الخامس، الحلقة 7 — حتى تتلقى بلدة أخرى العجلات المساعدة التي انتشرت](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_ar.md)
 8. [الجزء الخامس، الحلقة 8 — حتى تعتاد العجلات المساعدة التي تم تلقيها على شكل البلدة](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
+9. [الجزء الخامس، الحلقة 9 — العجلات المساعدة التي تصبح كلمات البلدة، والحيلة التي تُروى وتُورث](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -42,6 +43,7 @@
 - [الحلقة السادسة باليابانية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE.md)
 - [الحلقة السابعة باليابانية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS.md)
 - [الحلقة الثامنة باليابانية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
+- [الحلقة التاسعة باليابانية](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
@@ -52,6 +54,7 @@
 - [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_SPREADS_AUXILIARY_WHEELS_AND_WAYS_NOT_CLOSED_IN_ONE_PLACE_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_UNTIL_ANOTHER_TOWN_RECEIVES_THE_SPREAD_AUXILIARY_WHEELS_en.md)
 - [الحلقة الثامنة بالإنجليزية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
+- [الحلقة التاسعة بالإنجليزية](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
 
 ---
 
