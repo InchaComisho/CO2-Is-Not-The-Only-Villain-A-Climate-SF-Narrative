@@ -48,6 +48,9 @@
 8. [第5部 第8話 — 受け取った補助輪が、町の形に馴染むまで](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
    - [English translation](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
    - [Arabic translation](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
+9. [第5部 第9話 — 町の言葉になる補助輪と、語り継がれる工夫](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
+   - [English translation](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
+   - [Arabic translation](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
 
 ---
 
