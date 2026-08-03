@@ -51,6 +51,9 @@
 9. [第5部 第9話 — 町の言葉になる補助輪と、語り継がれる工夫](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
    - [English translation](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
    - [Arabic translation](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
+10. [第5部 第10話 — 当たり前になった補助輪と、それでも続ける理由](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING.md)
+    - [English translation](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_en.md)
+    - [Arabic translation](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_ar.md)
 
 ---
 
