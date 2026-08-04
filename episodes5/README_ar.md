@@ -34,6 +34,7 @@
 8. [الجزء الخامس، الحلقة 8 — حتى تعتاد العجلات المساعدة التي تم تلقيها على شكل البلدة](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
 9. [الجزء الخامس، الحلقة 9 — العجلات المساعدة التي تصبح كلمات البلدة، والحيلة التي تُروى وتُورث](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
 10. [الجزء الخامس، الحلقة 10 — العجلات المساعدة التي أصبحت أمراً عادياً، والسبب في الاستمرار رغم ذلك](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_ar.md)
+11. [الجزء الخامس، الحلقة 11 — العجلات المساعدة التي أصبحت غير مرئية، والعمل الهادئ الذي لا يزال يسندها](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -46,6 +47,7 @@
 - [الحلقة الثامنة باليابانية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
 - [الحلقة التاسعة باليابانية](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
 - [الحلقة العاشرة باليابانية](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING.md)
+- [الحلقة الحادية عشرة باليابانية](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_en.md)
@@ -58,6 +60,7 @@
 - [الحلقة الثامنة بالإنجليزية](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
 - [الحلقة التاسعة بالإنجليزية](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
 - [الحلقة العاشرة بالإنجليزية](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_en.md)
+- [الحلقة الحادية عشرة بالإنجليزية](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM_en.md)
 
 ---
 
