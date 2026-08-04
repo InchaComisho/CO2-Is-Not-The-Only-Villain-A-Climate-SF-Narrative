@@ -34,6 +34,7 @@ How can what has reached a place be handed to the next person?
 8. [Part 5 Episode 8 — Until the received auxiliary wheels fit the shape of the town](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_en.md)
 9. [Part 5 Episode 9 — Auxiliary wheels that become the town’s words, and ingenuity that is passed on](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_en.md)
 10. [Part 5 Episode 10 — Auxiliary wheels that became ordinary, and the reason to keep going anyway](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_en.md)
+11. [Part 5 Episode 11 — Invisible auxiliary wheels, and the quiet work that still supports them](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING.md)
@@ -46,6 +47,7 @@ Japanese sources:
 - [Episode 8 Japanese](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN.md)
 - [Episode 9 Japanese](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY.md)
 - [Episode 10 Japanese](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING.md)
+- [Episode 11 Japanese](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHAT_IS_NEEDED_TO_KEEP_AUXILIARY_WHEELS_GOING_ar.md)
@@ -58,6 +60,7 @@ Arabic editions:
 - [Episode 8 Arabic](EP08_UNTIL_THE_RECEIVED_AUXILIARY_WHEELS_FIT_THE_SHAPE_OF_THE_TOWN_ar.md)
 - [Episode 9 Arabic](EP09_TOWN_WORDS_AND_INHERITED_INGENUITY_ar.md)
 - [Episode 10 Arabic](EP10_ORDINARY_AUXILIARY_WHEELS_AND_THE_REASON_TO_KEEP_GOING_ar.md)
+- [Episode 11 Arabic](EP11_INVISIBLE_AUXILIARY_WHEELS_AND_THE_QUIET_WORK_THAT_STILL_SUPPORTS_THEM_ar.md)
 
 ---
 
