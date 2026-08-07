@@ -25,12 +25,15 @@ But precisely because the global curve will not bend quickly, regional auxiliary
 ## English Episode List
 
 1. [Part 6 Episode 1 — Red graphs, and auxiliary wheels that still remain](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
+2. [Part 6 Episode 2 — Red lines, blue lines, and “Is everything coming at once?”](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
+- [Episode 2 Japanese](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_ar.md)
+- [Episode 2 Arabic](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_ar.md)
 
 ---
 
