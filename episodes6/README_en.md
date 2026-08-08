@@ -26,14 +26,17 @@ But precisely because the global curve will not bend quickly, regional auxiliary
 
 1. [Part 6 Episode 1 — Red graphs, and auxiliary wheels that still remain](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
 2. [Part 6 Episode 2 — Red lines, blue lines, and “Is everything coming at once?”](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_en.md)
+3. [Part 6 Episode 3 — The El Niño sea, and the morning when the fishing port reads ahead](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
 - [Episode 2 Japanese](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE.md)
+- [Episode 3 Japanese](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_ar.md)
 - [Episode 2 Arabic](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_ar.md)
+- [Episode 3 Arabic](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_ar.md)
 
 ---
 
