@@ -26,14 +26,17 @@
 
 1. [الجزء السادس، الحلقة 1 — الرسوم البيانية الحمراء، والعجلات المساعدة التي ما زالت باقية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_ar.md)
 2. [الجزء السادس، الحلقة 2 — خطوط حمراء، وخطوط زرقاء، و«هل يأتي كل شيء في الوقت نفسه؟»](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_ar.md)
+3. [الجزء السادس، الحلقة 3 — البحر الذي يأتي معه إل نينيو، وصباح الميناء الذي يقرأ البحر مسبقاً](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
 - [الحلقة الثانية باليابانية](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE.md)
+- [الحلقة الثالثة باليابانية](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_en.md)
+- [الحلقة الثالثة بالإنجليزية](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_en.md)
 
 ---
 
