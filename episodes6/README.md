@@ -36,6 +36,9 @@
 4. [第6部 第4話 — 海が暑いと、駅前まで暑くなるのか](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO.md)
    - [English translation](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_en.md)
    - [Arabic translation](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_ar.md)
+5. [第6部 第5話 — 海の熱が雨になって、川が一気に詰む日](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE.md)
+   - [English translation](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_en.md)
+   - [Arabic translation](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_ar.md)
 
 ---
 
