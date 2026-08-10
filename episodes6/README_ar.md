@@ -28,18 +28,21 @@
 2. [الجزء السادس، الحلقة 2 — خطوط حمراء، وخطوط زرقاء، و«هل يأتي كل شيء في الوقت نفسه؟»](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_ar.md)
 3. [الجزء السادس، الحلقة 3 — البحر الذي يأتي معه إل نينيو، وصباح الميناء الذي يقرأ البحر مسبقاً](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_ar.md)
 4. [الجزء السادس، الحلقة 4 — إذا كان البحر حاراً، فهل تصل الحرارة إلى واجهة المحطة؟](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_ar.md)
+5. [الجزء السادس، الحلقة 5 — يوم تتحول حرارة البحر إلى مطر، فيختنق النهر دفعة واحدة](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
 - [الحلقة الثانية باليابانية](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE.md)
 - [الحلقة الثالثة باليابانية](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING.md)
 - [الحلقة الرابعة باليابانية](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO.md)
+- [الحلقة الخامسة باليابانية](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_RED_LINES_BLUE_LINES_AND_IS_EVERYTHING_COMING_AT_ONCE_en.md)
 - [الحلقة الثالثة بالإنجليزية](EP03_EL_NINO_SEA_AND_THE_FISHING_PORT_THAT_READS_AHEAD_IN_THE_MORNING_en.md)
 - [الحلقة الرابعة بالإنجليزية](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_en.md)
+- [الحلقة الخامسة بالإنجليزية](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_en.md)
 
 ---
 
