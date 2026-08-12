@@ -30,6 +30,7 @@
 4. [الجزء السادس، الحلقة 4 — إذا كان البحر حاراً، فهل تصل الحرارة إلى واجهة المحطة؟](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_ar.md)
 5. [الجزء السادس، الحلقة 5 — يوم تتحول حرارة البحر إلى مطر، فيختنق النهر دفعة واحدة](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_ar.md)
 6. [الجزء السادس، الحلقة 6 — فريق الحوض النهري، حتى إن اكتمل، ليس万能اً](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_ar.md)
+7. [الجزء السادس، الحلقة 7 — كم دقيقة يمكن أن يبدأ الإخلاء أبكر؟](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
@@ -38,6 +39,7 @@
 - [الحلقة الرابعة باليابانية](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO.md)
 - [الحلقة الخامسة باليابانية](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE.md)
 - [الحلقة السادسة باليابانية](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL.md)
+- [الحلقة السابعة باليابانية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
@@ -46,6 +48,7 @@
 - [الحلقة الرابعة بالإنجليزية](EP04_IF_THE_SEA_IS_HOT_DOES_THE_STATION_FRONT_GET_HOT_TOO_en.md)
 - [الحلقة الخامسة بالإنجليزية](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_en.md)
 - [الحلقة السادسة بالإنجليزية](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_en.md)
+- [الحلقة السابعة بالإنجليزية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_en.md)
 
 ---
 
