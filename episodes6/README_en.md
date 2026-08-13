@@ -31,6 +31,7 @@ But precisely because the global curve will not bend quickly, regional auxiliary
 5. [Part 6 Episode 5 — The day the sea’s heat becomes rain, and the river jams all at once](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_en.md)
 6. [Part 6 Episode 6 — The watershed team: even all together, they are not universal](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_en.md)
 7. [Part 6 Episode 7 — How many minutes earlier can evacuation begin?](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_en.md)
+8. [Part 6 Episode 8 — Who receives the time created by auxiliary wheels first?](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
@@ -40,6 +41,7 @@ Japanese sources:
 - [Episode 5 Japanese](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE.md)
 - [Episode 6 Japanese](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL.md)
 - [Episode 7 Japanese](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN.md)
+- [Episode 8 Japanese](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_ar.md)
@@ -49,6 +51,7 @@ Arabic editions:
 - [Episode 5 Arabic](EP05_SEA_HEAT_BECOMES_RAIN_AND_THE_RIVER_JAMS_ALL_AT_ONCE_ar.md)
 - [Episode 6 Arabic](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_ar.md)
 - [Episode 7 Arabic](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_ar.md)
+- [Episode 8 Arabic](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_ar.md)
 
 ---
 
