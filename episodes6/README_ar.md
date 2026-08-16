@@ -32,6 +32,7 @@
 6. [الجزء السادس، الحلقة 6 — فريق الحوض النهري، حتى إن اكتمل، ليس万能اً](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_ar.md)
 7. [الجزء السادس، الحلقة 7 — كم دقيقة يمكن أن يبدأ الإخلاء أبكر؟](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_ar.md)
 8. [الجزء السادس، الحلقة 8 — إلى من يصل وقت العجلات المساعدة أولاً؟](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_ar.md)
+11. [الجزء السادس، الحلقة 11 — ما يلتقي عند مصب النهر، وما يُعاد إلى البحر](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
@@ -42,6 +43,7 @@
 - [الحلقة السادسة باليابانية](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL.md)
 - [الحلقة السابعة باليابانية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN.md)
 - [الحلقة الثامنة باليابانية](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST.md)
+- [الحلقة الحادية عشرة باليابانية](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
@@ -52,6 +54,7 @@
 - [الحلقة السادسة بالإنجليزية](EP06_WATERSHED_TEAM_EVEN_ALL_TOGETHER_IS_NOT_UNIVERSAL_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_en.md)
 - [الحلقة الثامنة بالإنجليزية](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_en.md)
+- [الحلقة الحادية عشرة بالإنجليزية](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_en.md)
 
 ---
 
