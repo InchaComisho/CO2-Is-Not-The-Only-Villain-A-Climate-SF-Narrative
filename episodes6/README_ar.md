@@ -33,6 +33,7 @@
 7. [الجزء السادس، الحلقة 7 — كم دقيقة يمكن أن يبدأ الإخلاء أبكر؟](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_ar.md)
 8. [الجزء السادس، الحلقة 8 — إلى من يصل وقت العجلات المساعدة أولاً؟](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_ar.md)
 11. [الجزء السادس، الحلقة 11 — ما يلتقي عند مصب النهر، وما يُعاد إلى البحر](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_ar.md)
+12. [الجزء السادس، الحلقة 12 — أمام الرسوم البيانية الحمراء للعالم، نضع العجلات المساعدة مع ذلك](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
@@ -44,6 +45,7 @@
 - [الحلقة السابعة باليابانية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN.md)
 - [الحلقة الثامنة باليابانية](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST.md)
 - [الحلقة الحادية عشرة باليابانية](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA.md)
+- [الحلقة الثانية عشرة باليابانية](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_en.md)
@@ -55,6 +57,7 @@
 - [الحلقة السابعة بالإنجليزية](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_en.md)
 - [الحلقة الثامنة بالإنجليزية](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_en.md)
 - [الحلقة الحادية عشرة بالإنجليزية](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_en.md)
+- [الحلقة الثانية عشرة بالإنجليزية](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS_en.md)
 
 ---
 
