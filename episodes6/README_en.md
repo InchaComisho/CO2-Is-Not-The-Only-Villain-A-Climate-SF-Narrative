@@ -33,6 +33,7 @@ But precisely because the global curve will not bend quickly, regional auxiliary
 7. [Part 6 Episode 7 — How many minutes earlier can evacuation begin?](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_en.md)
 8. [Part 6 Episode 8 — Who receives the time created by auxiliary wheels first?](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_en.md)
 11. [Part 6 Episode 11 — What merges at the river mouth, and what is returned to the sea](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_en.md)
+12. [Part 6 Episode 12 — In front of the world’s red graphs, still placing auxiliary wheels](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN.md)
@@ -44,6 +45,7 @@ Japanese sources:
 - [Episode 7 Japanese](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN.md)
 - [Episode 8 Japanese](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST.md)
 - [Episode 11 Japanese](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA.md)
+- [Episode 12 Japanese](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_RED_GRAPHS_AND_AUXILIARY_WHEELS_THAT_STILL_REMAIN_ar.md)
@@ -55,6 +57,7 @@ Arabic editions:
 - [Episode 7 Arabic](EP07_HOW_MANY_MINUTES_EARLIER_CAN_EVACUATION_BEGIN_ar.md)
 - [Episode 8 Arabic](EP08_WHO_RECEIVES_THE_TIME_CREATED_BY_AUXILIARY_WHEELS_FIRST_ar.md)
 - [Episode 11 Arabic](EP11_WHAT_MERGES_AT_THE_RIVER_MOUTH_AND_WHAT_RETURNS_TO_THE_SEA_ar.md)
+- [Episode 12 Arabic](EP12_IN_FRONT_OF_THE_WORLDS_RED_GRAPHS_STILL_PLACING_AUXILIARY_WHEELS_ar.md)
 
 ---
 
