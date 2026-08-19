@@ -26,12 +26,15 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 ## English Episode List
 
 1. [Part 7 Episode 1 — Where do auxiliary wheels become a “world story”?](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
+2. [Part 7 Episode 2 — The budget year final boss, and auxiliary wheels that disappear in April](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
+- [Episode 2 Japanese](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
+- [Episode 2 Arabic](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_ar.md)
 
 ---
 
