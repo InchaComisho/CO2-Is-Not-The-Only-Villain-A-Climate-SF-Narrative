@@ -27,14 +27,17 @@
 
 1. [الجزء السابع، الحلقة 1 — أين تصبح العجلات المساعدة «قصة عالمية»؟](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
 2. [الجزء السابع، الحلقة 2 — وحش سنة الميزانية الأخير، والعجلات المساعدة التي تختفي في أبريل](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_ar.md)
+3. [الجزء السابع، الحلقة 3 — كيف نكتب «لقد ساعد» الذي لا يتحول إلى رقم داخل وثيقة الميزانية؟](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
 - [الحلقة الثانية باليابانية](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL.md)
+- [الحلقة الثالثة باليابانية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_en.md)
+- [الحلقة الثالثة بالإنجليزية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_en.md)
 
 ---
 
