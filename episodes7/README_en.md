@@ -28,16 +28,19 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 1. [Part 7 Episode 1 — Where do auxiliary wheels become a “world story”?](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
 2. [Part 7 Episode 2 — The budget year final boss, and auxiliary wheels that disappear in April](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_en.md)
 3. [Part 7 Episode 3 — How do we write “helped” that cannot become a number into a budget document?](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_en.md)
+4. [Part 7 Episode 4 — The auxiliary wheel briefing, and choosing words that reach the right people](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
 - [Episode 2 Japanese](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL.md)
 - [Episode 3 Japanese](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET.md)
+- [Episode 4 Japanese](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
 - [Episode 2 Arabic](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_ar.md)
 - [Episode 3 Arabic](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_ar.md)
+- [Episode 4 Arabic](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_ar.md)
 
 ---
 
