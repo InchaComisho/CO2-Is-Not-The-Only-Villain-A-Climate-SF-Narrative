@@ -29,18 +29,21 @@
 2. [الجزء السابع، الحلقة 2 — وحش سنة الميزانية الأخير، والعجلات المساعدة التي تختفي في أبريل](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_ar.md)
 3. [الجزء السابع، الحلقة 3 — كيف نكتب «لقد ساعد» الذي لا يتحول إلى رقم داخل وثيقة الميزانية؟](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_ar.md)
 4. [الجزء السابع، الحلقة 4 — جلسة شرح العجلات المساعدة، وكيف نجعل الكلمات تصل إلى من يحتاجها](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_ar.md)
+5. [الجزء السابع، الحلقة 5 — ممّ يخاف الأشخاص الذين يعارضون العجلات المساعدة؟](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
 - [الحلقة الثانية باليابانية](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL.md)
 - [الحلقة الثالثة باليابانية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET.md)
 - [الحلقة الرابعة باليابانية](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE.md)
+- [الحلقة الخامسة باليابانية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
 - [الحلقة الثانية بالإنجليزية](EP02_BUDGET_YEAR_FINAL_BOSS_AND_AUXILIARY_WHEELS_THAT_DISAPPEAR_IN_APRIL_en.md)
 - [الحلقة الثالثة بالإنجليزية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_en.md)
 - [الحلقة الرابعة بالإنجليزية](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_en.md)
+- [الحلقة الخامسة بالإنجليزية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_en.md)
 
 ---
 
