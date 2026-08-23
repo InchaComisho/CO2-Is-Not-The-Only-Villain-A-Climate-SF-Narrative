@@ -30,6 +30,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 3. [Part 7 Episode 3 — How do we write “helped” that cannot become a number into a budget document?](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_en.md)
 4. [Part 7 Episode 4 — The auxiliary wheel briefing, and choosing words that reach the right people](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_en.md)
 5. [Part 7 Episode 5 — What are people who oppose auxiliary wheels afraid of?](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_en.md)
+6. [Part 7 Episode 6 — A town that does not push burdens onto someone, and the space between “those who benefit” and “those who receive it”](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -37,6 +38,7 @@ Japanese sources:
 - [Episode 3 Japanese](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET.md)
 - [Episode 4 Japanese](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE.md)
 - [Episode 5 Japanese](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF.md)
+- [Episode 6 Japanese](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -44,6 +46,7 @@ Arabic editions:
 - [Episode 3 Arabic](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_ar.md)
 - [Episode 4 Arabic](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_ar.md)
 - [Episode 5 Arabic](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_ar.md)
+- [Episode 6 Arabic](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_ar.md)
 
 ---
 
