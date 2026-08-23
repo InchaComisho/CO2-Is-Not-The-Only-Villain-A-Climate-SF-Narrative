@@ -30,6 +30,7 @@
 3. [الجزء السابع، الحلقة 3 — كيف نكتب «لقد ساعد» الذي لا يتحول إلى رقم داخل وثيقة الميزانية؟](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_ar.md)
 4. [الجزء السابع، الحلقة 4 — جلسة شرح العجلات المساعدة، وكيف نجعل الكلمات تصل إلى من يحتاجها](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_ar.md)
 5. [الجزء السابع، الحلقة 5 — ممّ يخاف الأشخاص الذين يعارضون العجلات المساعدة؟](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_ar.md)
+6. [الجزء السابع، الحلقة 6 — بلدة لا تدفع العبء إلى شخص واحد، وما بين «من يستفيد» و«من يتحمّل»](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -37,6 +38,7 @@
 - [الحلقة الثالثة باليابانية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET.md)
 - [الحلقة الرابعة باليابانية](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE.md)
 - [الحلقة الخامسة باليابانية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF.md)
+- [الحلقة السادسة باليابانية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -44,6 +46,7 @@
 - [الحلقة الثالثة بالإنجليزية](EP03_HOW_TO_WRITE_HELPED_THAT_CANNOT_BE_NUMBERS_IN_THE_BUDGET_en.md)
 - [الحلقة الرابعة بالإنجليزية](EP04_AUXILIARY_WHEEL_BRIEFING_AND_WORDS_THAT_REACH_THE_RIGHT_PEOPLE_en.md)
 - [الحلقة الخامسة بالإنجليزية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_en.md)
+- [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_en.md)
 
 ---
 
