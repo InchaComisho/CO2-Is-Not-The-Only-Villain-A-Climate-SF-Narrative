@@ -32,6 +32,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 5. [Part 7 Episode 5 — What are people who oppose auxiliary wheels afraid of?](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_en.md)
 6. [Part 7 Episode 6 — A town that does not push burdens onto someone, and the space between “those who benefit” and “those who receive it”](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_en.md)
 7. [Part 7 Episode 7 — Leaving the meeting room, and going to see auxiliary wheels together](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_en.md)
+8. [Part 7 Episode 8 — Failed auxiliary wheels, and what to fix before “quitting”](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -41,6 +42,7 @@ Japanese sources:
 - [Episode 5 Japanese](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF.md)
 - [Episode 6 Japanese](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE.md)
 - [Episode 7 Japanese](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER.md)
+- [Episode 8 Japanese](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -50,6 +52,7 @@ Arabic editions:
 - [Episode 5 Arabic](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_ar.md)
 - [Episode 6 Arabic](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_ar.md)
 - [Episode 7 Arabic](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_ar.md)
+- [Episode 8 Arabic](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
 
 ---
 
