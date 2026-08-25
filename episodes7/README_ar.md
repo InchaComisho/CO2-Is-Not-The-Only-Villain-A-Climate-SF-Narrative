@@ -32,6 +32,7 @@
 5. [الجزء السابع، الحلقة 5 — ممّ يخاف الأشخاص الذين يعارضون العجلات المساعدة؟](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_ar.md)
 6. [الجزء السابع، الحلقة 6 — بلدة لا تدفع العبء إلى شخص واحد، وما بين «من يستفيد» و«من يتحمّل»](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_ar.md)
 7. [الجزء السابع، الحلقة 7 — نخرج من غرفة الاجتماعات، ونذهب لنرى العجلات المساعدة معاً](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_ar.md)
+8. [الجزء السابع، الحلقة 8 — العجلات المساعدة التي فشلت، وما يجب إصلاحه قبل أن نقول «نتوقف»](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -41,6 +42,7 @@
 - [الحلقة الخامسة باليابانية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF.md)
 - [الحلقة السادسة باليابانية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE.md)
 - [الحلقة السابعة باليابانية](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER.md)
+- [الحلقة الثامنة باليابانية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -50,6 +52,7 @@
 - [الحلقة الخامسة بالإنجليزية](EP05_WHAT_ARE_PEOPLE_WHO_OPPOSE_AUXILIARY_WHEELS_AFRAID_OF_en.md)
 - [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_en.md)
+- [الحلقة الثامنة بالإنجليزية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
 
 ---
 
