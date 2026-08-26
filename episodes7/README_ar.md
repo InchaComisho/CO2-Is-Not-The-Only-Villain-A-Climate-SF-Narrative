@@ -33,6 +33,7 @@
 6. [الجزء السابع، الحلقة 6 — بلدة لا تدفع العبء إلى شخص واحد، وما بين «من يستفيد» و«من يتحمّل»](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_ar.md)
 7. [الجزء السابع، الحلقة 7 — نخرج من غرفة الاجتماعات، ونذهب لنرى العجلات المساعدة معاً](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_ar.md)
 8. [الجزء السابع، الحلقة 8 — العجلات المساعدة التي فشلت، وما يجب إصلاحه قبل أن نقول «نتوقف»](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
+9. [الجزء السابع، الحلقة 9 — نحمل خريطة الفشل ونذهب إلى البلدة التالية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -43,6 +44,7 @@
 - [الحلقة السادسة باليابانية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE.md)
 - [الحلقة السابعة باليابانية](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER.md)
 - [الحلقة الثامنة باليابانية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
+- [الحلقة التاسعة باليابانية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -53,6 +55,7 @@
 - [الحلقة السادسة بالإنجليزية](EP06_TOWN_THAT_DOES_NOT_PUSH_BURDENS_ONTO_SOMEONE_AND_BETWEEN_THOSE_WHO_BENEFIT_AND_THOSE_WHO_RECEIVE_en.md)
 - [الحلقة السابعة بالإنجليزية](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_en.md)
 - [الحلقة الثامنة بالإنجليزية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
+- [الحلقة التاسعة بالإنجليزية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_en.md)
 
 ---
 
