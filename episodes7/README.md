@@ -49,6 +49,9 @@
 8. [第7部 第8話 — 失敗した補助輪と、「やめる」前に直すこと](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
    - [English translation](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
    - [Arabic translation](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
+9. [第7部 第9話 — 失敗の地図を持って、次の町へ行く](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN.md)
+   - [English translation](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_en.md)
+   - [Arabic translation](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_ar.md)
 
 ---
 
