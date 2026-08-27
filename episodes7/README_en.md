@@ -34,6 +34,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 7. [Part 7 Episode 7 — Leaving the meeting room, and going to see auxiliary wheels together](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_en.md)
 8. [Part 7 Episode 8 — Failed auxiliary wheels, and what to fix before “quitting”](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
 9. [Part 7 Episode 9 — Taking the failure map to the next town](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_en.md)
+10. [Part 7 Episode 10 — The first page of the white file, and the day the first auxiliary wheel turns](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -45,6 +46,7 @@ Japanese sources:
 - [Episode 7 Japanese](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER.md)
 - [Episode 8 Japanese](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
 - [Episode 9 Japanese](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN.md)
+- [Episode 10 Japanese](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -56,6 +58,7 @@ Arabic editions:
 - [Episode 7 Arabic](EP07_LEAVING_THE_MEETING_ROOM_AND_GOING_TO_SEE_AUXILIARY_WHEELS_TOGETHER_ar.md)
 - [Episode 8 Arabic](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
 - [Episode 9 Arabic](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_ar.md)
+- [Episode 10 Arabic](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_ar.md)
 
 ---
 
