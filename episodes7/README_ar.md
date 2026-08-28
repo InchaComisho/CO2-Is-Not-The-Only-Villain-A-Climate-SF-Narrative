@@ -35,6 +35,7 @@
 8. [الجزء السابع، الحلقة 8 — العجلات المساعدة التي فشلت، وما يجب إصلاحه قبل أن نقول «نتوقف»](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_ar.md)
 9. [الجزء السابع، الحلقة 9 — نحمل خريطة الفشل ونذهب إلى البلدة التالية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_ar.md)
 10. [الجزء السابع، الحلقة 10 — الصفحة الأولى من الملف الأبيض، ويوم دارت أول عجلة مساعدة](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_ar.md)
+11. [الجزء السابع، الحلقة 11 — قبل أن يأتي المطر، ابحث عن طريق هروب الماء](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -47,6 +48,7 @@
 - [الحلقة الثامنة باليابانية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING.md)
 - [الحلقة التاسعة باليابانية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN.md)
 - [الحلقة العاشرة باليابانية](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS.md)
+- [الحلقة الحادية عشرة باليابانية](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -59,6 +61,7 @@
 - [الحلقة الثامنة بالإنجليزية](EP08_FAILED_AUXILIARY_WHEELS_AND_FIXING_BEFORE_QUITTING_en.md)
 - [الحلقة التاسعة بالإنجليزية](EP09_TAKING_THE_FAILURE_MAP_TO_THE_NEXT_TOWN_en.md)
 - [الحلقة العاشرة بالإنجليزية](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_en.md)
+- [الحلقة الحادية عشرة بالإنجليزية](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_en.md)
 
 ---
 
