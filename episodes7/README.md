@@ -58,6 +58,9 @@
 11. [第7部 第11話 — 雨が来る前に、水の逃げ道を探せ](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE.md)
    - [English translation](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_en.md)
    - [Arabic translation](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_ar.md)
+12. [第7部 第12話 — 本物の雨は、青いチョークの線を試しに来る](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
+   - [English translation](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
+   - [Arabic translation](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
 
 ---
 
