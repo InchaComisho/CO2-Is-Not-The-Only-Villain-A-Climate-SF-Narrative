@@ -37,6 +37,7 @@
 10. [الجزء السابع، الحلقة 10 — الصفحة الأولى من الملف الأبيض، ويوم دارت أول عجلة مساعدة](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_ar.md)
 11. [الجزء السابع، الحلقة 11 — قبل أن يأتي المطر، ابحث عن طريق هروب الماء](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_ar.md)
 12. [الجزء السابع، الحلقة 12 — المطر الحقيقي يأتي ليختبر خطوط الطباشير الزرقاء](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
+13. [الجزء السابع، الحلقة 13 — بعد المطر، من ينظف الطين؟](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -51,6 +52,7 @@
 - [الحلقة العاشرة باليابانية](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS.md)
 - [الحلقة الحادية عشرة باليابانية](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE.md)
 - [الحلقة الثانية عشرة باليابانية](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
+- [الحلقة الثالثة عشرة باليابانية](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -65,6 +67,7 @@
 - [الحلقة العاشرة بالإنجليزية](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_en.md)
 - [الحلقة الحادية عشرة بالإنجليزية](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_en.md)
 - [الحلقة الثانية عشرة بالإنجليزية](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
+- [الحلقة الثالثة عشرة بالإنجليزية](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_en.md)
 
 ---
 
