@@ -61,6 +61,9 @@
 12. [第7部 第12話 — 本物の雨は、青いチョークの線を試しに来る](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
    - [English translation](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
    - [Arabic translation](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
+13. [第7部 第13話 — 雨のあと、誰が泥を片づけるのか](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD.md)
+   - [English translation](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_en.md)
+   - [Arabic translation](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_ar.md)
 
 ---
 
