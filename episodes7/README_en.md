@@ -37,6 +37,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 10. [Part 7 Episode 10 — The first page of the white file, and the day the first auxiliary wheel turns](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_en.md)
 11. [Part 7 Episode 11 — Before the rain comes, find the water’s escape route](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_en.md)
 12. [Part 7 Episode 12 — Real rain comes to test the blue chalk lines](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
+13. [Part 7 Episode 13 — After the rain, who cleans up the mud?](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -51,6 +52,7 @@ Japanese sources:
 - [Episode 10 Japanese](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS.md)
 - [Episode 11 Japanese](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE.md)
 - [Episode 12 Japanese](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
+- [Episode 13 Japanese](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -65,6 +67,7 @@ Arabic editions:
 - [Episode 10 Arabic](EP10_FIRST_PAGE_OF_THE_WHITE_FILE_AND_THE_DAY_THE_FIRST_AUXILIARY_WHEEL_TURNS_ar.md)
 - [Episode 11 Arabic](EP11_BEFORE_THE_RAIN_COMES_FIND_THE_WATERS_ESCAPE_ROUTE_ar.md)
 - [Episode 12 Arabic](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
+- [Episode 13 Arabic](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_ar.md)
 
 ---
 
