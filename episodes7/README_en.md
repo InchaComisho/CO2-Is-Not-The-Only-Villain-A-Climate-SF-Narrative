@@ -39,6 +39,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 12. [Part 7 Episode 12 — Real rain comes to test the blue chalk lines](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
 13. [Part 7 Episode 13 — After the rain, who cleans up the mud?](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_en.md)
 14. [Part 7 Episode 14 — Do not draw only water on the blueprint; draw the distant heat of the sky too](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_en.md)
+15. [Part 7 Episode 15 — Where do we place auxiliary wheels in a town with no vacant lots?](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -55,6 +56,7 @@ Japanese sources:
 - [Episode 12 Japanese](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
 - [Episode 13 Japanese](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD.md)
 - [Episode 14 Japanese](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO.md)
+- [Episode 15 Japanese](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -71,6 +73,7 @@ Arabic editions:
 - [Episode 12 Arabic](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
 - [Episode 13 Arabic](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_ar.md)
 - [Episode 14 Arabic](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_ar.md)
+- [Episode 15 Arabic](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_ar.md)
 
 ---
 
