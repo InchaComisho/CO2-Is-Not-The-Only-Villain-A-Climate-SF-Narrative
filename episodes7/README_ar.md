@@ -39,6 +39,7 @@
 12. [الجزء السابع، الحلقة 12 — المطر الحقيقي يأتي ليختبر خطوط الطباشير الزرقاء](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_ar.md)
 13. [الجزء السابع، الحلقة 13 — بعد المطر، من ينظف الطين؟](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_ar.md)
 14. [الجزء السابع، الحلقة 14 — لا ترسم الماء فقط على المخطط، بل ارسم أيضاً حرارة السماء البعيدة](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_ar.md)
+15. [الجزء السابع، الحلقة 15 — أين نضع العجلات المساعدة في بلدة لا توجد فيها قطع أرض خالية؟](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -55,6 +56,7 @@
 - [الحلقة الثانية عشرة باليابانية](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES.md)
 - [الحلقة الثالثة عشرة باليابانية](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD.md)
 - [الحلقة الرابعة عشرة باليابانية](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO.md)
+- [الحلقة الخامسة عشرة باليابانية](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -71,6 +73,7 @@
 - [الحلقة الثانية عشرة بالإنجليزية](EP12_REAL_RAIN_COMES_TO_TEST_THE_BLUE_CHALK_LINES_en.md)
 - [الحلقة الثالثة عشرة بالإنجليزية](EP13_AFTER_THE_RAIN_WHO_CLEANS_UP_THE_MUD_en.md)
 - [الحلقة الرابعة عشرة بالإنجليزية](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_en.md)
+- [الحلقة الخامسة عشرة بالإنجليزية](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_en.md)
 
 ---
 
