@@ -41,6 +41,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 14. [Part 7 Episode 14 — Do not draw only water on the blueprint; draw the distant heat of the sky too](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_en.md)
 15. [Part 7 Episode 15 — Where do we place auxiliary wheels in a town with no vacant lots?](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_en.md)
 16. [Part 7 Episode 16 — The rooftop auxiliary wheel: make water wait before the wind arrives](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_en.md)
+17. [Part 7 Episode 17 — A town escaping heat: connect five minutes of shade](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -59,6 +60,7 @@ Japanese sources:
 - [Episode 14 Japanese](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO.md)
 - [Episode 15 Japanese](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS.md)
 - [Episode 16 Japanese](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND.md)
+- [Episode 17 Japanese](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -77,6 +79,7 @@ Arabic editions:
 - [Episode 14 Arabic](EP14_DO_NOT_DRAW_ONLY_WATER_ON_THE_BLUEPRINT_DRAW_THE_DISTANT_HEAT_OF_THE_SKY_TOO_ar.md)
 - [Episode 15 Arabic](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_ar.md)
 - [Episode 16 Arabic](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_ar.md)
+- [Episode 17 Arabic](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_ar.md)
 
 ---
 
