@@ -42,6 +42,7 @@
 15. [الجزء السابع، الحلقة 15 — أين نضع العجلات المساعدة في بلدة لا توجد فيها قطع أرض خالية؟](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_ar.md)
 16. [الجزء السابع، الحلقة 16 — عجلة مساعدة فوق السطح: اجعل الماء ينتظر قبل أن تسبقك الريح](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_ar.md)
 17. [الجزء السابع، الحلقة 17 — بلدة تهرب من الحر: صِلْ خمس دقائق من الظل](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_ar.md)
+18. [الجزء السابع، الحلقة 18 — اعثر على النقاط الزرقاء: لوحات الإرشاد عجلات مساعدة هادئة](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -61,6 +62,7 @@
 - [الحلقة الخامسة عشرة باليابانية](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS.md)
 - [الحلقة السادسة عشرة باليابانية](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND.md)
 - [الحلقة السابعة عشرة باليابانية](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE.md)
+- [الحلقة الثامنة عشرة باليابانية](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -80,6 +82,7 @@
 - [الحلقة الخامسة عشرة بالإنجليزية](EP15_WHERE_DO_WE_PLACE_AUXILIARY_WHEELS_IN_A_TOWN_WITH_NO_VACANT_LOTS_en.md)
 - [الحلقة السادسة عشرة بالإنجليزية](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_en.md)
 - [الحلقة السابعة عشرة بالإنجليزية](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_en.md)
+- [الحلقة الثامنة عشرة بالإنجليزية](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_en.md)
 
 ---
 
