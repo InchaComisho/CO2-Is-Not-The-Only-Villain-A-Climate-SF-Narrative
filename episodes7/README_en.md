@@ -43,6 +43,7 @@ Auxiliary wheels become a little bit of a world story when they pass outside the
 16. [Part 7 Episode 16 — The rooftop auxiliary wheel: make water wait before the wind arrives](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_en.md)
 17. [Part 7 Episode 17 — A town escaping heat: connect five minutes of shade](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_en.md)
 18. [Part 7 Episode 18 — Find the blue dots: signboards are quiet auxiliary wheels](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_en.md)
+19. [Part 7 Episode 19 — On a lively day, the blue arrows do not get lost](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_en.md)
 
 Japanese sources:
 - [Episode 1 Japanese](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -63,6 +64,7 @@ Japanese sources:
 - [Episode 16 Japanese](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND.md)
 - [Episode 17 Japanese](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE.md)
 - [Episode 18 Japanese](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS.md)
+- [Episode 19 Japanese](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST.md)
 
 Arabic editions:
 - [Episode 1 Arabic](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_ar.md)
@@ -83,6 +85,7 @@ Arabic editions:
 - [Episode 16 Arabic](EP16_ROOFTOP_AUXILIARY_WHEEL_MAKE_WATER_WAIT_BEFORE_THE_WIND_ar.md)
 - [Episode 17 Arabic](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_ar.md)
 - [Episode 18 Arabic](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_ar.md)
+- [Episode 19 Arabic](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_ar.md)
 
 ---
 
