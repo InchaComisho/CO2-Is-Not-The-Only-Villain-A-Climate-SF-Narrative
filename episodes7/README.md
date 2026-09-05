@@ -79,6 +79,9 @@
 18. [第7部 第18話 — 青い点を見つけろ、案内板は静かな補助輪](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS.md)
    - [English translation](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_en.md)
    - [Arabic translation](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_ar.md)
+19. [第7部 第19話 — にぎやかな日に、青い矢印は迷わない](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST.md)
+   - [English translation](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_en.md)
+   - [Arabic translation](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_ar.md)
 
 ---
 
