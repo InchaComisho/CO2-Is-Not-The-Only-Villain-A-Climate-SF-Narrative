@@ -44,6 +44,7 @@
 17. [الجزء السابع، الحلقة 17 — بلدة تهرب من الحر: صِلْ خمس دقائق من الظل](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_ar.md)
 18. [الجزء السابع، الحلقة 18 — اعثر على النقاط الزرقاء: لوحات الإرشاد عجلات مساعدة هادئة](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_ar.md)
 19. [الجزء السابع، الحلقة 19 — في يوم صاخب، لا تضل الأسهم الزرقاء](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_ar.md)
+20. [الجزء السابع، الحلقة 20 — مرّر الملاحظات الحمراء، فتبدأ العجلات المساعدة بالدوران خارج البلدة](EP20_PASS_THE_RED_NOTES_AUXILIARY_WHEELS_BEGIN_TO_TURN_BEYOND_THE_TOWN_ar.md)
 
 المصادر اليابانية:
 - [الحلقة الأولى باليابانية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY.md)
@@ -65,6 +66,7 @@
 - [الحلقة السابعة عشرة باليابانية](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE.md)
 - [الحلقة الثامنة عشرة باليابانية](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS.md)
 - [الحلقة التاسعة عشرة باليابانية](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST.md)
+- [الحلقة العشرون باليابانية](EP20_PASS_THE_RED_NOTES_AUXILIARY_WHEELS_BEGIN_TO_TURN_BEYOND_THE_TOWN.md)
 
 النسخ الإنجليزية:
 - [الحلقة الأولى بالإنجليزية](EP01_WHERE_DO_AUXILIARY_WHEELS_BECOME_A_WORLD_STORY_en.md)
@@ -86,6 +88,7 @@
 - [الحلقة السابعة عشرة بالإنجليزية](EP17_TOWN_ESCAPING_HEAT_CONNECT_FIVE_MINUTES_OF_SHADE_en.md)
 - [الحلقة الثامنة عشرة بالإنجليزية](EP18_FIND_THE_BLUE_DOTS_SIGNBOARDS_ARE_QUIET_AUXILIARY_WHEELS_en.md)
 - [الحلقة التاسعة عشرة بالإنجليزية](EP19_ON_A_LIVELY_DAY_BLUE_ARROWS_DO_NOT_GET_LOST_en.md)
+- [الحلقة العشرون بالإنجليزية](EP20_PASS_THE_RED_NOTES_AUXILIARY_WHEELS_BEGIN_TO_TURN_BEYOND_THE_TOWN_en.md)
 
 ---
 
