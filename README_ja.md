@@ -241,8 +241,6 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 - [Direct Planetary Cooling: Restoring Earth's Natural Cooling Cascades](https://github.com/InchaComisho/Direct-Planetary-Cooling-Restoring-Earth-s-Natural-Cooling-Cascades)  
   雨、雲、風、海洋鉛直循環、土壌保水、植生、微生物、腐植形成、炭素固定を、地球の自然冷却カスケードとして整理する中核フレーム。
 
-- [NOTE article: 地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
-
 ---
 
 ## Master Knowledge Portal
