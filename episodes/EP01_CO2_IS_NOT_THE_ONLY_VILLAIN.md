@@ -1,5 +1,7 @@
 # Episode 01 — I Thought CO₂ Was the Only Villain, Then the AI Refuted Me in the First Move
 
+[日本語版はこちら / Japanese version](JP01_CO2_IS_NOT_THE_ONLY_VILLAIN.md)
+
 ## Preface
 
 CO₂ is an important driver of global warming, and reducing emissions is necessary.

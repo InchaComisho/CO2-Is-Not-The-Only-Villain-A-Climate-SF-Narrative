@@ -1,5 +1,7 @@
 # 第7話　最初のOBSが動いた日、海は何と言ったか
 
+[English Version](EP07_THE_DAY_OBS_STARTED.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

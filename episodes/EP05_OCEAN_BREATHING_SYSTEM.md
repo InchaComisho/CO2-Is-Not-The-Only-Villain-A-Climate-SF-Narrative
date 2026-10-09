@@ -1,5 +1,7 @@
 # Episode 05 — Are You Seriously Talking About Giving the Ocean CPR?
 
+[日本語版はこちら / Japanese version](JP05_OCEAN_BREATHING_SYSTEM.md)
+
 ## Preface
 
 In Episode 4, the story introduced two speculative concepts:

@@ -1,5 +1,7 @@
 # Episode 09 — What Happened When Artificial Upwelling Was Added off Chile
 
+[日本語版はこちら / Japanese version](JP09_ARTIFICIAL_UPWELLING_OFF_CHILE.md)
+
 ## Preface
 
 In Episode 8, the debate over Blue Pulse Phase 2 continued in meeting rooms far from the sea.

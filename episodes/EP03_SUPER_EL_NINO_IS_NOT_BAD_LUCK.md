@@ -1,5 +1,7 @@
 # Episode 03 — Is a Super El Niño Really Just an Unlucky Year?
 
+[日本語版はこちら / Japanese version](JP03_SUPER_EL_NINO_IS_NOT_BAD_LUCK.md)
+
 ## Preface
 
 In Episode 2, the protagonist learned that carbon fixation systems are not limited to forests.

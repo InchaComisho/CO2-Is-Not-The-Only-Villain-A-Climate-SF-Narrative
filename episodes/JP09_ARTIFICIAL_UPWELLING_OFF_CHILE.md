@@ -1,5 +1,7 @@
 # 第9話　チリ沖の海に、人工の“湧き上がり”を足してみたら
 
+[English Version](EP09_ARTIFICIAL_UPWELLING_OFF_CHILE.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

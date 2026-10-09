@@ -1,5 +1,7 @@
 # Episode 04 — What Do You Mean CO₂ Reduction Does Not Remove Ocean Heat?
 
+[日本語版はこちら / Japanese version](JP04_CO2_REDUCTION_DOES_NOT_REMOVE_OCEAN_HEAT.md)
+
 ## Preface
 
 In Episode 3, the protagonist learned that a Super El Niño is not merely an unlucky year.

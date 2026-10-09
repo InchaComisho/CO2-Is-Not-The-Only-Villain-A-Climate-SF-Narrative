@@ -1,5 +1,7 @@
 # Episode 08 — The Meeting Room That Decides Whether to Continue Is Too Far From the Sea
 
+[日本語版はこちら / Japanese version](JP08_THE_MEETING_ROOM_TOO_FAR_FROM_THE_SEA.md)
+
 ## Preface
 
 In Episode 7, Blue Pulse Phase 1 began.

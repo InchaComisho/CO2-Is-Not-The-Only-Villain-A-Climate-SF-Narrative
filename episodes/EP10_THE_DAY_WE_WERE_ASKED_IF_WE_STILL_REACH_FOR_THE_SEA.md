@@ -1,5 +1,7 @@
 # Episode 10 — The Day We Were Asked Whether We Would Still Reach Toward the Sea
 
+[日本語版はこちら / Japanese version](JP10_THE_DAY_WE_WERE_ASKED_IF_WE_STILL_REACH_FOR_THE_SEA.md)
+
 ## Preface
 
 In Episode 9, Phase 2 moved to the Humboldt Current region off Chile, a sea directly affected by El Niño.

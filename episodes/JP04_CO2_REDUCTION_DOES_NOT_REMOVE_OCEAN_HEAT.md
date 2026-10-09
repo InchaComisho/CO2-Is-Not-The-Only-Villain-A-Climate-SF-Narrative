@@ -1,5 +1,7 @@
 # 第4話　CO₂減らしても海の熱は減らないって、どういうこと？
 
+[English Version](EP04_CO2_REDUCTION_DOES_NOT_REMOVE_OCEAN_HEAT.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

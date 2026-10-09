@@ -1,5 +1,7 @@
 # 第10話　それでも海に手を伸ばすか、と問われた日
 
+[English Version](EP10_THE_DAY_WE_WERE_ASKED_IF_WE_STILL_REACH_FOR_THE_SEA.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

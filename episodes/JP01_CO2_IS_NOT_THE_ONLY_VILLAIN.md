@@ -1,5 +1,7 @@
 # 第1話　CO₂だけ見ていた俺、AIに初手で論破される
 
+[English Version](EP01_CO2_IS_NOT_THE_ONLY_VILLAIN.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

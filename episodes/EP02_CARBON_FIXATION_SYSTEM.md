@@ -1,5 +1,7 @@
 # Episode 02 — What the Hell Is a Carbon Fixation System? The AI Drills It Into Me
 
+[日本語版はこちら / Japanese version](JP02_CARBON_FIXATION_SYSTEM.md)
+
 ## Preface
 
 In Episode 1, the protagonist learned a simple but uncomfortable idea:

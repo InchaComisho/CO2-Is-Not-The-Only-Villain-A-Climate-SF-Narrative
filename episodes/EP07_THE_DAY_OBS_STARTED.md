@@ -1,5 +1,7 @@
 # Episode 07 — The Day the First OBS Started, What Did the Sea Say?
 
+[日本語版はこちら / Japanese version](JP07_THE_DAY_OBS_STARTED.md)
+
 ## Preface
 
 In Episode 6, the fictional Blue Pulse project was formally proposed.

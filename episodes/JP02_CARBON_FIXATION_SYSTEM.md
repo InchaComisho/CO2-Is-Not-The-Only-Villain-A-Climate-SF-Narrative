@@ -1,5 +1,7 @@
 # 第2話　炭素固定システムって何だよ、って話をAIに叩き込まれる
 
+[English Version](EP02_CARBON_FIXATION_SYSTEM.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

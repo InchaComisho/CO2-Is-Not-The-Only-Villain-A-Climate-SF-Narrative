@@ -1,5 +1,7 @@
 # 第8話　「続けるか止めるか」を決める会議室は、海から遠すぎる
 
+[English Version](EP08_THE_MEETING_ROOM_TOO_FAR_FROM_THE_SEA.md)
+
 **作品名：** 俺、CO₂悪者説を信じてたら地球詰んでたんだが？  
 **作者：** マスター
 

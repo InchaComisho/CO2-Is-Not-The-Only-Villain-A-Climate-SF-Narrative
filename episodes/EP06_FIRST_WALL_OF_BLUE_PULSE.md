@@ -1,5 +1,7 @@
 # Episode 06 — The First Wall Faced by Those Who Tried to Cool the Sea
 
+[日本語版はこちら / Japanese version](JP06_FIRST_WALL_OF_BLUE_PULSE.md)
+
 ## Preface
 
 In Episode 4, the story organized three additional layers beyond CO₂ reduction:
