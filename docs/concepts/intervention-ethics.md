@@ -1,5 +1,7 @@
 # Intervention Ethics
 
+[日本語版はこちら / Japanese version](intervention-ethics_ja.md)
+
 ## Short Definition
 
 Intervention ethics in this story means the ethical tensions that arise when humans consider active intervention in Earth systems — particularly the ocean — to respond to climate change. The story does not resolve these tensions. It presents them as real, difficult, and unavoidable.

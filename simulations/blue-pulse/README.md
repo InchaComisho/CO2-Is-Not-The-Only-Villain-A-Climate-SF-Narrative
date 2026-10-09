@@ -1,5 +1,7 @@
 # Blue Pulse Conceptual Deployment Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 > **IMPORTANT DISCLAIMER**
 >
 > This is a simplified educational toy model for the fictional Blue Pulse project.

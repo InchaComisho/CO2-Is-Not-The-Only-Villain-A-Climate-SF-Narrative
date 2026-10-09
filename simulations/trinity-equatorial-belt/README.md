@@ -1,5 +1,7 @@
 # Trinity Equatorial Belt Conceptual Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 > **IMPORTANT DISCLAIMER**
 >
 > This is a simplified educational toy model for the fictional Trinity Model.

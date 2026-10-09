@@ -1,5 +1,7 @@
 # Deep Ocean Aeration
 
+[日本語版はこちら / Japanese version](deep-ocean-aeration_ja.md)
+
 ## Short Definition
 
 Deep Ocean Aeration is the broader conceptual process behind OBS in the story. It means sending air, fine bubbles, or nanobubbles into deeper water layers to assist:

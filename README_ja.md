@@ -87,20 +87,20 @@ CO₂削減は必要である。
 
 この物語で使われる元概念は、以下に整理されている。
 
-**[docs/concepts/](docs/concepts/README.md)**
+**[docs/concepts/](docs/concepts/README_ja.md)**
 
 主な概念ページ：
 
-- [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md)
-- [Trinity Model](docs/concepts/trinity-model.md)
-- [Blue Pulse](docs/concepts/blue-pulse.md)
-- [Ocean Breathing System](docs/concepts/ocean-breathing-system.md)
-- [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md)
-- [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle.md)
-- [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md)
-- [Intervention Ethics](docs/concepts/intervention-ethics.md)
-- [Artificial Wisdom](docs/concepts/artificial-wisdom.md)
-- [Natural Supplementation](docs/concepts/natural-supplementation.md)
+- [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling_ja.md)
+- [Trinity Model](docs/concepts/trinity-model_ja.md)
+- [Blue Pulse](docs/concepts/blue-pulse_ja.md)
+- [Ocean Breathing System](docs/concepts/ocean-breathing-system_ja.md)
+- [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling_ja.md)
+- [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle_ja.md)
+- [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk_ja.md)
+- [Intervention Ethics](docs/concepts/intervention-ethics_ja.md)
+- [Artificial Wisdom](docs/concepts/artificial-wisdom_ja.md)
+- [Natural Supplementation](docs/concepts/natural-supplementation_ja.md)
 
 ---
 
@@ -146,7 +146,7 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 >
 > このモデルで使われる benefit-risk balance は、物語的な説明用指標であり、物理量や直接的な費用対効果計算ではない。
 
-- [Trinity Equatorial Belt Simulation](docs/concepts/trinity-equatorial-belt-simulation.md)
+- [Trinity Equatorial Belt Simulation](docs/concepts/trinity-equatorial-belt-simulation_ja.md)
 - [Simulation Directory](simulations/trinity-equatorial-belt/)
 
 ---
@@ -159,12 +159,12 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 
 > **重要:** このシミュレーションは、物語・教育目的のトイモデルであり、実際の気候予測、工学的検証、政策提言ではない。
 
-- [Blue Pulse Simulation Model](docs/concepts/blue-pulse-simulation-model.md)
+- [Blue Pulse Simulation Model](docs/concepts/blue-pulse-simulation-model_ja.md)
 - [Simulation Directory](simulations/blue-pulse/)
 
 結果：
 
-- [Blue Pulse Simulation Results](simulations/blue-pulse/results/sample_summary.md)
+- [Blue Pulse Simulation Results](simulations/blue-pulse/results/sample_summary_ja.md)
 - [Blue Pulse Simulation CSV](simulations/blue-pulse/results/sample_results.csv)
 
 ---
@@ -187,14 +187,14 @@ Blue Pulse のみのモデルとは異なり、このシミュレーションは
 
 | 話数 | 物語テーマ | 概念ページ | 背景 |
 |---|---|---|---|
-| 1–2 | CO₂単独原因論と炭素固定システム | [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle.md), [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md) | 地球直接冷却 / 微生物 |
-| 3 | エルニーニョとスーパーエルニーニョ | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md) | エルニーニョ関連リポジトリ |
-| 4–5 | 海洋熱とOBS / 深海エアレーション | [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Deep Ocean Aeration](docs/concepts/deep-ocean-aeration.md) | Ocean Breathing / 海洋水温低下 |
-| 6–8 | Blue Pulse、統治、介入倫理 | [Blue Pulse](docs/concepts/blue-pulse.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | OBS / UMC / OTU |
-| 9 | チリ沖フェーズ2、人工湧昇、OBS + UMC実地展開 | [Blue Pulse](docs/concepts/blue-pulse.md), [Ocean Breathing System](docs/concepts/ocean-breathing-system.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md) | Ocean Breathing / Ocean Temperature Reduction / UMC |
-| 10 | Blue Pulse評価、OBS + UMCのリスク便益、介入倫理 | [Blue Pulse](docs/concepts/blue-pulse.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling.md), [Intervention Ethics](docs/concepts/intervention-ethics.md) | Ocean Breathing / UMC / OTU |
-| 11 | 地球直接冷却と三位一体モデル | [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling.md), [Trinity Model](docs/concepts/trinity-model.md), [Soil Regeneration](docs/concepts/soil-regeneration-leaf-mold-microorganisms.md) | 生態系再生 / 微生物 |
-| 12 | スーパーエルニーニョ複合リスクと最終統合 | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk.md), [Trinity Model](docs/concepts/trinity-model.md) | エルニーニョ / 地球直接冷却 |
+| 1–2 | CO₂単独原因論と炭素固定システム | [Carbon Fixation Cycle](docs/concepts/carbon-fixation-cycle_ja.md), [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling_ja.md) | 地球直接冷却 / 微生物 |
+| 3 | エルニーニョとスーパーエルニーニョ | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk_ja.md) | エルニーニョ関連リポジトリ |
+| 4–5 | 海洋熱とOBS / 深海エアレーション | [Ocean Breathing System](docs/concepts/ocean-breathing-system_ja.md), [Deep Ocean Aeration](docs/concepts/deep-ocean-aeration_ja.md) | Ocean Breathing / 海洋水温低下 |
+| 6–8 | Blue Pulse、統治、介入倫理 | [Blue Pulse](docs/concepts/blue-pulse_ja.md), [Intervention Ethics](docs/concepts/intervention-ethics_ja.md) | OBS / UMC / OTU |
+| 9 | チリ沖フェーズ2、人工湧昇、OBS + UMC実地展開 | [Blue Pulse](docs/concepts/blue-pulse_ja.md), [Ocean Breathing System](docs/concepts/ocean-breathing-system_ja.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling_ja.md) | Ocean Breathing / Ocean Temperature Reduction / UMC |
+| 10 | Blue Pulse評価、OBS + UMCのリスク便益、介入倫理 | [Blue Pulse](docs/concepts/blue-pulse_ja.md), [Ultrasonic Mist Cooling](docs/concepts/ultrasonic-mist-cooling_ja.md), [Intervention Ethics](docs/concepts/intervention-ethics_ja.md) | Ocean Breathing / UMC / OTU |
+| 11 | 地球直接冷却と三位一体モデル | [Direct Planetary Cooling](docs/concepts/direct-planetary-cooling_ja.md), [Trinity Model](docs/concepts/trinity-model_ja.md), [Soil Regeneration](docs/concepts/soil-regeneration-leaf-mold-microorganisms_ja.md) | 生態系再生 / 微生物 |
+| 12 | スーパーエルニーニョ複合リスクと最終統合 | [Super El Niño Compound Risk](docs/concepts/super-el-nino-compound-risk_ja.md), [Trinity Model](docs/concepts/trinity-model_ja.md) | エルニーニョ / 地球直接冷却 |
 
 ---
 

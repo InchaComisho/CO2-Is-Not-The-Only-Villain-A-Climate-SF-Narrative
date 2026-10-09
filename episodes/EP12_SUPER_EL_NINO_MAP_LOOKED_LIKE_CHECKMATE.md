@@ -1,5 +1,7 @@
 # Episode 12 — When I Saw the Super El Niño Map, It Looked Like Checkmate
 
+[日本語版はこちら / Japanese version](jp_EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
+
 ## Preface
 
 In Episode 11, the protagonist realized that Blue Pulse was only one part of a larger structure: the Direct Planetary Cooling model.

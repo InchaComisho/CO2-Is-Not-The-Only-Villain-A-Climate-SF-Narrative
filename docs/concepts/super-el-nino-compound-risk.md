@@ -1,5 +1,7 @@
 # Super El Niño Compound Risk
 
+[日本語版はこちら / Japanese version](super-el-nino-compound-risk_ja.md)
+
 ## Short Definition
 
 Super El Niño Compound Risk is the narrative concept that a very strong El Niño event is not simply a weather anomaly or an unlucky year. It is a stress test layered on an Earth system already weakened by accumulated heat, weakened circulation, degraded ecosystems, and reduced carbon fixation capacity. When all these conditions are present simultaneously, the compound risk is qualitatively different from any individual component.

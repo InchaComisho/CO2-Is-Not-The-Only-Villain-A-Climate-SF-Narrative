@@ -1,5 +1,7 @@
 # Artificial Wisdom as a Civilizational OS
 
+[日本語版はこちら / Japanese version](artificial-wisdom-as-civilizational-os_ja.md)
+
 ## Purpose
 
 This page expands the concept of Artificial Wisdom beyond a single AI character.

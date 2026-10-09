@@ -1,5 +1,7 @@
 # Ocean Breathing System
 
+[日本語版はこちら / Japanese version](ocean-breathing-system_ja.md)
+
 ## Short Definition
 
 Ocean Breathing System, abbreviated OBS, is the story's implementation name for ocean circulation support through deep aeration. It is described in Episode 5 as a kind of ocean CPR: not replacing the ocean's own circulation, but helping it breathe again after it has been weakened by warming.

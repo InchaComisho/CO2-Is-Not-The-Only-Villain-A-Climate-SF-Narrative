@@ -1,5 +1,7 @@
 # Trinity Equatorial Belt Simulation -- Sample Summary
 
+[日本語版はこちら / Japanese version](sample_summary_ja.md)
+
 > **IMPORTANT:** These results are outputs of a simplified educational toy model.
 > They are NOT real climate forecasts, NOT engineering validation, and NOT policy
 > recommendations. All values are illustrative scenario estimates.

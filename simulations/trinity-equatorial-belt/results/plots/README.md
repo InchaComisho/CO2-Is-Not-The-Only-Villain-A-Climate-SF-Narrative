@@ -1,5 +1,7 @@
 # Trinity Equatorial Belt Simulation -- Plots
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 > **IMPORTANT:** All plots are outputs of a simplified educational toy model.
 > They are NOT real climate forecasts. They are illustrative scenario comparisons.
 

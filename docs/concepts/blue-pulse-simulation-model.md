@@ -1,5 +1,7 @@
 # Blue Pulse Simulation Model
 
+[日本語版はこちら / Japanese version](blue-pulse-simulation-model_ja.md)
+
 > **Important:** This simulation model is a simplified educational toy model for
 > the fictional Blue Pulse project. It is not a real climate forecast, engineering
 > validation, or policy recommendation. All outputs are illustrative scenario

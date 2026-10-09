@@ -1,5 +1,7 @@
 # Blue Pulse
 
+[日本語版はこちら / Japanese version](blue-pulse_ja.md)
+
 ## Short Definition
 
 Blue Pulse is the fictional project name in the story for the ocean-side climate intervention. It combines two systems:

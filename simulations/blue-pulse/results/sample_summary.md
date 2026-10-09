@@ -1,5 +1,7 @@
 # Blue Pulse Conceptual Simulation — Sample Results
 
+[日本語版はこちら / Japanese version](sample_summary_ja.md)
+
 > **IMPORTANT:** These results are outputs of a simplified educational toy model.
 > They are NOT a real climate forecast, NOT an engineering validation, and NOT a
 > policy recommendation. All values are illustrative scenario estimates.

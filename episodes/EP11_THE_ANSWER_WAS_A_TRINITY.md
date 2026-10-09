@@ -1,5 +1,7 @@
 # Episode 11 — When I Searched for the Only Global Warming Countermeasure, the Answer Was a Trinity
 
+[日本語版はこちら / Japanese version](jp_EP11_THE_ANSWER_WAS_A_TRINITY.md)
+
 ## Preface
 
 In Episode 10, the timeline of Phase 2 off Chile moved forward.

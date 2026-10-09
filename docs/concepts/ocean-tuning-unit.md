@@ -1,5 +1,7 @@
 # Ocean Tuning Unit
 
+[日本語版はこちら / Japanese version](ocean-tuning-unit_ja.md)
+
 ## Short Definition
 
 Ocean Tuning Unit, abbreviated OTU, is the more technical infrastructure concept connected to ocean-side climate intervention. In the narrative's conceptual framework, OTU refers to the monitoring, measurement, control, and adaptive-management layer that supports OBS and UMC deployment. It is the intelligence and feedback infrastructure, not just the hardware.

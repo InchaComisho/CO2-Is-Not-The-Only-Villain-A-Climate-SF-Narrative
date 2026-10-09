@@ -1,5 +1,7 @@
 # Diverse Weeds Ecosystem Recovery
 
+[日本語版はこちら / Japanese version](diverse-weeds-ecosystem-recovery_ja.md)
+
 ## Short Definition
 
 Diverse weeds ecosystem recovery is the idea that diverse, spontaneous plant growth — commonly dismissed as "weeds" — plays a critical role in early-stage ecosystem recovery. In this framework, diverse weeds are not enemies of cultivation; they are the first healers of bare or degraded soil.

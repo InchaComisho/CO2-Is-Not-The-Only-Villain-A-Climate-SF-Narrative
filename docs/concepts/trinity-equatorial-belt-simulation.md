@@ -1,5 +1,7 @@
 # Trinity Equatorial Belt Simulation
 
+[日本語版はこちら / Japanese version](trinity-equatorial-belt-simulation_ja.md)
+
 > **Important:** This simulation model is a simplified educational toy model for
 > the fictional Trinity Model. It is not a real climate forecast, engineering
 > validation, or policy recommendation. All outputs are illustrative scenario

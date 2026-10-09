@@ -1,5 +1,7 @@
 # Soil Regeneration / Leaf Mold / Microorganisms
 
+[日本語版はこちら / Japanese version](soil-regeneration-leaf-mold-microorganisms_ja.md)
+
 ## Short Definition
 
 Soil regeneration in this story means restoring the living quality of soil through organic matter accumulation, leaf mold formation, microbial activity, fungal networks, and soil biological processes. Healthy soil is presented not just as a growing medium, but as a carbon sink, a water reservoir, and a living circulation system in itself.

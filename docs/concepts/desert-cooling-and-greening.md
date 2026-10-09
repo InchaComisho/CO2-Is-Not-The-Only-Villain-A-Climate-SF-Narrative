@@ -1,5 +1,7 @@
 # Desert Cooling and Greening
 
+[日本語版はこちら / Japanese version](desert-cooling-and-greening_ja.md)
+
 ## Short Definition
 
 Desert Cooling and Greening is the land-based application of the mist cooling and soil regeneration concepts. It is not simply planting trees in desert areas. It is a staged process that must begin with cooling and water retention before biological life can establish itself.

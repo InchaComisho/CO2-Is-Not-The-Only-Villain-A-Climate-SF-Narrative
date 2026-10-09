@@ -1,5 +1,7 @@
 # Blue Pulse Simulation Plots
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 > **IMPORTANT:** These plots are outputs of a simplified educational toy model.
 > They are NOT real climate forecasts. They are illustrative scenario comparisons
 > for the fictional Blue Pulse project.

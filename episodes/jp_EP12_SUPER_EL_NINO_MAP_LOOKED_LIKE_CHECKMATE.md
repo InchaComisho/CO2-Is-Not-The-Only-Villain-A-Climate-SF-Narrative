@@ -1,5 +1,7 @@
 # 第12話　スーパーエルニーニョの地図を見た俺、これ詰んでないかと思う
 
+[English Version](EP12_SUPER_EL_NINO_MAP_LOOKED_LIKE_CHECKMATE.md)
+
 ## 前書き
 
 第11話では、主人公が検索結果をきっかけに、Blue Pulseよりもさらに大きな構造――地球直接冷却モデルに気づいていきました。

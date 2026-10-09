@@ -1,5 +1,7 @@
 # Natural Supplementation
 
+[日本語版はこちら / Japanese version](natural-supplementation_ja.md)
+
 ## Short Definition
 
 Natural Supplementation means assisting damaged natural circulation systems rather than dominating nature from outside. It is the philosophical stance that underlies all the interventions in the story: the goal is not to replace nature, but to help what has been weakened find its way back to function.

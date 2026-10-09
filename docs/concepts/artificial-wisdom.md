@@ -1,5 +1,7 @@
 # Artificial Wisdom
 
+[日本語版はこちら / Japanese version](artificial-wisdom_ja.md)
+
 ## Short Definition
 
 Artificial Wisdom is the concept that AI should not merely process information or retrieve facts, but actively help expand human thinking — supporting long-term reasoning, accepting uncertainty without hiding it, and co-creating better questions rather than just providing answers.

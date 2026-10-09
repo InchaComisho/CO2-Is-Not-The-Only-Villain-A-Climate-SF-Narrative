@@ -1,5 +1,7 @@
 # Trinity Model
 
+[日本語版はこちら / Japanese version](trinity-model_ja.md)
+
 ## Short Definition
 
 The Trinity Model is the core realization of Episode 11: global warming cannot be addressed by any single measure. Three layers must move together for Earth's cooling capacity and carbon-fixation cycle to recover.

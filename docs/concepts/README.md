@@ -1,5 +1,7 @@
 # Concept Index
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory defines the original and narrative-specific concepts used in the story *"If I Had Believed CO₂ Was the Only Villain, Earth Would Have Been Checkmated."*
 
 These concepts are part of Master / InchaComisho's conceptual framework and are presented here as educational and narrative background, not as official scientific claims. None of the pages in this directory should be read as scientific proof, engineering specification, or policy recommendation.

@@ -1,5 +1,7 @@
 # Carbon Fixation Cycle
 
+[日本語版はこちら / Japanese version](carbon-fixation-cycle_ja.md)
+
 ## Short Definition
 
 The carbon fixation cycle in this story means the ensemble of living systems that absorb, store, circulate, and stabilize carbon. It includes:

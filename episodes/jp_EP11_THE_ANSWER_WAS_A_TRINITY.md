@@ -1,5 +1,7 @@
 # 第11話　温暖化対策を検索したら、答えが“三位一体”だったんだが？
 
+[English Version](EP11_THE_ANSWER_WAS_A_TRINITY.md)
+
 ## 前書き
 
 第10話では、

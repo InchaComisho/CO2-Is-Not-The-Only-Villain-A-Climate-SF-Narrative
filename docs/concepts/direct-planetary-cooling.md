@@ -1,5 +1,7 @@
 # Direct Planetary Cooling
 
+[日本語版はこちら / Japanese version](direct-planetary-cooling_ja.md)
+
 ## Short Definition
 
 Direct Planetary Cooling is the overarching conceptual framework in the story. It refers to restoring Earth's natural cooling capacity and carbon-fixation circulation — not controlling the planet like a machine, but helping the damaged systems that once managed heat and carbon to function again.
