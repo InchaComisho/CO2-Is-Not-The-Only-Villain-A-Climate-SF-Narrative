@@ -258,10 +258,10 @@
 
 ## 関連項目
 
-- [三位一体の赤道帯シミュレーションの文書](../../docs/concepts/trinity-equatorial-belt-simulation.md)
-- [三位一体モデルの概念](../../docs/concepts/trinity-model.md)
-- [Blue Pulseシミュレーション](../blue-pulse/results/sample_summary.md)
-- [介入の倫理](../../docs/concepts/intervention-ethics.md)
+- [三位一体の赤道帯シミュレーションの文書](../../../docs/concepts/trinity-equatorial-belt-simulation_ja.md)
+- [三位一体モデルの概念](../../../docs/concepts/trinity-model_ja.md)
+- [Blue Pulseシミュレーション](../../blue-pulse/results/sample_summary_ja.md)
+- [介入の倫理](../../../docs/concepts/intervention-ethics_ja.md)
 
 ---
 

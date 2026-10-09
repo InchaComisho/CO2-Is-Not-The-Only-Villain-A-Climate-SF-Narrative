@@ -24,8 +24,8 @@
 
 ## 関連項目
 
-- [シミュレーションのREADME](../README.md)
-- [三位一体の赤道帯シミュレーションの文書](../../../docs/concepts/trinity-equatorial-belt-simulation.md)
+- [シミュレーションのREADME](../../README_ja.md)
+- [三位一体の赤道帯シミュレーションの文書](../../../../docs/concepts/trinity-equatorial-belt-simulation_ja.md)
 
 ---
 

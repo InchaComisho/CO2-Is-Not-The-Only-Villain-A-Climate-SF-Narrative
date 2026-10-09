@@ -133,11 +133,11 @@
 
 ## 関連項目
 
-- [Blue Pulseの概念ページ](../../docs/concepts/blue-pulse.md)
-- [Blue Pulseシミュレーションモデルの文書](../../docs/concepts/blue-pulse-simulation-model.md)
-- [海洋呼吸システム](../../docs/concepts/ocean-breathing-system.md)
-- [超音波ミスト冷却](../../docs/concepts/ultrasonic-mist-cooling.md)
-- [介入の倫理](../../docs/concepts/intervention-ethics.md)
+- [Blue Pulseの概念ページ](../../../docs/concepts/blue-pulse_ja.md)
+- [Blue Pulseシミュレーションモデルの文書](../../../docs/concepts/blue-pulse-simulation-model_ja.md)
+- [海洋呼吸システム](../../../docs/concepts/ocean-breathing-system_ja.md)
+- [超音波ミスト冷却](../../../docs/concepts/ultrasonic-mist-cooling_ja.md)
+- [介入の倫理](../../../docs/concepts/intervention-ethics_ja.md)
 
 ---
 

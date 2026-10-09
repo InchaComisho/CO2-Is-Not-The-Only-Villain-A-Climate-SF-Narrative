@@ -23,8 +23,8 @@
 
 ## 関連項目
 
-- [シミュレーションのREADME](../README.md)
-- [Blue Pulseシミュレーションモデル](../../../docs/concepts/blue-pulse-simulation-model.md)
+- [シミュレーションのREADME](../../README_ja.md)
+- [Blue Pulseシミュレーションモデル](../../../../docs/concepts/blue-pulse-simulation-model_ja.md)
 
 ---
 
